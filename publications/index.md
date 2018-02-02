@@ -29,7 +29,8 @@ comments: false
 
 ## 2014
 
-* *Combination Feature for Image Retrieval in the Distributed Datacenter*,  Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, **Shan Jiang**. [ICPADS 2014] [\[PDF\]](icpads14_paper.pdf){:target="_blank"} [\[BibTex\]](icpads14_bib.txt){:target="_blank"}
+* *Combination Feature for Image Retrieval in the Distributed Datacenter*,  
+Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, **Shan Jiang**. [ICPADS 2014] [\[PDF\]](icpads14_paper.pdf){:target="_blank"} [\[BibTex\]](icpads14_bib.txt){:target="_blank"}
 
 
 

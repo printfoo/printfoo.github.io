@@ -3,6 +3,7 @@
 	author={Jiang, Shan and Gong, Jun and Wang, Jingyu and Liao, Jianxin and Li, Tonghong},
 	booktitle={Global Communications Conference (GLOBECOM), 2015 IEEE},
 	pages={1--7},
+	month={December},
 	year={2015},
 	organization={IEEE}
 }

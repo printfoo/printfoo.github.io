@@ -11,11 +11,11 @@ comments: false
 
 ## 2018
 
-* *On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi*, **Shan Jiang**, Le Chen, Alan Mislove and Christo Wilson. [WWW 2018] [\[PDF\]](www18_paper.pdf){:target="_blank"} [\[BibTex\]](www18_bib.txt){:target="_blank"}
+* *On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi*, **Shan Jiang**, Le Chen, Alan Mislove, and Christo Wilson. [WWW 2018] [\[PDF\]](www18_paper.pdf){:target="_blank"} [\[BibTex\]](www18_bib.txt){:target="_blank"}
 
 ## 2017
 
-* *TNCs Today: A Profile of San Francisco Transportation Network Company Activity*, Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen and **Shan Jiang**. [SFCTA Report] [\[PDF\]](sfcta_report.pdf){:target="_blank"} [\[BibTex\]](sfcta_bib.txt){:target="_blank"}
+* *TNCs Today: A Profile of San Francisco Transportation Network Company Activity*, Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and **Shan Jiang**. [SFCTA 2017] [\[PDF\]](sfcta17_paper.pdf){:target="_blank"} [\[BibTex\]](sfcta17_bib.txt){:target="_blank"}
 
 ## 2016
 
@@ -29,7 +29,7 @@ comments: false
 
 ## 2014
 
-* *Combination Feature for Image Retrieval in the Distributed Datacenter*, \nDi Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, **Shan Jiang**. [ICPADS 2014] [\[PDF\]](icpads14_paper.pdf){:target="_blank"} [\[BibTex\]](icpads14_bib.txt){:target="_blank"}
+* *Combination Feature for Image Retrieval in the Distributed Datacenter*, Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, **Shan Jiang**. [ICPADS 2014] [\[PDF\]](icpads14_paper.pdf){:target="_blank"} [\[BibTex\]](icpads14_bib.txt){:target="_blank"}
 
 
 

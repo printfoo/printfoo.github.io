@@ -1,5 +1,5 @@
 @article{liao2016conflicts,
-  title={Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism.},
+  title={Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism},
   author={Liao, Jianxin and Gong, Jun and Jiang, Shan and Li, Tonghong and Wang, Jingyu},
   journal={KSII Transactions on Internet \& Information Systems},
   volume={10},

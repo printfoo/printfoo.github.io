@@ -1,13 +1,13 @@
 # site navigation links
 
 - title: About
-  url: /"/"/
+  url: /
 
 - title: Publications
   url: /publications/
 
 - title: CV
-  url: /shan-cv.pdf/
+  url: /shan-cv.pdf
 
 # - title: Teaching
 # url: /teaching/

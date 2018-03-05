@@ -12,7 +12,7 @@ comments: false
 ## 2018
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
-Shan Jiang, Le Chen, Alan Mislove, Christo Wilson  
+[Shan Jiang](), Le Chen, Alan Mislove, Christo Wilson  
 In *Proceedings of the 27th International Web Conference (WWW’18)*, Lyon, France, April 2018  
 [\[PDF\]](www18_paper.pdf){:target="_blank"} [\[BibTex\]](www18_bib.txt){:target="_blank"}
 

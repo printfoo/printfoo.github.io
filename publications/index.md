@@ -12,7 +12,7 @@ comments: false
 ## 2018
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
-Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  
+<span style="color:blue">Shan Jiang</span>, Le Chen, Alan Mislove, and Christo Wilson  
 In *Proceedings of the 27th International Web Conference (WWW’18)*, Lyon, France, April 2018  
 [\[PDF\]](www18_paper.pdf){:target="_blank"} [\[BibTex\]](www18_bib.txt){:target="_blank"}
 
@@ -21,7 +21,7 @@ In *Proceedings of the 27th International Web Conference (WWW’18)*, Lyon, Fran
 * **TNCs Today: A Profile of San Francisco Transportation Network Company Activity**  
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and Shan Jiang  
 *San Francisco County Transportation Authority*, June 2017  
-[\[PDF\]](sfcta17_paper.pdf){:target="_blank"} [\[BibTex\]](sfcta17_bib.txt){:target="_blank"}
+[\[PDF\]](sfcta17_paper.pdf){:target="_blank"} [\[BibTex\]](sfcta17_bib.txt){:target="_blank"} [\[Slides\]](sfcta17_slides.pdf){:target="_blank"} [\[Visualization\]](http://tncstoday.sfcta.org){:target="_blank"}
 
 ## 2016
 

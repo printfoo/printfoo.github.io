@@ -2,7 +2,7 @@
 
 title: Shan Jiang           
 locale: en_US
-url: https://shanjiang.me
+url: https://www.shanjiang.me
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.

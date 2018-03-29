@@ -7,7 +7,7 @@ share: false
 comment: false
 ---
 
-Hello! I’m Shan Jiang, a second-year Ph.D. student at [College of Computer and Information Science](https://www.ccis.northeastern.edu){:target="_blank”}, [Northeastern University](http://www.northeastern.edu){:target="_blank”}, Boston. I’m advised by two **amazing** professors, [Christo Wilson](https://cbw.sh){:target="_blank"} and [Alan Mislove](https://mislove.org){:target="_blank"}.
+Hello! I’m Shan Jiang, a 2nd-year Ph.D. student at [College of Computer and Information Science](https://www.ccis.northeastern.edu){:target="_blank”}, [Northeastern University](http://www.northeastern.edu){:target="_blank”}, Boston. I’m advised by an **amazing** professor [Christo Wilson](https://cbw.sh){:target="_blank"}.
 
 I’m interested in developing algorithmic methods to audit online platforms. Currently, I’m exploring how misinformation (rumor, “fake news”, etc.) and fact-checking affect people on social media sites (Facebook, Twitter, Youtube, etc.). Previously, I studied [Google’s search results on hyperpartisan news sites](), and [the accessibility of Uber, Lyft and taxi services](). Broadly speaking, I work around Social Computing and Computational Social Science.
 

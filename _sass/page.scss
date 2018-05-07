@@ -631,7 +631,6 @@ $button-size: 1.5rem;
 
 /* Footer wrapper */
 .footer-wrap {
-    color: $footercolor;
 	@include container;
 	@include clearfix;
 	clear: both;
@@ -647,6 +646,7 @@ $button-size: 1.5rem;
 		@include font-rem(14);
 	}
 	footer {
+        color: $footercolor;
 		@include grid(12,10);
 		@include prefix(12,1);
 		@include suffix(12,1);

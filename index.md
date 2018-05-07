@@ -7,7 +7,7 @@ share: false
 comment: false
 ---
 
-Hello! I’m a 3rd-year Ph.D. student at [College of Computer and Information Science](https://www.ccis.northeastern.edu){:target="_blank”}, [Northeastern University](http://www.northeastern.edu){:target="_blank”}, Boston. I’m very lucky to be advised by an **amazing** professor [Christo Wilson](https://cbw.sh){:target="_blank"}.
+Hello! I’m a 3rd-year Ph.D. student at [College of Computer and Information Science](https://www.ccis.northeastern.edu){:target="_blank”}, [Northeastern University](http://www.northeastern.edu){:target="_blank”}, Boston, MA. I’m very lucky to be advised by an **amazing** professor [Christo Wilson](https://cbw.sh){:target="_blank"}.
 
 My research interests broadly lie in the intersection between internet/web and human/society. Currently, I’m exploring how misinformation (rumor, “fake news”, etc.) and fact-checking affect people on social media sites (Facebook, Twitter, Youtube, etc.). Previously, I studied [Google’s search results on hyperpartisan news sites](), and [accessibility of Uber, Lyft and taxi services]().
 

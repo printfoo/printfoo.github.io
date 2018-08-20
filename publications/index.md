@@ -11,6 +11,16 @@ comments: false
 
 ## 2018
 
+* **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**
+Shan Jiang, Christo Wilson
+*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018 [AR=25.6%]
+[\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
+
+* **Auditing Partisan Audience Bias within Google Search**
+Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, Christo Wilson
+*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018 [AR=25.6%]
+[\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
+
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, Christo Wilson  
 In *Proceedings of the 27th International Web Conference (**WWW 2018**)*, Lyon, France, April 2018 [AR=14.8%]  
@@ -23,14 +33,12 @@ Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young
 *San Francisco County Transportation Authority Report (**SFCTA Report**)*, June 2017  
 [\[PDF\]](sfcta17_paper.pdf){:target="_blank"} [\[BibTex\]](sfcta17_bib.txt){:target="_blank"} [\[Slides\]](sfcta17_slides.pdf){:target="_blank"} [\[Visualization\]](http://tncstoday.sfcta.org){:target="_blank"}
 
-## 2016
+## 2016 and before
 
 * **Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism**  
 Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, Jingyu Wang  
 *KSII Transactions on Internet and Information Systems (**TIIS**)*, 10(5), May, 2016  
 [\[PDF\]](tiis16_paper.pdf){:target="_blank"} [\[BibTex\]](tiis16_bib.txt){:target="_blank"}
-
-## 2015
 
 * **Interactions among Overlays and Traffic Engineering: Equilibrium and Cooperation without Payment**  
 Shan Jiang, Jun Gong, Jingyu Wang, Jianxin Liao, Tonghong Li  
@@ -41,8 +49,6 @@ In *Proceedings of the 2015 IEEE 58th Global Communications Conference (**GLOBEC
 Shan Jiang, Jianxin Liao, Jun Gong, Jingyu Wang, Tonghong Li  
 In *Proceedings of the 2015 IEEE 40th Conference on Local Computer Networks (**LCN 2015**)*, Clearwater Beach, Florida, USA, October, 2015 [AR=30.3%]  
 [\[PDF\]](lcn15_paper.pdf){:target="_blank"} [\[BibTex\]](lcn15_bib.txt){:target="_blank"}
-
-## 2014
 
 * **Combination Feature for Image Retrieval in the Distributed Datacenter**   
 Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, Shan Jiang  

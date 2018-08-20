@@ -11,14 +11,14 @@ comments: false
 
 ## 2018
 
-* **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**
-Shan Jiang, Christo Wilson
-*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018 [AR=25.6%]
+* **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
+Shan Jiang, Christo Wilson  
+*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018 [AR=25.6%]  
 [\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
 
-* **Auditing Partisan Audience Bias within Google Search**
-Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, Christo Wilson
-*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018 [AR=25.6%]
+* **Auditing Partisan Audience Bias within Google Search**  
+Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, Christo Wilson  
+*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018 [AR=25.6%]  
 [\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  

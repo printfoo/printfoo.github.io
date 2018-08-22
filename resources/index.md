@@ -19,18 +19,18 @@ comments: false
 [\[Download\]](factchecks.csv){:target="_blank"}
 
 * **User Comments**: A dataset of 2.6M+ user comments on social media for above posts.  
-[\[Facebook\]](comments/facebook.bz2){:target="_blank"}  [\[Twitter\]](comments/twitter.bz2){:target="_blank"}  [\[YouTube\]](comments/youtube.bz2){:target="_blank"}
+[\[Facebook\]](comments/facebook.bz2){:target="_blank"} [\[Twitter\]](comments/twitter.bz2){:target="_blank"} [\[YouTube\]](comments/youtube.bz2){:target="_blank"}
 
 ## Partisan Bias
 
 * **PolarShare**: Visualization of media bias by polarized sharing on Twitter.  
 Available at: [https://polarshare.shanjiang.me](https://polarshare.shanjiang.me){:target="_blank"}
 
-* The complete dataset for 10K+ websites is available upon requests.
+* **Data**: The complete dataset for 10K+ websites is available upon requests.
 
 ## Ridesharing
 
 * **TNCsToday**: Visualization of Uber and Lyft drivers in San Francisco.  
 Available at: [https://tncstoday.sfcta.org](https://tncstoday.sfcta.org){:target="_blank"}
 
-* Unfortunately, due to Uber's and Lyft's Terms of Service, we cannot make the data from the study publicly available.
+* **Data**: Unfortunately, due to Uber's and Lyft's Terms of Service, we cannot make the data from the study publicly available.

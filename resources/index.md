@@ -13,14 +13,16 @@ comments: false
 
 * **ComLex**: [\[Download\]](ComLex.csv){:target="_blank"}
 
-* **Fact-Check**: [\[Download\]](factchecks.csv){:target="_blank"}
+* **Fact-Checked Posts**: [\[Download\]](factchecks.csv){:target="_blank"}
 
 * **User Comments**: [\[Download\]](comments){:target="_blank"}
 
-## Partisan
+## Partisan Bias
 
-* PolarShare: https://polarshare.shanjiang.me
+* **PolarShare**: Visualization of media bias by polarized sharing on Twitter.  
+Available at: https://polarshare.shanjiang.me(https://polarshare.shanjiang.me){:target="_blank"}
 
 ## Ridesharing
 
-* TNCsToday: http://tncstoday.sfcta.org
+* **TNCsToday**: Visualization of Uber and Lyft drivers in San Francisco.
+Available at: http://tncstoday.sfcta.org(http://tncstoday.sfcta.org){:target="_blank"}

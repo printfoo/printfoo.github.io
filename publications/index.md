@@ -13,12 +13,12 @@ comments: false
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, Christo Wilson  
-*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018  
+*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, Jersey City, NJ, USA, November 2018  
 [\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, Christo Wilson  
-*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018  
+*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, Jersey City, NJ, USA, November 2018  
 [\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
@@ -47,7 +47,7 @@ In *Proceedings of the 2015 IEEE 58th Global Communications Conference (**GLOBEC
 
 * **Competitive Equilibrium and Stable Coalition in Overlay Environments**  
 Shan Jiang, Jianxin Liao, Jun Gong, Jingyu Wang, Tonghong Li  
-In *Proceedings of the 2015 IEEE 40th Conference on Local Computer Networks (**LCN 2015**)*, Clearwater Beach, Florida, USA, October, 2015  
+In *Proceedings of the 2015 IEEE 40th Conference on Local Computer Networks (**LCN 2015**)*, Clearwater Beach, FL, USA, October, 2015  
 [\[PDF\]](lcn15_paper.pdf){:target="_blank"} [\[BibTex\]](lcn15_bib.txt){:target="_blank"}
 
 * **Combination Feature for Image Retrieval in the Distributed Datacenter**   

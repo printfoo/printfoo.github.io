@@ -13,17 +13,17 @@ comments: false
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, Christo Wilson  
-*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018 [AR=25.6%]  
+*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018  
 [\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, Christo Wilson  
-*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018 [AR=25.6%]  
+*Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, New Jersey, USA, November 2018  
 [\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, Christo Wilson  
-In *Proceedings of the 27th International Web Conference (**WWW 2018**)*, Lyon, France, April 2018 [AR=14.8%]  
+In *Proceedings of the 27th International Web Conference (**WWW 2018**)*, Lyon, France, April 2018  
 [\[PDF\]](www18_paper.pdf){:target="_blank"} [\[BibTex\]](www18_bib.txt){:target="_blank"} [\[Slides\]](www18_slides.pdf){:target="_blank"}
 
 ## 2017
@@ -42,15 +42,15 @@ Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, Jingyu Wang
 
 * **Interactions among Overlays and Traffic Engineering: Equilibrium and Cooperation without Payment**  
 Shan Jiang, Jun Gong, Jingyu Wang, Jianxin Liao, Tonghong Li  
-In *Proceedings of the 2015 IEEE 58th Global Communications Conference (**GLOBECOM 2015**)*, San Diego, CA, USA, December, 2015 [AR=35.0%]  
+In *Proceedings of the 2015 IEEE 58th Global Communications Conference (**GLOBECOM 2015**)*, San Diego, CA, USA, December, 2015  
 [\[PDF\]](globecom15_paper.pdf){:target="_blank"} [\[BibTex\]](globecom15_bib.txt){:target="_blank"}
 
 * **Competitive Equilibrium and Stable Coalition in Overlay Environments**  
 Shan Jiang, Jianxin Liao, Jun Gong, Jingyu Wang, Tonghong Li  
-In *Proceedings of the 2015 IEEE 40th Conference on Local Computer Networks (**LCN 2015**)*, Clearwater Beach, Florida, USA, October, 2015 [AR=30.3%]  
+In *Proceedings of the 2015 IEEE 40th Conference on Local Computer Networks (**LCN 2015**)*, Clearwater Beach, Florida, USA, October, 2015  
 [\[PDF\]](lcn15_paper.pdf){:target="_blank"} [\[BibTex\]](lcn15_bib.txt){:target="_blank"}
 
 * **Combination Feature for Image Retrieval in the Distributed Datacenter**   
 Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, Shan Jiang  
-In *Proceedings of the 2014 IEEE 20th International Conference on Parallel and Distributed Systems (**ICPADS 2014**)*, Hsinchu, Taiwan, December, 2014 [AR=29.8%]  
+In *Proceedings of the 2014 IEEE 20th International Conference on Parallel and Distributed Systems (**ICPADS 2014**)*, Hsinchu, Taiwan, December, 2014  
 [\[PDF\]](icpads14_paper.pdf){:target="_blank"} [\[BibTex\]](icpads14_bib.txt){:target="_blank"}

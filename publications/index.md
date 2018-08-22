@@ -14,12 +14,12 @@ comments: false
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, Jersey City, NJ, USA, November 2018  
-[\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
+[\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"} [\[Data\]](resources/#misinformation){:target="_blank"}
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, Jersey City, NJ, USA, November 2018  
-[\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"}
+[\[PDF\]](){:target="_blank"} [\[BibTex\]](){:target="_blank"} [\[Data\]](resources/#partisan-bias){:target="_blank"}
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, Christo Wilson  
@@ -31,7 +31,7 @@ In *Proceedings of the 27th International Web Conference (**WWW 2018**)*, Lyon, 
 * **TNCs Today: A Profile of San Francisco Transportation Network Company Activity**  
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, Shan Jiang  
 *San Francisco County Transportation Authority Report (**SFCTA Report**)*, June 2017  
-[\[PDF\]](sfcta17_paper.pdf){:target="_blank"} [\[BibTex\]](sfcta17_bib.txt){:target="_blank"} [\[Slides\]](sfcta17_slides.pdf){:target="_blank"} [\[Visualization\]](http://tncstoday.sfcta.org){:target="_blank"}
+[\[PDF\]](sfcta17_paper.pdf){:target="_blank"} [\[BibTex\]](sfcta17_bib.txt){:target="_blank"} [\[Slides\]](sfcta17_slides.pdf){:target="_blank"} [\[Visualization\]](https://tncstoday.sfcta.org){:target="_blank"}
 
 ## 2016 and before
 

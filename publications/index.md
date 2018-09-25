@@ -19,7 +19,7 @@ Shan Jiang, Christo Wilson
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**CSCW 2018**)*, Jersey City, NJ, USA, November 2018  
-[\[PDF\]](cscw18b_paper.pdf){:target="_blank"} [\[Supplementary\]](cscw18b_supplementary.pdf){:target="_blank"} [\[BibTex\]](cscw18b_bib.pdf){:target="_blank"} [\[Data\]](../resources/#partisan-bias){:target="_blank"}
+[\[PDF\]](cscw18b_paper.pdf){:target="_blank"} [\[BibTex\]](cscw18b_bib.pdf){:target="_blank"} [\[Supplementary\]](cscw18b_supplementary.pdf){:target="_blank"} [\[Data\]](../resources/#partisan-bias){:target="_blank"}
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, Christo Wilson  

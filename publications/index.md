@@ -32,8 +32,8 @@ Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
-Working paper. Available at *SSRN*: [https://ssrn.com/abstract=3261811](https://ssrn.com/abstract=3261811){:target="_blank"}, Oct 2018  
-[PDF](ssrn18_paper.pdf){:target="_blank"} | [BibTex](ssrn18_bib.txt){:target="_blank"}
+Working paper, available at *SSRN*, Oct 2018  
+[PDF](ssrn18_paper.pdf){:target="_blank"} | [BibTex](ssrn18_bib.txt){:target="_blank"} | [Link](https://ssrn.com/abstract=3261811){:target="_blank"}  
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  

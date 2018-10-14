@@ -28,7 +28,7 @@ Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-[\[PDF\]](cscw18b_paper.pdf){:target="_blank"} [\[BibTex\]](cscw18b_bib.txt){:target="_blank"} [\[Supplementary\]](cscw18b_supplementary.pdf){:target="_blank"} [\[Data\]](../resources/#partisan-bias){:target="_blank"} <span style="background-color:#556B2F;color:#FFFFFF;font-size:smaller;font-weight:bold">&nbsp Honorable Mention &nbsp</span>
+[\[PDF\]](cscw18b_paper.pdf){:target="_blank"} [\[BibTex\]](cscw18b_bib.txt){:target="_blank"} [\[Supplementary\]](cscw18b_supplementary.pdf){:target="_blank"} [\[Data\]](../resources/#partisan-bias){:target="_blank"} <span style="background-color:#556B2F;color:#FFFFFF;font-size:smaller;font-weight:bold">&nbsp; Honorable Mention &nbsp;</span>
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  

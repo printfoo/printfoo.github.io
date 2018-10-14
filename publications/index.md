@@ -14,7 +14,7 @@ comments: false
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
-[Available soon] [BibTex](fat19_bib.txt){:target="_blank"}
+Available soon | [BibTex](fat19_bib.txt){:target="_blank"}
 
 ## 2018
 
@@ -22,7 +22,7 @@ In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Tran
 Shan Jiang, and Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-[\[PDF\]](cscw18a_paper.pdf){:target="_blank"} [\[BibTex\]](cscw18a_bib.txt){:target="_blank"} [\[Data\]](../resources/#misinformation){:target="_blank"}
+[PDF](cscw18a_paper.pdf){:target="_blank"} | [BibTex](cscw18a_bib.txt){:target="_blank"} | [Data](../resources/#misinformation){:target="_blank"}
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  

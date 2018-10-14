@@ -14,7 +14,7 @@ comments: false
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
-[Available Soon](){} | [BibTex](fat19_bib.txt){:target="_blank"}
+[Available Soon]() | [BibTex](fat19_bib.txt){:target="_blank"}
 
 ## 2018
 
@@ -28,7 +28,7 @@ Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-[PDF](cscw18b_paper.pdf){:target="_blank"} | [BibTex](cscw18b_bib.txt){:target="_blank"} | [Supplementary](cscw18b_supplementary.pdf){:target="_blank"} | [Data](../resources/#partisan-bias){:target="_blank"} | [**Honorable Mention**](){}  
+[PDF](cscw18b_paper.pdf){:target="_blank"} | [BibTex](cscw18b_bib.txt){:target="_blank"} | [Supplementary](cscw18b_supplementary.pdf){:target="_blank"} | [Data](../resources/#partisan-bias){:target="_blank"} | [**Honorable Mention**]()  
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  

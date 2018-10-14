@@ -22,13 +22,13 @@ Available Soon | [BibTex](fat19_bib.txt){:target="_blank"} | Acceptance Rate: 39
 Shan Jiang, and Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-[PDF](cscw18a_paper.pdf){:target="_blank"} | [BibTex](cscw18a_bib.txt){:target="_blank"} | [Data](../resources/#misinformation){:target="_blank"}
+[PDF](cscw18a_paper.pdf){:target="_blank"} | [BibTex](cscw18a_bib.txt){:target="_blank"} | [Blog](https://medium.com/@shan.sam.jiang/people-get-touchy-about-misinformation-and-about-the-truth-too-9930563d96d8){:target="_blank"} | [Data](../resources/#misinformation){:target="_blank"} | Acceptance Rate: 185/722=25.6%
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-[PDF](cscw18b_paper.pdf){:target="_blank"} | [BibTex](cscw18b_bib.txt){:target="_blank"} | [Supplementary](cscw18b_supplementary.pdf){:target="_blank"} | [Data](../resources/#partisan-bias){:target="_blank"} | [**Honorable Mention**]()  
+[PDF](cscw18b_paper.pdf){:target="_blank"} | [BibTex](cscw18b_bib.txt){:target="_blank"} | [Supplementary](cscw18b_supplementary.pdf){:target="_blank"} | [Data](../resources/#partisan-bias){:target="_blank"} | **Honorable Mention: 30/1106=2.7%** 
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
@@ -38,7 +38,7 @@ Working paper, available at *SSRN*, Oct 2018
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  
 In *Proceedings of the 27th International Web Conference (**WWW 2018**)*, Lyon, France, Apr 2018  
-[PDF](www18_paper.pdf){:target="_blank"} | [BibTex](www18_bib.txt){:target="_blank"} | [Slides](www18_slides.pdf){:target="_blank"}
+[PDF](www18_paper.pdf){:target="_blank"} | [BibTex](www18_bib.txt){:target="_blank"} | [Slides](www18_slides.pdf){:target="_blank"} | Acceptance Rate: 171/1155=14.8%
 
 ## 2017
 
@@ -57,14 +57,14 @@ Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, and Jingyu Wang
 * **Interactions among Overlays and Traffic Engineering: Equilibrium and Cooperation without Payment**  
 Shan Jiang, Jun Gong, Jingyu Wang, Jianxin Liao, and Tonghong Li  
 In *Proceedings of the 2015 IEEE 58th Global Communications Conference (**GLOBECOM 2015**)*, San Diego, CA, USA, Dec 2015  
-[PDF](globecom15_paper.pdf){:target="_blank"} | [BibTex](globecom15_bib.txt){:target="_blank"}
+[PDF](globecom15_paper.pdf){:target="_blank"} | [BibTex](globecom15_bib.txt){:target="_blank"} | Acceptance Rate: 915/2614=35.0%
 
 * **Competitive Equilibrium and Stable Coalition in Overlay Environments**  
 Shan Jiang, Jianxin Liao, Jun Gong, Jingyu Wang, and Tonghong Li  
 In *Proceedings of the 2015 IEEE 40th Conference on Local Computer Networks (**LCN 2015**)*, Clearwater Beach, FL, USA, Oct 2015  
-[PDF](lcn15_paper.pdf){:target="_blank"} | [BibTex](lcn15_bib.txt){:target="_blank"}
+[PDF](lcn15_paper.pdf){:target="_blank"} | [BibTex](lcn15_bib.txt){:target="_blank"} | Acceptance Rate: 44/145=30.3%
 
 * **Combination Feature for Image Retrieval in the Distributed Datacenter**   
 Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang  
 In *Proceedings of the 2014 IEEE 20th International Conference on Parallel and Distributed Systems (**ICPADS 2014**)*, Hsinchu, Taiwan, Dec 2014  
-[PDF](icpads14_paper.pdf){:target="_blank"} | [BibTex](icpads14_bib.txt){:target="_blank"}
+[PDF](icpads14_paper.pdf){:target="_blank"} | [BibTex](icpads14_bib.txt){:target="_blank"} | Acceptance Rate: 96/322=29.8%

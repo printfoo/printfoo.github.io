@@ -28,11 +28,11 @@ Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-[\[PDF\]](cscw18b_paper.pdf){:target="_blank"} [\[BibTex\]](cscw18b_bib.txt){:target="_blank"} [\[Supplementary\]](cscw18b_supplementary.pdf){:target="_blank"} [\[Data\]](../resources/#partisan-bias){:target="_blank"} [<span style="color:#556B2F">**Honorable Mention**</span>]
+[\[PDF\]](cscw18b_paper.pdf){:target="_blank"} [\[BibTex\]](cscw18b_bib.txt){:target="_blank"} [\[Supplementary\]](cscw18b_supplementary.pdf){:target="_blank"} [\[Data\]](../resources/#partisan-bias){:target="_blank"} [<span style="background-color:#556B2F;color:#FFFFFF">**Honorable Mention**</span>]
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
-Working paper. Available at *[SSRN](https://ssrn.com/abstract=3261811){:target="_blank"}*, Oct 2018  
+Working paper. Available at *SSRN*: [https://ssrn.com/abstract=3261811](https://ssrn.com/abstract=3261811){:target="_blank"}, Oct 2018  
 [\[PDF\]](ssrn18_paper.pdf){:target="_blank"} [\[BibTex\]](ssrn18_bib.txt){:target="_blank"}
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  

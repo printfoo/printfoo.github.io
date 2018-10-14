@@ -14,7 +14,7 @@ comments: false
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
-Available Soon | [BibTex](fat19_bib.txt){:target="_blank"} | Acceptance Rate: 39/162 = 24.1%
+Available Soon | [BibTex](fat19_bib.txt){:target="_blank"} | Acceptance Rate: 39/162=24.1%
 
 ## 2018
 

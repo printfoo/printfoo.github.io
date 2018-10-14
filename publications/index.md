@@ -14,7 +14,7 @@ comments: false
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
-[Available soon](){:target="_blank"} | [BibTex](fat19_bib.txt){:target="_blank"}
+[Available Soon](){:target="_blank"} | [BibTex](fat19_bib.txt){:target="_blank"}
 
 ## 2018
 
@@ -33,7 +33,7 @@ Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
 Working paper, available at *SSRN*, Oct 2018  
-[PDF](ssrn18_paper.pdf){:target="_blank"} | [BibTex](ssrn18_bib.txt){:target="_blank"} | [Link](https://ssrn.com/abstract=3261811){:target="_blank"}  
+[PDF](ssrn18_paper.pdf){:target="_blank"} | [BibTex](ssrn18_bib.txt){:target="_blank"} | [SSRN Link](https://ssrn.com/abstract=3261811){:target="_blank"}  
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  

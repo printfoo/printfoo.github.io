@@ -9,6 +9,8 @@ comments: false
 
 {% include _toc.html %}
 
+## At Northeastern
+
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
@@ -40,6 +42,8 @@ In *Proceedings of the 27th International Web Conference (**WWW 2018**)*, Lyon, 
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and Shan Jiang  
 *San Francisco County Transportation Authority Report*, Jun 2017  
 [PDF](sfcta17_paper.pdf){:target="_blank"} | [BibTex](sfcta17_bib.txt){:target="_blank"} | [Slides](sfcta17_slides.pdf){:target="_blank"} | [Visualization](https://tncstoday.sfcta.org){:target="_blank"}
+
+## At BUPT
 
 * **Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism**  
 Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, and Jingyu Wang  

@@ -9,14 +9,10 @@ comments: false
 
 {% include _toc.html %}
 
-## 2019
-
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
 [PDF](fat19_paper.pdf){:target="_blank"} | [BibTex](fat19_bib.txt){:target="_blank"} | Acceptance Rate: 39/162=24.1%
-
-## 2018
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, and Christo Wilson  
@@ -40,14 +36,10 @@ Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson
 In *Proceedings of the 27th International Web Conference (**WWW 2018**)*, Lyon, France, Apr 2018  
 [PDF](www18_paper.pdf){:target="_blank"} | [BibTex](www18_bib.txt){:target="_blank"} | [Slides](www18_slides.pdf){:target="_blank"} | Acceptance Rate: 171/1,155=14.8%
 
-## 2017
-
 * **TNCs Today: A Profile of San Francisco Transportation Network Company Activity**  
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and Shan Jiang  
 *San Francisco County Transportation Authority Report*, Jun 2017  
 [PDF](sfcta17_paper.pdf){:target="_blank"} | [BibTex](sfcta17_bib.txt){:target="_blank"} | [Slides](sfcta17_slides.pdf){:target="_blank"} | [Visualization](https://tncstoday.sfcta.org){:target="_blank"}
-
-## 2016 and before
 
 * **Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism**  
 Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, and Jingyu Wang  

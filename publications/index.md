@@ -1,15 +1,7 @@
 ---
 layout: page
 title: Publications
-excerpt: "Publications"
-tags: [publications]
-share: false
-comments: false 
 ---
-
-{% include _toc.html %}
-
-## At Northeastern
 
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
@@ -26,7 +18,7 @@ Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-[PDF](cscw18b_paper.pdf){:target="_blank"} | [BibTex](cscw18b_bib.txt){:target="_blank"} | [Supplementary](cscw18b_supplementary.pdf){:target="_blank"} | [Blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} | [Data](../resources/#partisan-bias){:target="_blank"} | Acceptance Rate: 185/722=25.6% | **Honorable Mention: 30/1,106=2.7%** 
+[PDF](cscw18b_paper.pdf){:target="_blank"} | [BibTex](cscw18b_bib.txt){:target="_blank"} | [Supplementary](cscw18b_supplementary.pdf){:target="_blank"} | [Blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} | [Data](../resources/#partisan-bias){:target="_blank"} | **Honorable Mention: 30/1,106=2.7%** | Acceptance Rate: 185/722=25.6%
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
@@ -42,8 +34,6 @@ In *Proceedings of the 27th International Web Conference (**WWW 2018**)*, Lyon, 
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and Shan Jiang  
 *San Francisco County Transportation Authority Report*, Jun 2017  
 [PDF](sfcta17_paper.pdf){:target="_blank"} | [BibTex](sfcta17_bib.txt){:target="_blank"} | [Slides](sfcta17_slides.pdf){:target="_blank"} | [Visualization](https://tncstoday.sfcta.org){:target="_blank"}
-
-## At BUPT
 
 * **Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism**  
 Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, and Jingyu Wang  

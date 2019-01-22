@@ -3,6 +3,11 @@ layout: page
 title: Publications
 ---
 
+* **Auditing the Partisanship of Google Search Snippets**  
+Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson  
+In *Proceedings of the 2019 Web Conference (**WWW 2019**)*, San Francisco, CA, USA, May 2019  
+\[ PDF | [BibTex](www19_bib.txt){:target="_blank"} \] Acceptance Rate: 225/1,247=18.0%
+
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
@@ -27,7 +32,7 @@ Working paper, available at *SSRN*, Oct 2018
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  
-In *Proceedings of the 27th International Web Conference (**WWW 2018**)*, Lyon, France, Apr 2018  
+In *Proceedings of the 2018 Web Conference (**WWW 2018**)*, Lyon, France, Apr 2018  
 \[ [PDF](www18_paper.pdf){:target="_blank"} | [BibTex](www18_bib.txt){:target="_blank"} | [Slides](www18_slides.pdf){:target="_blank"} \] Acceptance Rate: 171/1,155=14.8%
 
 * **TNCs Today: A Profile of San Francisco Transportation Network Company Activity**  

@@ -11,19 +11,19 @@ In *Proceedings of the 2019 Web Conference (**WWW 2019**)*, San Francisco, CA, U
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
-\[ [PDF](fat19_paper.pdf){:target="_blank"} | [BibTex](fat19_bib.txt){:target="_blank"} \] Acceptance Rate: 39/162=24.1%
+\[ [PDF](fat19_paper.pdf){:target="_blank"} | [BibTex](fat19_bib.txt){:target="_blank"} | [Video](https://www.youtube.com/watch?v=ZxknxkHiIkM){:target="_blank"} | [Press](https://www.fastcompany.com/90306916/were-all-being-manipulated-by-a-b-testing-all-the-time){:target="_blank"} \] Acceptance Rate: 39/162=24.1%
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, and Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-\[ [PDF](cscw18a_paper.pdf){:target="_blank"} | [BibTex](cscw18a_bib.txt){:target="_blank"} | [Blog](https://medium.com/acm-cscw/people-get-touchy-about-misinformation-and-about-the-truth-too-9930563d96d8){:target="_blank"} | [Data](../resources/#misinformation){:target="_blank"} | [Slides](cscw18a_slides.pdf){:target="_blank"} \] Acceptance Rate: 185/722=25.6%
+\[ [PDF](cscw18a_paper.pdf){:target="_blank"} | [BibTex](cscw18a_bib.txt){:target="_blank"} | [Blog](https://medium.com/acm-cscw/people-get-touchy-about-misinformation-and-about-the-truth-too-9930563d96d8){:target="_blank"} | [Data](../resources/#misinformation){:target="_blank"} | [Slides](cscw18a_slides.pdf){:target="_blank"} | [Tweet](https://twitter.com/ACM_CSCW/status/1051984635188715526){:target="_blank"} | [Press](https://hopenothate.com/2018/10/21/extremism-is-on-the-ballot){:target="_blank"} \] Acceptance Rate: 185/722=25.6%
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-\[ [PDF](cscw18b_paper.pdf){:target="_blank"} | [BibTex](cscw18b_bib.txt){:target="_blank"} | [Supplementary](cscw18b_supplementary.pdf){:target="_blank"} | [Blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} | [Data](../resources/#partisan-bias){:target="_blank"} \] **Honorable Mention: 30/1,106=2.7%** | Acceptance Rate: 185/722=25.6%
+\[ [PDF](cscw18b_paper.pdf){:target="_blank"} | [BibTex](cscw18b_bib.txt){:target="_blank"} | [Supplementary](cscw18b_supplementary.pdf){:target="_blank"} | [Blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} | [Data](../resources/#partisan-bias){:target="_blank"} | [Tweet](https://twitter.com/RERobertson/status/1059891385787125760){:target="_blank"} \] **Honorable Mention: 30/1,106=2.7%** | Acceptance Rate: 185/722=25.6%
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  

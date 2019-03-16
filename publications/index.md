@@ -2,11 +2,15 @@
 layout: page
 title: Publications
 ---
+* **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**
+Shan Jiang, Ronald E Robertson, and Christo Wilson
+In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, June 2019
+\[ PDF | [BibTex](icwsm19_bib.txt){:target="_blank"} \]
 
 * **Auditing the Partisanship of Google Search Snippets**  
 Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson  
 In *Proceedings of the 2019 Web Conference (**WWW 2019**)*, San Francisco, CA, USA, May 2019  
-\[ PDF | [BibTex](www19_bib.txt){:target="_blank"} \] Acceptance Rate: 225/1,247=18.0%
+\[ [PDF](www19_paper.pdf){:target="_blank"} | [BibTex](www19_bib.txt){:target="_blank"} \] Acceptance Rate: 225/1,247=18.0%
 
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  

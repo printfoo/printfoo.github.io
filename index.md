@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-I’m Shan Jiang, a 3rd-year Ph.D. student in Computer Science at [Northeastern University](https://www.northeastern.edu){:target="_blank”}, advised by [Christo Wilson](https://cbw.sh){:target="_blank"}. My research broadly lies around **computational social science** and my current focus is on **human and algorithmically curated misinformation**. For more information, check a list of my [publications](publications).  
+I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank”}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank”}), a 3rd-year Ph.D. student in Computer Science at [Northeastern University](https://www.northeastern.edu){:target="_blank”}, advised by [Christo Wilson](https://cbw.sh){:target="_blank"}. My research broadly lies around **computational social science** and my current focus is on **human and algorithmically curated misinformation**. For more information, check a list of my [publications](publications).  
 
-\[ Email: [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank”} \| LinkedIn: [shan-jiang](https://www.linkedin.com/in/shan-jiang){:target="_blank”} \| GitHub: [printfoo](https://github.com/printfoo){:target="_blank”} \| [CV](shanjiang-cv.pdf){:target="_blank”} \]  
+\[ [CV](shanjiang-cv.pdf){:target="_blank”} \| Email: [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank”} \| LinkedIn: [shan-jiang](https://www.linkedin.com/in/shan-jiang){:target="_blank”} \| GitHub: [printfoo](https://github.com/printfoo){:target="_blank”} \]  
 
 ### Experience
 

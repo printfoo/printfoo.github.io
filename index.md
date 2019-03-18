@@ -9,7 +9,7 @@ I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F)
 
 ### Experience
 
-* <img src="logo/dataminr.jpg" width="18" height="18"> **Dataminr**, New York, NY, *Feb 2019 - Present*  
+* <img src="logo/dataminr.png" width="18" height="18"> **Dataminr**, New York, NY, *Feb 2019 - Present*  
 Research Intern @ [Artificial Intelligence and Data Science Team](https://www.dataminr.com){:target="_blank”}
 
 * <img src="logo/neu.png" width="18" height="18"> **Northeastern University**, Boston, MA, *Sep 2016 - Present*  

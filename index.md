@@ -9,16 +9,16 @@ I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F)
 
 ### Experience
 
-* **Dataminr**, New York, NY, *Feb 2019 - Present*  
+* <img src="logo/dataminr.png" width="20" height="20"> **Dataminr**, New York, NY, *Feb 2019 - Present*  
 Research Intern @ [Artificial Intelligence and Data Science Team](https://www.dataminr.com){:target="_blank”}
 
-* **Northeastern University**, Boston, MA, *Sep 2016 - Present*  
+* <img src="logo/neu.png" width="20" height="20"> **Northeastern University**, Boston, MA, *Sep 2016 - Present*  
 Research Assistant @ [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu){:target="_blank”}
 
-* **National University of Singapore**, Singapore, *Dec 2015 - May 2016*  
+* <img src="logo/nus.jpg" width="20" height="20"> **National University of Singapore**, Singapore, *Dec 2015 - May 2016*  
 Research Assistant @ [School of Computing](https://www.comp.nus.edu.sg){:target="_blank”}
 
-* **Beijing University of Posts and Telecommunications**, Beijing, China, *Oct 2013 - Dec 2015*  
+* <img src="logo/bupt.png" width="20" height="20"> **Beijing University of Posts and Telecommunications**, Beijing, China, *Oct 2013 - Dec 2015*  
 Research Assistant @ [State Key Lab of Networking and Switching Technology](https://sklnst-en.bupt.edu.cn){:target="_blank”}
 
 ### Education

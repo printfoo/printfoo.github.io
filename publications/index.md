@@ -4,17 +4,17 @@ title: Publications
 ---
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
-In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, Jun 2019  
+<img src="logo/c.png" width="18" height="18"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, Jun 2019  
 \[ pdf \| [bib](icwsm19_bib.txt){:target="_blank"} \| supplementary \] acceptance rate: TBA  
 
 * **Auditing the Partisanship of Google Search Snippets**  
 Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson  
-In *Proceedings of the 2019 Web Conference (**WWW 2019**)*, San Francisco, CA, USA, May 2019  
+<img src="logo/c.png" width="18" height="18"> In *Proceedings of the 2019 Web Conference (**WWW 2019**)*, San Francisco, CA, USA, May 2019  
 \[ [pdf](www19_paper.pdf){:target="_blank"} \| [bib](www19_bib.txt){:target="_blank"} \] acceptance rate: 225/1,247=18.0%
 
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
-In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
+<img src="logo/c.png" width="18" height="18"> In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
 \[ [pdf](fat19_paper.pdf){:target="_blank"} \| [bib](fat19_bib.txt){:target="_blank"} \| [video](https://www.youtube.com/watch?v=ZxknxkHiIkM){:target="_blank"} \| [press](https://www.fastcompany.com/90306916/were-all-being-manipulated-by-a-b-testing-all-the-time){:target="_blank"} \] acceptance rate: 39/162=24.1%
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  

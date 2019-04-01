@@ -32,7 +32,7 @@ Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
 <img src="../logo/u.png" width="16" height="16"> Unreviewed working paper, available at *SSRN*, Oct 2018  
-<img src="../logo/a.png" width="16" height="16"> Abstract presented at *the 79th Annual Meeting of the Academy of Management (**AOM 2019**)*, Boston, MA, USA, Aug 2019
+<img src="../logo/a.png" width="16" height="16"> Abstract presented at *the 79th Annual Meeting of the Academy of Management (**AOM 2019**)*, Boston, MA, USA, Aug 2019  
 \[ [pdf](ssrn18_paper.pdf){:target="_blank"} \| [bib](ssrn18_bib.txt){:target="_blank"} \| [ssrn](https://ssrn.com/abstract=3261811){:target="_blank"} \]
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
@@ -64,6 +64,9 @@ Shan Jiang, Jianxin Liao, Jun Gong, Jingyu Wang, and Tonghong Li
 Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang  
 <img src="../logo/c.png" width="16" height="16"> In *Proceedings of the 2014 IEEE 20th International Conference on Parallel and Distributed Systems (**ICPADS 2014**)*, Hsinchu, Taiwan, Dec 2014  
 \[ [pdf](icpads14_paper.pdf){:target="_blank"} \| [bib](icpads14_bib.txt){:target="_blank"} \] acceptance rate: 96/322=29.8%  
-
+  
+  
+  
 Rigorously reviewed: <img src="../logo/c.png" width="16" height="16"> Conference paper \| <img src="../logo/j.png" width="16" height="16"> Journal paper  
-Lightly reviewed: <img src="../logo/w.png" width="16" height="16"> Workshop paper \| <img src="../logo/a.png" width="16" height="16"> Abstract  Unreviewed: <img src="../logo/u.png" width="16" height="16"> Working paper \| <img src="../logo/r.png" width="16" height="16"> report  
+Lightly reviewed: <img src="../logo/w.png" width="16" height="16"> Workshop paper \| <img src="../logo/a.png" width="16" height="16"> Abstract  
+Unreviewed: <img src="../logo/u.png" width="16" height="16"> Working paper \| <img src="../logo/r.png" width="16" height="16"> report  

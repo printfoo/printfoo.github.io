@@ -5,7 +5,7 @@ title: Resources
 
 ### Content Moderation
 
-* **Data**: YouTube comments with moderation outcome, video misinformation, channel partisanship, linguistic features and social engagement.  
+* **Data**: YouTube comments with moderation outcome, video misinformation, channel partisanship, linguistic and social engagement controls.  
 \[ [Download](youtube_comments.csv){:target="_blank"} \]
 
 ### Misinformation

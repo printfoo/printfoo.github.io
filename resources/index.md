@@ -3,6 +3,11 @@ layout: page
 title: Resources
 ---
 
+### Content Moderation
+
+* **Data**: YouTube comments with moderation outcome, video misinformation, channel partisanship, linguistic features and social engagement.  
+\[ [Download](youtube_comments.csv){:target="_blank"} \]
+
 ### Misinformation
 
 * **ComLex**: An emotional and topical lexicon of 300 clusters, generated from user comments on social media.  

@@ -5,7 +5,7 @@ title: Publications
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, Jun 2019  
-\[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#moderation){:target="_blank"} \| [repo](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] acceptance rate: TBA  
+\[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [repo](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] acceptance rate: TBA  
 
 * **Auditing the Partisanship of Google Search Snippets**  
 Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson  
@@ -64,8 +64,6 @@ Shan Jiang, Jianxin Liao, Jun Gong, Jingyu Wang, and Tonghong Li
 Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 2014 IEEE 20th International Conference on Parallel and Distributed Systems (**ICPADS 2014**)*, Hsinchu, Taiwan, Dec 2014  
 \[ [pdf](icpads14_paper.pdf){:target="_blank"} \| [bib](icpads14_bib.txt){:target="_blank"} \] acceptance rate: 96/322=29.8%  
-
-<br>
 
 Rigorously reviewed: <img src="../logo/c.svg" width="16"> conference \| <img src="../logo/j.svg" width="16"> journal  
 Lightly reviewed: <img src="../logo/w.svg" width="16"> workshop \| <img src="../logo/a.svg" width="16"> abstract  

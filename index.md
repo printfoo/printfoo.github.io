@@ -24,7 +24,7 @@ Research Assistant @ [State Key Lab of Networking and Switching Technology](http
 ### Education
 
 * <img src="logo/neu.png" width="18" height="18"> **Northeastern University**, Boston, MA  
-Ph.D. in Computer Science @ [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu){:target="_blank”}, *Sep 2016 - Present*
+Ph.D. in Computer Science @ [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu){:target="_blank”}, *2021 (Expected)*
 
 * <img src="logo/bupt.png" width="18" height="18"> **Beijing University of Posts and Telecommunications**, Beijing, China  
-B.B.A. in Information Systems @ [School of Economics and Management](https://sem.bupt.edu.cn/English/HOME.htm){:target="_blank”}, *Sep 2012 - Jul 2016*
+B.B.A. in Management Information Systems @ [School of Economics and Management](https://sem.bupt.edu.cn/English/HOME.htm){:target="_blank”}, *2016*

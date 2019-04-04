@@ -10,8 +10,8 @@ title: Resources
 
 ### Misinformation
 
-* **ComLex**: An emotional and topical lexicon of 300 clusters, generated from user comments on social media.  
-*Only 56 named clusters are human evaluated.*  
+* **ComLex**: An emotional and topical lexicon of 300 categories from user comments on social media.  
+*Only 56 named categories are human evaluated.*  
 \[ [Download](ComLex.csv){:target="_blank"} \]
 
 * **Fact-Checked Posts**: A dataset of 5K+ social media posts fact-checked by Snopes or PolitiFact.  

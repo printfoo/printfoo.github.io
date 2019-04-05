@@ -5,7 +5,7 @@ title: Publications
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, Jun 2019  
-\[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [repo](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] acceptance rate: TBA  
+\[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] acceptance rate: TBA  
 
 * **Auditing the Partisanship of Google Search Snippets**  
 Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson  
@@ -15,13 +15,13 @@ Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\* 2019**)*, Atlanta, GA, USA, Jan 2019  
-\[ [pdf](fat19_paper.pdf){:target="_blank"} \| [bib](fat19_bib.txt){:target="_blank"} \| [repo](https://github.com/printfoo/abtest-fat2019){:target="_blank"} \| [video](https://www.youtube.com/watch?v=ZxknxkHiIkM){:target="_blank"} \| [press](https://www.fastcompany.com/90306916/were-all-being-manipulated-by-a-b-testing-all-the-time){:target="_blank"} \] acceptance rate: 39/162=24.1%
+\[ [pdf](fat19_paper.pdf){:target="_blank"} \| [bib](fat19_bib.txt){:target="_blank"} \| [code](https://github.com/printfoo/abtest-fat2019){:target="_blank"} \| [video](https://www.youtube.com/watch?v=ZxknxkHiIkM){:target="_blank"} \| [press](https://www.fastcompany.com/90306916/were-all-being-manipulated-by-a-b-testing-all-the-time){:target="_blank"} \] acceptance rate: 39/162=24.1%
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, and Christo Wilson  
 <img src="../logo/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 <img src="../logo/c.svg" width="16"> Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-\[ [pdf](cscw18a_paper.pdf){:target="_blank"} \| [bib](cscw18a_bib.txt){:target="_blank"} \| [blog](https://medium.com/acm-cscw/people-get-touchy-about-misinformation-and-about-the-truth-too-9930563d96d8){:target="_blank"} \| [data](../resources/#misinformation){:target="_blank"} \| [repo](https://github.com/printfoo/misinfo-cscw2018){:target="_blank"} \| [slides](cscw18a_slides.pdf){:target="_blank"} \| [press](https://hopenothate.com/2018/10/21/extremism-is-on-the-ballot){:target="_blank"} \] acceptance rate: 185/722=25.6%
+\[ [pdf](cscw18a_paper.pdf){:target="_blank"} \| [bib](cscw18a_bib.txt){:target="_blank"} \| [blog](https://medium.com/acm-cscw/people-get-touchy-about-misinformation-and-about-the-truth-too-9930563d96d8){:target="_blank"} \| [data](../resources/#misinformation){:target="_blank"} \| [code](https://github.com/printfoo/misinfo-cscw2018){:target="_blank"} \| [slides](cscw18a_slides.pdf){:target="_blank"} \| [press](https://hopenothate.com/2018/10/21/extremism-is-on-the-ballot){:target="_blank"} \] acceptance rate: 185/722=25.6%
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
@@ -38,7 +38,7 @@ Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilso
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 2018 Web Conference (**WWW 2018**)*, Lyon, France, Apr 2018  
-\[ [pdf](www18_paper.pdf){:target="_blank"} \| [bib](www18_bib.txt){:target="_blank"} \| [repo](https://github.com/printfoo/ridesharing-www2018){:target="_blank"} \| [slides](www18_slides.pdf){:target="_blank"} \] acceptance rate: 171/1,155=14.8%
+\[ [pdf](www18_paper.pdf){:target="_blank"} \| [bib](www18_bib.txt){:target="_blank"} \| [code](https://github.com/printfoo/ridesharing-www2018){:target="_blank"} \| [slides](www18_slides.pdf){:target="_blank"} \] acceptance rate: 171/1,155=14.8%
 
 * **TNCs Today: A Profile of San Francisco Transportation Network Company Activity**  
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and Shan Jiang  

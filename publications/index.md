@@ -7,6 +7,11 @@ Shan Jiang, Ronald E Robertson, and Christo Wilson
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, Jun 2019  
 \[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] acceptance rate: TBA  
 
+* **Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation**  
+Ronald E Robertson, Shan Jiang, David Lazer, and Christo Wilson  
+<img src="../logo/c.svg" width="16"> In *Proceedings the 11th International ACM Web Science Conference (**WebSci 2019**)*, Boston, MA, USA, Jun 2019
+\[ [pdf](){:target="_blank"} \| [bib](websci19_bib.txt){:target="_blank"} \] acceptance rate: TBA
+
 * **Auditing the Partisanship of Google Search Snippets**  
 Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 2019 Web Conference (**WWW 2019**)*, San Francisco, CA, USA, May 2019  
@@ -52,7 +57,7 @@ Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, and Jingyu Wang
 
 * **Interactions among Overlays and Traffic Engineering: Equilibrium and Cooperation without Payment**  
 Shan Jiang, Jun Gong, Jingyu Wang, Jianxin Liao, and Tonghong Li  
-<img src="../logo/c.svg" width="16"> In *Proceedings of the 2015 IEEE 58th Global Communications Conference (**GLOBECOM 2015**)*, San Diego, CA, USA, Dec 2015  
+<img src="../logo/c.svg" width="16"> In *Proceedings of the 2015 IEEE 58th Global Communications Conference (**GlobeCom 2015**)*, San Diego, CA, USA, Dec 2015  
 \[ [pdf](globecom15_paper.pdf){:target="_blank"} \| [bib](globecom15_bib.txt){:target="_blank"} \] acceptance rate: 915/2,614=35.0%
 
 * **Competitive Equilibrium and Stable Coalition in Overlay Environments**  

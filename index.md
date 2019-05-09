@@ -9,7 +9,7 @@ I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F)
 
 ### Experience
 
-* <img src="logo/google.png" width="18" height="18"> **Google**, New York, NY
+* <img src="logo/google.png" width="18" height="18"> **Google**, New York, NY  
 Software Engineering Intern @ Fact Check Team, [Google AI](https://ai.google){:target="_blank”}, *Incoming*
 
 * <img src="logo/dataminr.png" width="18" height="18"> **Dataminr**, New York, NY  

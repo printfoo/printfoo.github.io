@@ -9,8 +9,11 @@ I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F)
 
 ### Experience
 
+* <img src="logo/google.png" width="18" height="18"> **Google**, New York, NY
+Software Engineering Intern @ Fact Check Team, [Google AI](https://ai.google){:target="_blank”}, *Incoming*
+
 * <img src="logo/dataminr.png" width="18" height="18"> **Dataminr**, New York, NY  
-Research Intern @ [Artificial Intelligence and Data Science Team](https://www.dataminr.com){:target="_blank”}, *Feb 2019 - Present*
+Research Intern @ [AI and Data Science Team](https://www.dataminr.com){:target="_blank”}, *Feb 2019 - Apr 2019*
 
 * <img src="logo/neu.png" width="18" height="18"> **Northeastern University**, Boston, MA  
 Research Assistant @ [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu){:target="_blank”}, *Sep 2016 - Present*

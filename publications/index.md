@@ -5,12 +5,17 @@ title: Publications
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, Jun 2019  
-\[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] acceptance rate: TBA  
+\[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \]  
+
+* **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
+Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  
+<img src="../logo/w.svg" width="16"> In *AI for Social Good Workshop at the 36th International Conference on Machine Learning (**AISG**@ICML **2019**)*, Long Beach, CA, USA, Jun 2019  
+\[ [pdf](aisg19_paper.pdf){:target="_blank"} \| [bib](aisg19_bib.txt){:target="_blank"} \]
 
 * **Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation**  
 Ronald E Robertson, Shan Jiang, David Lazer, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 11th International ACM Web Science Conference (**WebSci 2019**)*, Boston, MA, USA, Jun 2019  
-\[ [pdf](websci19_paper.pdf){:target="_blank"} \| [bib](websci19_bib.txt){:target="_blank"} \] acceptance rate: TBA
+\[ [pdf](websci19_paper.pdf){:target="_blank"} \| [bib](websci19_bib.txt){:target="_blank"} \]
 
 * **Auditing the Partisanship of Google Search Snippets**  
 Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson  
@@ -35,7 +40,7 @@ Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and
 \[ [pdf](cscw18b_paper.pdf){:target="_blank"} \| [bib](cscw18b_bib.txt){:target="_blank"} \| [supplementary](cscw18b_supplementary.pdf){:target="_blank"} \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} \| [data](../resources/#partisan-bias){:target="_blank"} \] **honorable mention: 30/1,106=2.7%** \| acceptance rate: 185/722=25.6%  
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
-Kyungmin Brad Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
+Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
 <img src="../logo/u.svg" width="16"> Unreviewed working paper, available at *SSRN*, Oct 2018  
 <img src="../logo/a.svg" width="16"> Abstract presented at *the 79th Annual Meeting of the Academy of Management (**AOM 2019**)*, Boston, MA, USA, Aug 2019  
 \[ [pdf](ssrn18_paper.pdf){:target="_blank"} \| [bib](ssrn18_bib.txt){:target="_blank"} \| [ssrn](https://ssrn.com/abstract=3261811){:target="_blank"} \]

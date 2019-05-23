@@ -1,7 +1,7 @@
 @inproceedings{jiang2019crisis,
 	author = {Shan Jiang and William Groves and Sam Anzaroot and Alejandro Jaimes},
 	title = {Crisis Sub-Events on Social Media: A Case Study of Wildfires},
-	booktitle = {AI for Social Good Workshop at the 36th International Conference on Machine Learning (AISG@ICML 2019)},
+	booktitle = {Proceedings of the AI for Social Good Workshop at the 36th International Conference on Machine Learning (AISG@ICML 2019)},
 	address = {Long Beach, CA, USA},
 	month = {June},
 	year = {2019}

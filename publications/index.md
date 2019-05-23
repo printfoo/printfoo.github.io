@@ -9,8 +9,8 @@ Shan Jiang, Ronald E Robertson, and Christo Wilson
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
 Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  
-<img src="../logo/w.svg" width="16"> In *AI for Social Good Workshop at the 36th International Conference on Machine Learning (**AISG**@ICML **2019**)*, Long Beach, CA, USA, Jun 2019  
-\[ [pdf](aisg19_paper.pdf){:target="_blank"} \| [bib](aisg19_bib.txt){:target="_blank"} \]
+<img src="../logo/w.svg" width="16"> In *Proceedings of the AI for Social Good Workshop at the 36th International Conference on Machine Learning (**AISG**@ICML **2019**)*, Long Beach, CA, USA, Jun 2019  
+\[ [pdf](aisg19_paper.pdf){:target="_blank"} \| [bib](aisg19_bib.txt){:target="_blank"} \] oral presentation: 6/26=23.1%
 
 * **Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation**  
 Ronald E Robertson, Shan Jiang, David Lazer, and Christo Wilson  

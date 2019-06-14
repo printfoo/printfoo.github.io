@@ -5,7 +5,8 @@ title: Publications
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, Jun 2019  
-\[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \]  
+<img src="../logo/award.png" width="16"> **outstanding analysis paper award: 1/238=0.4%**  
+\[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] acceptance rate: 51/238=21.4% 
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
 Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  
@@ -36,8 +37,9 @@ Shan Jiang, and Christo Wilson
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 <img src="../logo/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
+<img src="../logo/award.png" width="16"> **honorable mention: 30/1,106=2.7%**  
 <img src="../logo/c.svg" width="16"> Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
-\[ [pdf](cscw18b_paper.pdf){:target="_blank"} \| [bib](cscw18b_bib.txt){:target="_blank"} \| [supplementary](cscw18b_supplementary.pdf){:target="_blank"} \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} \| [data](../resources/#partisan-bias){:target="_blank"} \] **honorable mention: 30/1,106=2.7%** \| acceptance rate: 185/722=25.6%  
+\[ [pdf](cscw18b_paper.pdf){:target="_blank"} \| [bib](cscw18b_bib.txt){:target="_blank"} \| [supplementary](cscw18b_supplementary.pdf){:target="_blank"} \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} \| [data](../resources/#partisan-bias){:target="_blank"} \] acceptance rate: 185/722=25.6%  
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  

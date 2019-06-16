@@ -10,7 +10,7 @@ I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F)
 ### Experience
 
 * <img src="logo/google.png" width="18" height="18"> **Google**, New York, NY  
-Software Engineering Intern @ [Fact Check Team](https://toolbox.google.com/factcheck){:target="_blank”}, [Google AI](https://ai.google){:target="_blank”}, *Jun 2019 - Present*
+Software Engineer Intern @ [Fact Check Team](https://toolbox.google.com/factcheck){:target="_blank”}, [Google AI](https://ai.google){:target="_blank”}, *Jun 2019 - Present*
 
 * <img src="logo/dataminr.png" width="18" height="18"> **Dataminr**, New York, NY  
 Research Intern @ [AI and Data Science Team](https://www.dataminr.com){:target="_blank”}, *Feb 2019 - Apr 2019*

@@ -6,7 +6,7 @@ title: Publications
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, Jun 2019  
 \[ [pdf](icwsm19_paper.pdf){:target="_blank"} \| [bib](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] acceptance rate: 51/238=21.4%  
-<img src="../logo/award.png" width="16"> **outstanding analysis paper award: 1/238=0.4%**  
+<img src="../logo/award.png" width="16"> **outstanding analysis paper: 1/238=0.4%**  
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
 Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  

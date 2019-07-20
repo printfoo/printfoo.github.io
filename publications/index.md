@@ -16,7 +16,7 @@ Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes
 * **Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation**  
 Ronald E Robertson, Shan Jiang, David Lazer, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 11th International ACM Web Science Conference (**WebSci 2019**)*, Boston, MA, USA, Jun 2019  
-\[ [pdf](websci19_paper.pdf){:target="_blank"} \| [bib](websci19_bib.txt){:target="_blank"} \]
+\[ [pdf](websci19_paper.pdf){:target="_blank"} \| [bib](websci19_bib.txt){:target="_blank"} \] acceptance rate: 31/130=23.8%  
 
 * **Auditing the Partisanship of Google Search Snippets**  
 Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson  

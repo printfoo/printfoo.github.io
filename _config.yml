@@ -1,7 +1,7 @@
 title: Shan Jiang
 author: Shan Jiang
 #email: sjiang@ccs.neu.edu
-description: Mar 17, 2019
+description: Sep 4, 2019
 
 # social links
 # twitter_username: jekyllrb
@@ -39,6 +39,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
+ - experience/index.md
  - publications/index.md
  - resources/index.md
 

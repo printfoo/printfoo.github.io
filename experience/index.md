@@ -9,7 +9,7 @@ Hosts: [Simon Baumgartner](https://ai.google/research/people/105996){:target="_b
 
 * <img src="../logo/dataminr.png" width="18" height="18"> **Dataminr**, New York, NY  
 Research Intern @ [AI and Data Science Team](https://www.dataminr.com){:target="_blank"}, *Feb 2019 - Apr 2019*  
-Project: Crisis sub-event (e.g., burning road after a wildfire) detection on social media for emergency management.  
+Project: Crisis sub-event (e.g., burning road after a wildfire) detection for emergency management.  
 Hosts: [William Groves](https://www.linkedin.com/in/william-groves-97618219){:target="_blank"}, [Sam Anzaroot](http://samanz.com){:target="_blank"} and [Alejandro Jaimes](http://www.alexjaimes.com){:target="_blank"}.
 
 * <img src="../logo/neu.png" width="18" height="18"> **Northeastern University**, Boston, MA  

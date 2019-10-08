@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: publications
 ---
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  

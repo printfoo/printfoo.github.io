@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experience
+title: experience
 ---
 * <img src="../logo/google.png" width="18" height="18"> **Google**, New York, NY  
 Software Engineer Intern @ [Fact Check Team](https://toolbox.google.com/factcheck){:target="_blank"}, [Google Research](https://ai.google){:target="_blank"}, *Jun 2019 - Aug 2019*  

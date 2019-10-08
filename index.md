@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 Hi, I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}), a 4th-year Ph.D. student in Computer Science at [Northeastern University](https://www.northeastern.edu){:target="_blank"}. I'm (happily and fortunately) advised by Professor [Christo Wilson](https://cbw.sh){:target="_blank"}.

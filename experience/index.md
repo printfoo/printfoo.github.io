@@ -3,7 +3,7 @@ layout: page
 title: Experience
 ---
 * <img src="../logo/google.png" width="18" height="18"> **Google**, New York, NY  
-Software Engineer Intern @ [Fact Check Team](https://toolbox.google.com/factcheck){:target="_blank"}, [Google AI](https://ai.google){:target="_blank"}, *Jun 2019 - Aug 2019*  
+Software Engineer Intern @ [Fact Check Team](https://toolbox.google.com/factcheck){:target="_blank"}, [Google Research](https://ai.google){:target="_blank"}, *Jun 2019 - Aug 2019*  
 Project: ClaimReview markup (e.g., claim, claimant and verdict) extraction from fact-check articles.  
 Hosts: [Simon Baumgartner](https://ai.google/research/people/105996){:target="_blank"}, [Abe Ittycheriah](https://scholar.google.com/citations?user=8P1Y_90AAAAJ){:target="_blank"} and [Cong Yu](https://sites.google.com/site/congyu/home){:target="_blank"}.
 

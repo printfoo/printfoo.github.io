@@ -38,7 +38,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
- - experience/index.md
+# - experience/index.md
  - publications/index.md
  - resources/index.md
 

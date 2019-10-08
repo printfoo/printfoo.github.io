@@ -5,13 +5,13 @@ description: Sep 4, 2019
 
 # social links
 # twitter_username: jekyllrb
-#github_username: printfoo
+# github_username: printfoo
 # rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-#linkedin_username: shan-jiang
+# linkedin_username: shan-jiang
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -26,7 +26,6 @@ description: Sep 4, 2019
 #   instance: example.com
 # - username: jekyll2
 #   instance: example.com
-
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

@@ -11,7 +11,7 @@ Shan Jiang, Ronald E Robertson, and Christo Wilson
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
 Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  
 <img src="../logo/w.svg" width="16"> In *Proceedings of the AI for Social Good Workshop at the 36th International Conference on Machine Learning (**AISG**@ICML **2019**)*, Long Beach, CA, USA, Jun 2019  
-\[ [pdf](aisg19_paper.pdf){:target="_blank"} \| [bib](aisg19_bib.txt){:target="_blank"} \| [poster](aisg19_poster.pdf){:target="_blank"} \] oral presentation: 10/57=17.5%
+\[ [pdf](aisg19_paper.pdf){:target="_blank"} \| [bib](aisg19_bib.txt){:target="_blank"} \| [poster](aisg19_poster.pdf){:target="_blank"} \] oral presentation acceptance rate: 10/57=17.5%
 
 * **Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation**  
 Ronald E Robertson, Shan Jiang, David Lazer, and Christo Wilson  
@@ -43,7 +43,7 @@ Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
-<img src="../logo/u.svg" width="16"> Unreviewed working paper, available at *SSRN*, Oct 2018  
+<img src="../logo/m.svg" width="16"> Manuscript available at *SSRN*, Oct 2018  
 <img src="../logo/a.svg" width="16"> Abstract presented at *the 79th Annual Meeting of the Academy of Management (**AOM 2019**)*, Boston, MA, USA, Aug 2019  
 \[ [pdf](ssrn18_paper.pdf){:target="_blank"} \| [bib](ssrn18_bib.txt){:target="_blank"} \| [ssrn](https://ssrn.com/abstract=3261811){:target="_blank"} \]
 
@@ -77,6 +77,8 @@ Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 2014 IEEE 20th International Conference on Parallel and Distributed Systems (**ICPADS 2014**)*, Hsinchu, Taiwan, Dec 2014  
 \[ [pdf](icpads14_paper.pdf){:target="_blank"} \| [bib](icpads14_bib.txt){:target="_blank"} \] acceptance rate: 96/322=29.8%  
 
+---  
+
 Rigorously reviewed: <img src="../logo/c.svg" width="16"> conference \| <img src="../logo/j.svg" width="16"> journal  
 Lightly reviewed: <img src="../logo/w.svg" width="16"> workshop \| <img src="../logo/a.svg" width="16"> abstract  
-Unreviewed: <img src="../logo/u.svg" width="16"> working paper \| <img src="../logo/r.svg" width="16"> report  
+Unreviewed: <img src="../logo/i.svg" width="16"> invited paper \| <img src="../logo/m.svg" width="16"> manuscript \| <img src="../logo/r.svg" width="16"> report  

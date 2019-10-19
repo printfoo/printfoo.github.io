@@ -77,7 +77,7 @@ Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 2014 IEEE 20th International Conference on Parallel and Distributed Systems (**ICPADS 2014**)*, Hsinchu, Taiwan, Dec 2014  
 \[ [pdf](icpads14_paper.pdf){:target="_blank"} \| [bib](icpads14_bib.txt){:target="_blank"} \] acceptance rate: 96/322=29.8%
 
-&nbsp;
+&nbsp;  
 Rigorously reviewed: <img src="../logo/c.svg" width="16"> conference \| <img src="../logo/j.svg" width="16"> journal  
 Lightly reviewed: <img src="../logo/w.svg" width="16"> workshop \| <img src="../logo/a.svg" width="16"> abstract  
 Unreviewed: <img src="../logo/i.svg" width="16"> invited paper \| <img src="../logo/m.svg" width="16"> manuscript \| <img src="../logo/r.svg" width="16"> report  

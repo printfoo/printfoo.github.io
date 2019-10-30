@@ -11,7 +11,7 @@ Shan Jiang, Ronald E Robertson, and Christo Wilson
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
 Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  
 <img src="../logo/w.svg" width="16"> In *Proceedings of the AI for Social Good Workshop at the 36th International Conference on Machine Learning (**AISG**@ICML **2019**)*, Long Beach, CA, USA, Jun 2019  
-\[ [pdf](aisg19_paper.pdf){:target="_blank"} \| [bib](aisg19_bib.txt){:target="_blank"} \| [poster](aisg19_poster.pdf){:target="_blank"} \] oral presentation acceptance rate: 10/57=17.5%
+\[ [pdf](aisg19_paper.pdf){:target="_blank"} \| [bib](aisg19_bib.txt){:target="_blank"} \| [poster](aisg19_poster.pdf){:target="_blank"} \] oral presentation rate: 10/57=17.5%
 
 * **Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation**  
 Ronald E Robertson, Shan Jiang, David Lazer, and Christo Wilson  
@@ -39,7 +39,7 @@ Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and
 <img src="../logo/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 <img src="../logo/c.svg" width="16"> Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW 2018**)*, Jersey City, NJ, USA, Nov 2018  
 \[ [pdf](cscw18b_paper.pdf){:target="_blank"} \| [bib](cscw18b_bib.txt){:target="_blank"} \| [supplementary](cscw18b_supplementary.pdf){:target="_blank"} \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} \| [data](../resources/#partisan-bias){:target="_blank"} \] acceptance rate: 185/722=25.6%  
-<img src="../logo/award.png" width="16"> **honorable mention: 30/1,106=2.7%**  
+<img src="../logo/award.png" width="16"> **honorable mention for best paper: 30/1,106=2.7%**  
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
@@ -78,6 +78,6 @@ Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang
 \[ [pdf](icpads14_paper.pdf){:target="_blank"} \| [bib](icpads14_bib.txt){:target="_blank"} \] acceptance rate: 96/322=29.8%
 
 &nbsp;  
-Rigorously reviewed: <img src="../logo/c.svg" width="16"> conference \| <img src="../logo/j.svg" width="16"> journal  
-Lightly reviewed: <img src="../logo/w.svg" width="16"> workshop \| <img src="../logo/a.svg" width="16"> abstract  
+Rigorously peer-reviewed: <img src="../logo/c.svg" width="16"> conference paper \| <img src="../logo/j.svg" width="16"> journal paper  
+Lightly peer-reviewed: <img src="../logo/w.svg" width="16"> workshop paper \| <img src="../logo/a.svg" width="16"> abstract  
 Unreviewed: <img src="../logo/i.svg" width="16"> invited paper \| <img src="../logo/m.svg" width="16"> manuscript \| <img src="../logo/r.svg" width="16"> report  

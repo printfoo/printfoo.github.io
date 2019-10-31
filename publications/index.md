@@ -43,7 +43,7 @@ Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
-<img src="../logo/m.svg" width="16"> Manuscript available at *SSRN*, Oct 2018  
+<img src="../logo/r.svg" width="16"> Available at *SSRN*, Oct 2018  
 <img src="../logo/a.svg" width="16"> Abstract presented at *the 79th Annual Meeting of the Academy of Management (**AOM 2019**)*, Boston, MA, USA, Aug 2019  
 \[ [pdf](ssrn18_paper.pdf){:target="_blank"} \| [bib](ssrn18_bib.txt){:target="_blank"} \| [ssrn](https://ssrn.com/abstract=3261811){:target="_blank"} \]
 
@@ -78,6 +78,6 @@ Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang
 \[ [pdf](icpads14_paper.pdf){:target="_blank"} \| [bib](icpads14_bib.txt){:target="_blank"} \] acceptance rate: 96/322=29.8%
 
 &nbsp;  
-Rigorously peer-reviewed: <img src="../logo/c.svg" width="16"> conference paper \| <img src="../logo/j.svg" width="16"> journal paper  
-Lightly peer-reviewed: <img src="../logo/w.svg" width="16"> workshop paper \| <img src="../logo/a.svg" width="16"> abstract  
-Unreviewed: <img src="../logo/i.svg" width="16"> invited paper \| <img src="../logo/m.svg" width="16"> manuscript \| <img src="../logo/r.svg" width="16"> report  
+Rigorously reviewed: <img src="../logo/c.svg" width="16"> conference \| <img src="../logo/j.svg" width="16"> journal  
+Lightly reviewed: <img src="../logo/w.svg" width="16"> workshop \| <img src="../logo/a.svg" width="16"> abstract  
+Unreviewed: <img src="../logo/i.svg" width="16"> invited paper \| <img src="../logo/r.svg" width="16"> report  

@@ -1,8 +1,8 @@
 @inproceedings{jiang2019bias,
-	author = {Shan Jiang and Ronald E. Robertson and Christo Wilson},
-	title = {Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation},
-	booktitle = {Proceedings of the 13th International AAAI Conference on Web and Social Media (ICWSM 2019)},
-	address = {Munich, Germany},
-	month = {June},
-	year = {2019}
+  author = {Shan Jiang and Ronald E. Robertson and Christo Wilson},
+  title = {Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation},
+  booktitle = {Proceedings of the 13th International AAAI Conference on Web and Social Media (ICWSM 2019)},
+  address = {Munich, Germany},
+  month = {June},
+  year = {2019}
 }

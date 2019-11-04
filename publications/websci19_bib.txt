@@ -1,8 +1,8 @@
 @inproceedings{ronald2019auditing,
-	author = {Ronald E. Robertson and Shan Jiang and David Lazer and Christo Wilson},
-	title = {Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation},
-	booktitle = {Proceedings of the 11th International ACM Web Science Conference (WebSci 2019)},
-	address = {Boston, MA, USA},
-	month = {June},
-	year = {2019}
+  author = {Ronald E. Robertson and Shan Jiang and David Lazer and Christo Wilson},
+  title = {Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation},
+  booktitle = {Proceedings of the 11th International ACM Web Science Conference (WebSci 2019)},
+  address = {Boston, MA, USA},
+  month = {June},
+  year = {2019}
 }

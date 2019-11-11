@@ -1,0 +1,8 @@
+@inproceedings{jiang2020reasoning,
+  author = {Shan Jiang and Ronald E. Robertson and Christo Wilson},
+  title = {Reasoning about Political Bias in Content Moderation},
+  booktitle = {Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)},
+  address = {New York, NY, USA},
+  month = {February},
+  year = {2020}
+}

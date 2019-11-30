@@ -10,7 +10,7 @@ Shan Jiang, Ronald E Robertson, and Christo Wilson
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../logo/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM 2019**)*, Munich, Germany, Jun 2019  
-\[ [paper](icwsm19_paper.pdf){:target="_blank"} \| [bibtex](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] acceptance rate: 51/238=21.4%  
+\[ [paper](icwsm19_paper.pdf){:target="_blank"} \| [bibtex](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \| [slides](icwsm19_slides.pptx){:target="_blank"} \] acceptance rate: 51/238=21.4%  
 <img src="../logo/award.png" width="16"> **outstanding analysis paper: 1/238=0.4%**  
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
@@ -50,7 +50,7 @@ Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
 <img src="../logo/r.svg" width="16"> Available at *SSRN*, Oct 2018  
 <img src="../logo/a.svg" width="16"> Abstract presented at *the 79th Annual Meeting of the Academy of Management (**AOM 2019**)*, Boston, MA, USA, Aug 2019  
-\[ [paper](ssrn18_paper.pdf){:target="_blank"} \| [bibtex](ssrn18_bib.txt){:target="_blank"} \| [ssrn](https://ssrn.com/abstract=3261811){:target="_blank"} \]
+\[ [paper](ssrn18_paper.pdf){:target="_blank"} \| [bibtex](ssrn18_bib.txt){:target="_blank"} \| [ssrn](https://ssrn.com/abstract=3261811){:target="_blank"} \| [abstract](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.16279abstract){:target="_blank"} \]
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  

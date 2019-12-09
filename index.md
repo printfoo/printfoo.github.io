@@ -13,7 +13,7 @@ During my Ph.D., I have interned with [Google AI](https://ai.google){:target="_b
 * Contact: [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"}
 * [Résumé](shanjiang-resume.pdf){:target="_blank"}
 * [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ){:target="_blank"} and [dblp](https://dblp.org/pers/hd/j/Jiang_0008:Shan){:target="_blank"}
-* [University Page](https://www.khoury.northeastern.edu/people/shan-jiang){:target="_blank"} (*very outdated*)
+* [My page at Northeastern](https://www.khoury.northeastern.edu/people/shan-jiang){:target="_blank"} (*very outdated*)
 
 ### News
 

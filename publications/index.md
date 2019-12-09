@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Publications
 ---
 * **Reasoning about Political Bias in Content Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  

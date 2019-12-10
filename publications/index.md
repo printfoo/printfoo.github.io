@@ -5,7 +5,7 @@ title: Publications
 * **Reasoning about Political Bias in Content Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../logo/i.svg" width="16"> In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)*, New York, NY, USA, Feb 2020  
-\[ [paper](aaai20_paper.pdf){:target="_blank"} \| [bibtex](aaai20_bib.txt){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] invited paper acceptance rate: 16/16=100%
+\[ [paper](aaai20_paper.pdf){:target="_blank"} \| [bibtex](aaai20_bib.txt){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \] invited sister conference track paper: 16/16=100%
 
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  

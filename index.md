@@ -17,7 +17,7 @@ During my Ph.D., I have interned with [Google AI](https://ai.google){:target="_b
 
 ### News
 
-* Nov 2019: Accepted an internship with [Facebook](https://about.fb.com){:target="_blank"}'s dangerous content team in summer 2020, Seattle.
-* Oct 2019: Content moderation paper was invited to sister conference track at [AAAI 2020](https://aaai.org/Conferences/AAAI-20){:target="_blank"}, New York.
+* Nov 2019: Accepted an internship with [Facebook](https://research.fb.com){:target="_blank"}'s dangerous content team in summer 2020, Seattle.
+* Oct 2019: Content moderation [paper](publications/aaai20_paper.pdf){:target="_blank"} was invited to sister conference track at [AAAI 2020](https://aaai.org/Conferences/AAAI-20){:target="_blank"}, New York.
 * Sep 2019: Finished my summer internship with [Google AI](https://ai.google){:target="_blank"}, had a wonderful time thanks to [Simon](https://ai.google/research/people/105996){:target="_blank"}, [Abe](https://scholar.google.com/citations?user=8P1Y_90AAAAJ){:target="_blank"}, [Cong](https://sites.google.com/site/congyu){:target="_blank"} and the entire fact-check team! A paper submitted to [WWW 2020](https://www2020.thewebconf.org){:target="_blank"}, Taipei.
-* Jun 2019: Content moderation paper won an Outstanding Analysis Paper award at [ICWSM 2019](https://www.icwsm.org/2019){:target="_blank"}, Munich. Many thanks to [Ron](http://ronalderobertson.com){:target="_blank"} and [Christo](https://cbw.sh){:target="_blank"}.
+* Jun 2019: Content moderation [paper](publications/icwsm19_paper.pdf){:target="_blank"} won an Outstanding Analysis Paper award at [ICWSM 2019](https://www.icwsm.org/2019){:target="_blank"}, Munich. Many thanks to [Ron](http://ronalderobertson.com){:target="_blank"} and [Christo](https://cbw.sh){:target="_blank"}.

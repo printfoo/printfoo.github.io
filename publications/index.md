@@ -83,6 +83,6 @@ Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang
 \[ [paper](icpads14_paper.pdf){:target="_blank"} \| [bibtex](icpads14_bib.txt){:target="_blank"} \] acceptance rate: 96/322=29.8%
 
 &nbsp;  
-Rigorously reviewed: <img src="../logo/c.svg" width="16"> conference \| <img src="../logo/j.svg" width="16"> journal  
-Lightly reviewed: <img src="../logo/w.svg" width="16"> workshop \| <img src="../logo/a.svg" width="16"> abstract  
-Unreviewed: <img src="../logo/i.svg" width="16"> invited paper \| <img src="../logo/r.svg" width="16"> report  
+Rigorously peer-reviewed: <img src="../logo/c.svg" width="16"> conference \| <img src="../logo/j.svg" width="16"> journal  
+Lightly peer-reviewed: <img src="../logo/w.svg" width="16"> workshop \| <img src="../logo/a.svg" width="16"> abstract  
+Not peer-reviewed: <img src="../logo/i.svg" width="16"> invited paper \| <img src="../logo/r.svg" width="16"> report  

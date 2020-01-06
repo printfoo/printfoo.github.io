@@ -10,10 +10,11 @@ I work broadly around **computational journalism** and **computational social sc
 During my Ph.D., I have interned with [Google AI](https://ai.google){:target="_blank"} in summer 2019, and [Dataminr](https://www.dataminr.com){:target="_blank"} in spring 2019. Before Ph.D., I got my B.B.A in Management Information Systems from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn){:target="_blank"} in 2016 and did my undergraduate thesis at [National University of Singapore](http://nus.edu.sg){:target="_blank"}.
 
 ### Links
-* Contact: [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"}
-* [Curriculum vitae](shanjiang-cv.pdf){:target="_blank"}
-* [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ){:target="_blank"} and [dblp](https://dblp.org/pers/hd/j/Jiang_0008:Shan){:target="_blank"}
-* [My page at Northeastern](https://www.khoury.northeastern.edu/people/shan-jiang){:target="_blank"} (*very outdated*)
+* Email: [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"}
+* Frequently updated: this [website]() and [CV](shanjiang-cv.pdf){:target="_blank"}
+* Automatically updated: [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ){:target="_blank"} and [dblp](https://dblp.org/pers/hd/j/Jiang_0008:Shan){:target="_blank"}
+* Occasionally updated: [GitHub](https://github.com/printfoo){:target="_blank"} and [LinkedIn](https://www.linkedin.com/in/shan-jiang){:target="_blank"}
+* Almost never updated: my [Northeastern page](https://www.khoury.northeastern.edu/people/shan-jiang){:target="_blank"} and Twitter [@printfoo](https://twitter.com/printfoo){:target="_blank"}
 
 ### News
 

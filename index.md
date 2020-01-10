@@ -14,7 +14,7 @@ During my Ph.D., I have interned with [Google AI](https://ai.google){:target="_b
 * This [website]() and [CV](shanjiang-cv.pdf){:target="_blank"} (*frequently updated*)
 * [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ){:target="_blank"} and [dblp](https://dblp.org/pers/hd/j/Jiang_0008:Shan){:target="_blank"} (*automatically updated*)
 * [GitHub](https://github.com/printfoo){:target="_blank"} and [LinkedIn](https://www.linkedin.com/in/shan-jiang){:target="_blank"} (*occasionally updated*)
-* My [Northeastern page](https://www.khoury.northeastern.edu/people/shan-jiang){:target="_blank"} and Twitter [@printfoo](https://twitter.com/printfoo){:target="_blank"} (*almost never updated*)
+* [@printfoo](https://twitter.com/printfoo){:target="_blank"} and my [Northeastern page](https://www.khoury.northeastern.edu/people/shan-jiang){:target="_blank"} (*hardly updated*)
 
 ### News
 

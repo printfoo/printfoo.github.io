@@ -2,6 +2,11 @@
 layout: page
 title: Publications
 ---
+* **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**  
+Shan Jiang, Simon Baumgartner, Abe Ittycheriah and Cong Yu  
+<img src="../logo/c.svg" width="16"> In *Proceedings of the 2020 Web Conference (**WWW 2020**)*, Taipei, Taiwan, Apr 2020  
+\[ paper coming soon \| [bibtex](www20_bib.txt){:target="_blank"} \] acceptance rate: 217/1,129=19.2%
+
 * **Reasoning about Political Bias in Content Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../logo/i.svg" width="16"> In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)*, New York, NY, USA, Feb 2020  

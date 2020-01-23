@@ -4,8 +4,8 @@ title: Resources
 ---
 ### Factoring Fact-Checks
 
-* **Data**: A dataset of 6K+ fact-check articles with reported factors (claim, claimant, and verdict).
-Available at: [https://datacommons.org/factcheck](https://datacommons.org/factcheck){:target="_blank"}
+* **Data**: A dataset of 6K+ fact-check articles with reported factors (claim, claimant, and verdict).  
+Available at: <img src="../images/icons/foreign.svg" width="16"> [https://datacommons.org/factcheck](https://datacommons.org/factcheck){:target="_blank"}
 
 ### Content Moderation
 
@@ -22,7 +22,7 @@ Available at: [https://datacommons.org/factcheck](https://datacommons.org/factch
 \[ [<img src="../images/icons/download.svg" width="14"> download](factchecks.csv){:target="_blank"} \]
 
 * **User Comments**: A dataset of 2.6M+ user comments on social media for above posts.  
-\[ [<img src="../images/icons/download.svg" width="14"> facebook](comments/facebook.bz2){:target="_blank"} | [<img src="../images/icons/download.svg" width="16"> twitter](comments/twitter.bz2){:target="_blank"} | [<img src="../images/icons/download.svg" width="16"> youtube](comments/youtube.bz2){:target="_blank"} \]
+\[ [<img src="../images/icons/download.svg" width="14"> facebook](comments/facebook.bz2){:target="_blank"} | [<img src="../images/icons/download.svg" width="14"> twitter](comments/twitter.bz2){:target="_blank"} | [<img src="../images/icons/download.svg" width="14"> youtube](comments/youtube.bz2){:target="_blank"} \]
 
 ### Ridesharing
 

@@ -3,11 +3,22 @@ layout: page
 title: About
 ---
 
-Hi, I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}), a 4th-year Ph.D. student in Computer Science at [Northeastern University](https://www.northeastern.edu){:target="_blank"}. I'm *happily and fortunately* advised by Professor [Christo Wilson](https://cbw.sh){:target="_blank"}.
+<img src="../images/icons/hi.svg" width="16"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"})!
+
+### Research
 
 I work broadly around **computational journalism** and **computational social science**. Currently, my research investigates the **(mis)information** problem in human-generated content (e.g., news articles, social media posts) on the web, particularly under algorithmic curation (e.g., ranking, moderation).
 
-During my Ph.D., I have interned with [Google AI](https://ai.google){:target="_blank"} in summer 2019, and [Dataminr](https://www.dataminr.com){:target="_blank"} in spring 2019. Before Ph.D., I got my B.B.A in Management Information Systems from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn){:target="_blank"} in 2016 and did my undergraduate thesis at [National University of Singapore](http://nus.edu.sg){:target="_blank"}.
+### Education
+* <img src="images/logos/neu.png" width="16"> Ph.D. in Computer Science @ **Northeastern University**, <img src="../images/icons/happy.svg" width="16"> advised by [Christo Wilson](https://cbw.sh){:target="_blank"}, Sep 2016 - Present
+* <img src="images/logos/bupt.png" width="16"> B.B.A in Management Information Systems @ **Beijing University of Posts and Telecommunications**, Sep 2012 - Jul 2016
+
+### Experience
+* <img src="images/logos/google.png" width="16"> Software Engineer Intern @ **Google**, Jun 2019 - Aug 2019
+* <img src="images/logos/dataminr.png" width="16"> Research Intern @ **Dataminr**, Feb 2019 - Apr 2019
+* <img src="images/logos/neu.png" width="16"> Research Assistant @ **Northeastern University**, Sep 2016 - Present
+* <img src="images/logos/nus.png" width="16"> Research Assistant @ **National University of Singapore**, Dec 2015 - May 2016
+* <img src="images/logos/bupt.png" width="16"> Research Assistant @ **Beijing University of Posts and Telecommunications**, Oct 2013 - Dec 2015
 
 ### Links
 * <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"}
@@ -17,7 +28,6 @@ During my Ph.D., I have interned with [Google AI](https://ai.google){:target="_b
 * <img src="../images/logos/twitter.svg" width="16"> [@printfoo](https://twitter.com/printfoo){:target="_blank"} and my <img src="../images/icons/school.svg" width="16"> [Northeastern page](https://www.khoury.northeastern.edu/people/shan-jiang){:target="_blank"} (*hardly updated*)
 
 ### News
-
 * 2020-01-10: Fact-check paper (done during the summer internship with Google AI) was accepted with oral presentation at [WWW 2020](https://www2020.thewebconf.org){:target="_blank"}. Thanks the fact-check team!
 * 2019-11-15: Going for an internship with [Facebook](https://research.fb.com){:target="_blank"}'s dangerous content team in summer 2020.
 * 2019-10-08: Content moderation paper was invited as a sister conference track [paper](publications/aaai20_paper.pdf){:target="_blank"} to [AAAI 2020](https://aaai.org/Conferences/AAAI-20){:target="_blank"}.

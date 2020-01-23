@@ -3,29 +3,22 @@ layout: page
 title: About
 ---
 
-<img src="../images/icons/hi.svg" width="30"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}).
+<img src="../images/icons/hi.png" width="30"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}).
 
 ### Research
 
 I work broadly around **computational journalism** and **computational social science**. Currently, my research investigates the **(mis)information** problem in human-generated content (e.g., news articles, social media posts) on the web, particularly under algorithmic curation (e.g., ranking, moderation).
 
 ### Education
-* <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Sep 2016 - Present  
-Ph.D. in Computer Science, advised by <img src="../images/icons/thumb.svg" width="16"> [Christo Wilson](https://cbw.sh){:target="_blank"}
-* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, Sep 2012 - Jul 2016  
-B.B.A in Management Information Systems
+* <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Ph.D. in Computer Science, advised by <img src="../images/icons/thumb.svg" width="16"> [Christo Wilson](https://cbw.sh){:target="_blank"}, ongoing
+* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, B.B.A in Management Information Systems, 2016
 
 ### Experience
-* <img src="images/logos/google.png" width="16"> [Google AI](https://ai.google){:target="_blank"}, Jun 2019 - Aug 2019  
-Software Engineer Intern
-* <img src="images/logos/dataminr.png" width="16"> [Dataminr](https://www.dataminr.com){:target="_blank"}, Feb 2019 - Apr 2019  
-Research Intern
-* <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Sep 2016 - Present  
-Research Assistant
-* <img src="images/logos/nus.jpg" width="16"> [NUS](http://www.nus.edu.sg){:target="_blank"}, Dec 2015 - May 2016  
-Research Assistant
-* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, Oct 2013 - Dec 2015  
-Research Assistant
+* <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Research Assistant, ongoing
+* <img src="images/logos/google.png" width="16"> [Google AI](https://ai.google){:target="_blank"}, Software Engineer Intern, 2019
+* <img src="images/logos/dataminr.png" width="16"> [Dataminr](https://www.dataminr.com){:target="_blank"}, Research Intern, 2019  
+* <img src="images/logos/nus.jpg" width="16"> [NUS](http://www.nus.edu.sg){:target="_blank"}, Research Assistant, 2015 - 2016
+* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, Research Assistant, 2013 - 2015
 
 ### Links
 * <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"}

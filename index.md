@@ -3,14 +3,11 @@ layout: page
 title: About
 ---
 
-Hi, I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}).  
-\[ <img src="../images/icons/cv.svg" width="16"> [CV](shanjiang-cv.pdf){:target="_blank"} \| <img src="../images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ){:target="_blank"} \| <img src="../images/logos/github.svg" width="16"> [GitHub](https://github.com/printfoo){:target="_blank"} \| <img src="../images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/shan-jiang){:target="_blank"} \| <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"} \]
-
-### Research
+Hi, I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}). I'm a Ph.D. student working at intersection of **computational social science** and **natural language processing**. Here is a list of my [publications](publications).
 
 My current research investigates multiple aspects the **(mis)information** ecosystem, e.g., social media audiences' response ([CSCW'18a](https://www.shanjiang.me/publications/cscw18a_paper.pdf){:target="_blank"}), platforms' interventions such as content moderation ([ICWSM'19](https://www.shanjiang.me/publications/icwsm19_paper.pdf){:target="_blank"}, [AAAI'20](https://www.shanjiang.me/publications/aaai20_paper.pdf){:target="_blank"}) and search ranking ([CSCW'18b](https://www.shanjiang.me/publications/cscw18b_paper.pdf){:target="_blank"}), and fact-checkers' strategies ([WWW'20](){:target="_blank"}).
 
-More broadly, I'm interested in **computational social science** and **natural language processing**. Here are a list of my [publications](publications).
+\[ <img src="../images/icons/cv.svg" width="16"> [CV](shanjiang-cv.pdf){:target="_blank"} \| <img src="../images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ){:target="_blank"} \| <img src="../images/logos/github.svg" width="16"> [GitHub](https://github.com/printfoo){:target="_blank"} \| <img src="../images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/shan-jiang){:target="_blank"} \| <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"} \]
 
 ### Education
 * <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Ph.D. in Computer Science, advised by <img src="../images/icons/thumb.svg" width="16"> [Christo Wilson](https://cbw.sh){:target="_blank"}, ongoing

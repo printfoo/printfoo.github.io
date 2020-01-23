@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="../images/icons/hi.png" width="30"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}).
+<img src="../images/icons/hi.png" width="25"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}).
 
 ### Research
 
@@ -11,7 +11,7 @@ I work broadly around **computational journalism** and **computational social sc
 
 ### Education
 * <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Ph.D. in Computer Science, advised by <img src="../images/icons/thumb.svg" width="16"> [Christo Wilson](https://cbw.sh){:target="_blank"}, ongoing
-* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, B.B.A in Management Information Systems, 2016
+* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, B.B.A. in Management Information Systems, 2016
 
 ### Experience
 * <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Research Assistant, ongoing

@@ -10,11 +10,11 @@ I work broadly around **computational journalism** and **computational social sc
 During my Ph.D., I have interned with [Google AI](https://ai.google){:target="_blank"} in summer 2019, and [Dataminr](https://www.dataminr.com){:target="_blank"} in spring 2019. Before Ph.D., I got my B.B.A in Management Information Systems from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn){:target="_blank"} in 2016 and did my undergraduate thesis at [National University of Singapore](http://nus.edu.sg){:target="_blank"}.
 
 ### Links
-* [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"}
-* [CV](shanjiang-cv.pdf){:target="_blank"} and [shanjiang.me](https://shanjiang.me) (*frequently updated*)
-* [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ){:target="_blank"} and [dblp](https://dblp.org/pers/hd/j/Jiang_0008:Shan){:target="_blank"} (*automatically updated*)
-* [GitHub](https://github.com/printfoo){:target="_blank"} and [LinkedIn](https://www.linkedin.com/in/shan-jiang){:target="_blank"} (*occasionally updated*)
-* [@printfoo](https://twitter.com/printfoo){:target="_blank"} and my [Northeastern page](https://www.khoury.northeastern.edu/people/shan-jiang){:target="_blank"} (*hardly updated*)
+* <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"}
+* <img src="../images/icons/cv.svg" width="16"> [CV](shanjiang-cv.pdf){:target="_blank"} and <img src="../images/logos/shanjiang.svg" width="16"> [shanjiang.me](https://shanjiang.me) (*frequently updated*)
+* <img src="../images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ){:target="_blank"} and <img src="../images/logos/dblp.svg" width="16"> [dblp](https://dblp.org/pers/hd/j/Jiang_0008:Shan){:target="_blank"} (*automatically updated*)
+* <img src="../images/logos/github.svg" width="16"> [GitHub](https://github.com/printfoo){:target="_blank"} and <img src="../images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/shan-jiang){:target="_blank"} (*occasionally updated*)
+* <img src="../images/logos/twitter.svg" width="16"> [@printfoo](https://twitter.com/printfoo){:target="_blank"} and my <img src="../images/icons/school.svg" width="16"> [Northeastern page](https://www.khoury.northeastern.edu/people/shan-jiang){:target="_blank"} (*hardly updated*)
 
 ### News
 

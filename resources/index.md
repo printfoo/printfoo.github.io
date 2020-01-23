@@ -5,7 +5,7 @@ title: Resources
 ### Factoring Fact-Checks
 
 * **Data**: A dataset of 6K+ fact-check articles with reported factors (claim, claimant, and verdict).  
-Available at: <img src="../images/icons/foreign.svg" width="16"> [https://datacommons.org/factcheck](https://datacommons.org/factcheck){:target="_blank"}
+Available at: <img src="../images/icons/link.svg" width="16"> [https://datacommons.org/factcheck](https://datacommons.org/factcheck){:target="_blank"}
 
 ### Content Moderation
 

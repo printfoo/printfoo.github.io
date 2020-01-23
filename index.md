@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="../images/icons/hi.svg" width="16"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"})!
+<img src="../images/icons/hi.svg" width="25"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}).
 
 ### Research
 

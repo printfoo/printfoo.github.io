@@ -10,15 +10,15 @@ title: About
 I work broadly around **computational journalism** and **computational social science**. Currently, my research investigates the **(mis)information** problem in human-generated content (e.g., news articles, social media posts) on the web, particularly under algorithmic curation (e.g., ranking, moderation).
 
 ### Education
-* <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Ph.D. in Computer Science, <img src="../images/icons/happy.svg" width="16"> advised by [Christo Wilson](https://cbw.sh){:target="_blank"}, Sep 2016 - Present
-* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, B.B.A in Management Information Systems, Sep 2012 - Jul 2016
+* <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, *Ph.D. in Computer Science*, advised by <img src="../images/icons/thumb.svg" width="16"> [Christo Wilson](https://cbw.sh){:target="_blank"}, Sep 2016 - Present
+* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, *B.B.A in Management Information Systems*, Sep 2012 - Jul 2016
 
 ### Experience
-* <img src="images/logos/google.png" width="16"> [Google AI](https://ai.google){:target="_blank"}, Software Engineer Intern, Jun 2019 - Aug 2019
-* <img src="images/logos/dataminr.png" width="16"> [Dataminr](https://www.dataminr.com){:target="_blank"}, Research Intern, Feb 2019 - Apr 2019
-* <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Research Assistant, Sep 2016 - Present
-* <img src="images/logos/nus.jpg" width="16"> [NUS](http://www.nus.edu.sg){:target="_blank"}, Research Assistant, Dec 2015 - May 2016
-* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, Research Assistant, Oct 2013 - Dec 2015
+* <img src="images/logos/google.png" width="16"> [Google AI](https://ai.google){:target="_blank"}, *Software Engineer Intern*, Jun 2019 - Aug 2019
+* <img src="images/logos/dataminr.png" width="16"> [Dataminr](https://www.dataminr.com){:target="_blank"}, *Research Intern*, Feb 2019 - Apr 2019
+* <img src="images/logos/neu.png" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, *Research Assistant*, Sep 2016 - Present
+* <img src="images/logos/nus.jpg" width="16"> [NUS](http://www.nus.edu.sg){:target="_blank"}, *Research Assistant*, Dec 2015 - May 2016
+* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, *Research Assistant*, Oct 2013 - Dec 2015
 
 ### Links
 * <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu){:target="_blank"}

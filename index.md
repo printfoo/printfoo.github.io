@@ -11,14 +11,14 @@ Currently, I'm investigating multiple aspects of the **(mis)information** ecosys
 
 ### Education
 * <img src="images/logos/northeastern.svg" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Ph.D. in Computer Science, advised by <img src="../images/icons/thumb.svg" width="16"> [Christo Wilson](https://cbw.sh){:target="_blank"}, *expected* 2021
-* <img src="images/logos/bupt.svg" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, B.B.A. in Management Information Systems, 2016
+* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, B.B.A. in Management Information Systems, 2016
 
 ### Experience
 * <img src="images/logos/northeastern.svg" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Research Assistant, 2016 - now
 * <img src="images/logos/google_ai.png" width="16"> [Google AI](https://ai.google){:target="_blank"}, Software Engineer Intern, 2019
 * <img src="images/logos/dataminr.png" width="16"> [Dataminr](https://www.dataminr.com){:target="_blank"}, Research Intern, 2019  
 * <img src="images/logos/nus.jpg" width="16"> [NUS](http://www.nus.edu.sg){:target="_blank"}, Research Assistant, 2015 - 2016
-* <img src="images/logos/bupt.svg" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, Research Assistant, 2013 - 2015
+* <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, Research Assistant, 2013 - 2015
 
 ### News
 * 2020-01-10: Fact-check paper (done during the summer internship with Google AI) was accepted with oral presentation at [WWW 2020](https://www2020.thewebconf.org){:target="_blank"}. Thanks the fact-check team!

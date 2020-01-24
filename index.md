@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="../images/icons/hi.svg" width="40"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}). I work on **computational social science**.
+<img src="../images/icons/hi.svg" width="36"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}). I work on **computational social science**.
 
 Currently, I'm investigating multiple aspects of the **(mis)information** ecosystem, including: understanding audiences' responses on social media ([CSCW'18a](https://www.shanjiang.me/publications/cscw18a_paper.pdf){:target="_blank"}); auditing platforms' interventions, e.g., content moderation ([ICWSM'19](https://www.shanjiang.me/publications/icwsm19_paper.pdf){:target="_blank"}, [AAAI'20](https://www.shanjiang.me/publications/aaai20_paper.pdf){:target="_blank"}) and search ranking ([CSCW'18b](https://www.shanjiang.me/publications/cscw18b_paper.pdf){:target="_blank"}); extracting structured information from fact-checks ([WWW'20](){:target="_blank"}); and other projects listed in my [publications](publications).
 

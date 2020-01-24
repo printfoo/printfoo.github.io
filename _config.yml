@@ -3,6 +3,8 @@ author: Shan Jiang
 #email: sjiang@ccs.neu.edu
 description: 2020
 
+
+google_analytics: UA-93528281-1
 # social links
 # twitter_username: jekyllrb
 # github_username: printfoo
@@ -38,7 +40,6 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
-# - experience/index.md
  - publications/index.md
  - resources/index.md
 

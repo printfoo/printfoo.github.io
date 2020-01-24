@@ -15,7 +15,7 @@ Currently, I'm investigating multiple aspects of the **(mis)information** ecosys
 
 ### Experience
 * <img src="images/logos/northeastern.svg" width="16"> [Northeastern](https://www.northeastern.edu){:target="_blank"}, Research Assistant, 2016 - now
-* <img src="images/logos/google.png" width="16"> [Google AI](https://ai.google){:target="_blank"}, Software Engineer Intern, 2019
+* <img src="images/logos/google_ai.png" width="16"> [Google AI](https://ai.google){:target="_blank"}, Software Engineer Intern, 2019
 * <img src="images/logos/dataminr.png" width="16"> [Dataminr](https://www.dataminr.com){:target="_blank"}, Research Intern, 2019  
 * <img src="images/logos/nus.jpg" width="16"> [NUS](http://www.nus.edu.sg){:target="_blank"}, Research Assistant, 2015 - 2016
 * <img src="images/logos/bupt.svg" width="16"> [BUPT](https://english.bupt.edu.cn){:target="_blank"}, Research Assistant, 2013 - 2015

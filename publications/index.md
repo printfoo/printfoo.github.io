@@ -5,7 +5,7 @@ title: Publications
 * **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**  
 Shan Jiang, Simon Baumgartner, Abe Ittycheriah and Cong Yu  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 2020 Web Conference (**WWW'20**)*, Taipei, Taiwan, Apr 2020  
-\[ paper coming soon \| [bibtex](www20_bib.txt){:target="_blank"} \] acceptance rate: 217/1,129=19.2%
+\[ [paper](www20_paper.pdf) \| [bibtex](www20_bib.txt){:target="_blank"} \| [supplement](www20_supplement.pdf){:target="_blank"} \] acceptance rate: 217/1,129=19.2%
 
 * **Reasoning about Political Bias in Content Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
@@ -15,7 +15,7 @@ Shan Jiang, Ronald E Robertson, and Christo Wilson
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM'19**)*, Munich, Germany, Jun 2019  
-\[ [paper](icwsm19_paper.pdf){:target="_blank"} \| [bibtex](icwsm19_bib.txt){:target="_blank"} \| [supplementary](icwsm19_supplementary.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \| [slides](icwsm19_slides.pptx){:target="_blank"} \] acceptance rate: 51/238=21.4%  
+\[ [paper](icwsm19_paper.pdf){:target="_blank"} \| [bibtex](icwsm19_bib.txt){:target="_blank"} \| [supplement](icwsm19_supplement.pdf){:target="_blank"} \| [data](../resources/#content-moderation){:target="_blank"} \| [code](https://github.com/printfoo/moderation-icwsm2019){:target="_blank"} \| [slides](icwsm19_slides.pptx){:target="_blank"} \] acceptance rate: 51/238=21.4%  
 <img src="../images/icons/medal.svg" width="16"> **outstanding analysis paper: 1/238=0.4%**  
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
@@ -48,7 +48,7 @@ Shan Jiang, and Christo Wilson
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 <img src="../images/letters/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 <img src="../images/letters/c.svg" width="16"> Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW'18**)*, Jersey City, NJ, USA, Nov 2018  
-\[ [paper](cscw18b_paper.pdf){:target="_blank"} \| [bibtex](cscw18b_bib.txt){:target="_blank"} \| [supplementary](cscw18b_supplementary.pdf){:target="_blank"} \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} \] acceptance rate: 185/722=25.6%  
+\[ [paper](cscw18b_paper.pdf){:target="_blank"} \| [bibtex](cscw18b_bib.txt){:target="_blank"} \| [supplement](cscw18b_supplement.pdf){:target="_blank"} \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb){:target="_blank"} \] acceptance rate: 185/722=25.6%  
 <img src="../images/icons/medal.svg" width="16"> **honorable mention for best paper: 30/1,106=2.7%**  
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  

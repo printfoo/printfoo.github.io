@@ -5,7 +5,7 @@ title: About
 
 <img src="../images/icons/hi.svg" width="36"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F){:target="_blank"}[山](https://en.wikipedia.org/wiki/Radical_46){:target="_blank"}).
 
-I study **(mis)information** as an ecosystem by observing the behaviors of its players. This includes: understanding audiences' responses on social media ([CSCW'18a](publications/cscw18a_paper.pdf){:target="_blank"}); auditing platforms' interventions, e.g., content moderation ([ICWSM'19](publications/icwsm19_paper.pdf){:target="_blank"}, [AAAI'20](publications/aaai20_paper.pdf){:target="_blank"}) and search ranking ([CSCW'18b](publications/cscw18b_paper.pdf){:target="_blank"}); extracting structured information from fact-checks ([WWW'20](publications/www20_paper.pdf){:target="_blank"}); etc.
+I study **(mis)information** as an ecosystem by observing the behaviors of its players, which includes: understanding audiences' responses on social media ([CSCW'18a](publications/cscw18a_paper.pdf){:target="_blank"}), auditing platforms' interventions such as content moderation ([ICWSM'19](publications/icwsm19_paper.pdf){:target="_blank"}, [AAAI'20](publications/aaai20_paper.pdf){:target="_blank"}) and search ranking ([CSCW'18b](publications/cscw18b_paper.pdf){:target="_blank"}), extracting structured information from fact-checks ([WWW'20](publications/www20_paper.pdf){:target="_blank"}), etc.
 
 Broadly speaking, I'm interested in **computational social science** and **natural language processing**. Related projects can be found in my [publications](publications).
 

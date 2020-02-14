@@ -10,7 +10,7 @@ Shan Jiang, Simon Baumgartner, Abe Ittycheriah and Cong Yu
 * **Reasoning about Political Bias in Content Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../images/letters/i.svg" width="16"> In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI'20**)*, New York, NY, USA, Feb 2020  
-\[ [paper](aaai20_paper.pdf) \| [bibtex](aaai20_bib.txt) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \] invited to sister conference track: 16/16=100%
+\[ [paper](aaai20_paper.pdf) \| [bibtex](aaai20_bib.txt) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \| [slides](aaai20_slides.pdf) \] invited to sister conference track: 16/16=100%
 
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  

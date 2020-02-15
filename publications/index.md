@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 * **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**  
-__Shan Jiang__, Simon Baumgartner, Abe Ittycheriah and Cong Yu  
+Shan Jiang, Simon Baumgartner, Abe Ittycheriah and Cong Yu  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 2020 Web Conference (**WWW'20**)*, Taipei, Taiwan, Apr 2020  
 \[ [paper](www20_paper.pdf) \| [bibtex](www20_bib.txt) \| [supplement](www20_supplement.pdf) \| [data](../resources/#factoring-fact-checks) \] acceptance rate: 217/1,129=19.2%
 

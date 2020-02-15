@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="../images/icons/hi.svg" width="36"> I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F)[山](https://en.wikipedia.org/wiki/Radical_46)).
+Hi! I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F)[山](https://en.wikipedia.org/wiki/Radical_46)).
 
 I study **(mis)information** as an ecosystem by observing the behaviors of its players, which includes:
 auditing platforms' interventions such as content moderation ([ICWSM'19](publications/icwsm19_paper.pdf), [AAAI'20](publications/aaai20_paper.pdf)) and search ranking ([CSCW'18b](publications/cscw18b_paper.pdf)),

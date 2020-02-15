@@ -3,19 +3,19 @@ layout: page
 title: Publications
 ---
 * **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**  
-Shan Jiang, Simon Baumgartner, Abe Ittycheriah and Cong Yu  
+__Shan Jiang__, Simon Baumgartner, Abe Ittycheriah and Cong Yu  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 2020 Web Conference (**WWW'20**)*, Taipei, Taiwan, Apr 2020  
 \[ [paper](www20_paper.pdf) \| [bibtex](www20_bib.txt) \| [supplement](www20_supplement.pdf) \| [data](../resources/#factoring-fact-checks) \] acceptance rate: 217/1,129=19.2%
 
 * **Reasoning about Political Bias in Content Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../images/letters/i.svg" width="16"> In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI'20**)*, New York, NY, USA, Feb 2020  
-\[ [paper](aaai20_paper.pdf) \| [bibtex](aaai20_bib.txt) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \| [slides](aaai20_slides.pdf) \] invited to sister conference track: 16/16=100%
+\[ [paper](aaai20_paper.pdf) \| [bibtex](aaai20_bib.txt) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \| [slides](aaai20_slides.pdf) \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \] invited to sister conference track: 16/16=100%
 
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM'19**)*, Munich, Germany, Jun 2019  
-\[ [paper](icwsm19_paper.pdf) \| [bibtex](icwsm19_bib.txt) \| [supplement](icwsm19_supplement.pdf) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \| [slides](icwsm19_slides.pptx) \] acceptance rate: 51/238=21.4%  
+\[ [paper](icwsm19_paper.pdf) \| [bibtex](icwsm19_bib.txt) \| [supplement](icwsm19_supplement.pdf) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \| [slides](icwsm19_slides.pptx)  \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \] acceptance rate: 51/238=21.4%  
 <img src="../images/icons/medal.svg" width="16"> **outstanding analysis paper: 1/238=0.4%**  
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  

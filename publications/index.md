@@ -15,7 +15,7 @@ Shan Jiang, Ronald E Robertson, and Christo Wilson
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM'19**)*, Munich, Germany, Jun 2019  
-\[ [paper](icwsm19_paper.pdf) \| [bibtex](icwsm19_bib.txt) \| [supplement](icwsm19_supplement.pdf) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \| [slides](icwsm19_slides.pptx)  \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \] acceptance rate: 51/238=21.4%  
+\[ [paper](icwsm19_paper.pdf) \| [bibtex](icwsm19_bib.txt) \| [supplement](icwsm19_supplement.pdf) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \| [slides](icwsm19_slides.pdf)  \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \] acceptance rate: 51/238=21.4%  
 <img src="../images/icons/medal.svg" width="16"> **outstanding analysis paper: 1/238=0.4%**  
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  

@@ -142,6 +142,7 @@
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   text-align: center;
+  font-size: $small-font-size;
   @extend %clearfix;
 }
 

@@ -2,8 +2,13 @@
 layout: page
 title: Publications
 ---
+* **Modeling and Measuring Expressed (Dis)belief in (Mis)information**  
+Shan Jiang, Miriam Metzger, Andrew Flanagin, and Christo Wilson  
+<img src="../images/letters/c.svg" width="16"> In *Proceedings of the 14th International AAAI Conference on Web and Social Media (**ICWSM'20**)*, Atlanta, GA, USA, Jun 2020  
+\[ paper coming soon \| [bibtex](icwsm20_bib.txt) \] acceptance rate: 33/195=16.9%
+
 * **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**  
-Shan Jiang, Simon Baumgartner, Abe Ittycheriah and Cong Yu  
+Shan Jiang, Simon Baumgartner, Abe Ittycheriah, and Cong Yu  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 2020 Web Conference (**WWW'20**)*, Taipei, Taiwan, Apr 2020  
 \[ [paper](www20_paper.pdf) \| [bibtex](www20_bib.txt) \| [supplement](www20_supplement.pdf) \| [data](../resources/#factoring-fact-checks) \] acceptance rate: 217/1,129=19.2%
 

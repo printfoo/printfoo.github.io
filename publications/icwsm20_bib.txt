@@ -1,0 +1,7 @@
+@inproceedings{jiang2020modeling,
+  author = {Shan Jiang and Miriam Metzger and Andrew Flanagin and Christo Wilson},
+  title = {Modeling and Measuring Expressed (Dis)belief in (Mis)information},
+  booktitle = {Proceedings of the 14th International AAAI Conference on Web and Social Media (ICWSM 2020)},
+  month = {June},
+  year = {2020}
+}

@@ -17,8 +17,9 @@ More broadly, I'm interested in (mostly) **computational social science** and (r
 
 ### Experience
 * <img src="images/logos/northeastern.svg" width="16"> [Northeastern](https://www.northeastern.edu), Research Assistant, 2016 - now
-* <img src="images/logos/google_ai.png" width="16"> [Google AI](https://ai.google), Software Engineer Intern, 2019
-* <img src="images/logos/dataminr.png" width="16"> [Dataminr](https://www.dataminr.com), Research Intern, 2019  
+* <img src="images/logos/facebook.svg" width="16"> [Facebook (Integrity)](https://ai.facebook.com), Ph.D. ML Intern, 2020
+* <img src="images/logos/google_ai.png" width="16"> [Google (Research)](https://ai.google), Ph.D. SWE Intern, 2019
+* <img src="images/logos/dataminr.png" width="16"> [Dataminr (AI & DS)](https://www.dataminr.com), Research Intern, 2019  
 * <img src="images/logos/nus.png" width="16"> [NUS](http://www.nus.edu.sg), Research Assistant, 2015 - 2016
 * <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn), Research Assistant, 2013 - 2015
 

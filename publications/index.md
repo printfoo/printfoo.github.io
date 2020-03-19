@@ -5,7 +5,7 @@ title: Publications
 * **Modeling and Measuring Expressed (Dis)belief in (Mis)information**  
 Shan Jiang, Miriam Metzger, Andrew Flanagin, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 14th International AAAI Conference on Web and Social Media (**ICWSM'20**)*, Atlanta, GA, USA, Jun 2020  
-\[ paper coming soon \| [bibtex](icwsm20_bib.txt) \] acceptance rate: 33/195=16.9%
+\[ paper coming soon \| [bibtex](icwsm20_bib.txt) \| [data](../resources/#misinfo) \| [code](https://github.com/printfoo/misinfo-cscw2018-icwsm2020) \] acceptance rate: 33/195=16.9%
 
 * **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**  
 Shan Jiang, Simon Baumgartner, Abe Ittycheriah, and Cong Yu  
@@ -15,12 +15,12 @@ Shan Jiang, Simon Baumgartner, Abe Ittycheriah, and Cong Yu
 * **Reasoning about Political Bias in Content Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../images/letters/i.svg" width="16"> In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI'20**)*, New York, NY, USA, Feb 2020  
-\[ [paper](aaai20_paper.pdf) \| [bibtex](aaai20_bib.txt) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \| [slides](aaai20_slides.pdf) \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \] invited to sister conference track: 16/16=100%
+\[ [paper](aaai20_paper.pdf) \| [bibtex](aaai20_bib.txt) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019-aaai2020) \| [slides](aaai20_slides.pdf) \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \] invited to sister conference track: 16/16=100%
 
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 13th International AAAI Conference on Web and Social Media (**ICWSM'19**)*, Munich, Germany, Jun 2019  
-\[ [paper](icwsm19_paper.pdf) \| [bibtex](icwsm19_bib.txt) \| [supplement](icwsm19_supplement.pdf) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019) \| [slides](icwsm19_slides.pdf)  \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \] acceptance rate: 51/238=21.4%  
+\[ [paper](icwsm19_paper.pdf) \| [bibtex](icwsm19_bib.txt) \| [supplement](icwsm19_supplement.pdf) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019-aaai2020) \| [slides](icwsm19_slides.pdf)  \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \] acceptance rate: 51/238=21.4%  
 <img src="../images/icons/medal.svg" width="16"> **outstanding analysis paper: 1/238=0.4%**  
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
@@ -47,7 +47,7 @@ Shan Jiang, John Martin, and Christo Wilson
 Shan Jiang, and Christo Wilson  
 <img src="../images/letters/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), Nov 2018  
 <img src="../images/letters/c.svg" width="16"> Presented at *the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW'18**)*, Jersey City, NJ, USA, Nov 2018  
-\[ [paper](cscw18a_paper.pdf) \| [bibtex](cscw18a_bib.txt) \| [blog](https://medium.com/acm-cscw/people-get-touchy-about-misinformation-and-about-the-truth-too-9930563d96d8) \| [data](../resources/#misinformation) \| [code](https://github.com/printfoo/misinfo-cscw2018) \| [slides](cscw18a_slides.pdf) \| [press](https://hopenothate.com/2018/10/21/extremism-is-on-the-ballot) \] acceptance rate: 185/722=25.6%
+\[ [paper](cscw18a_paper.pdf) \| [bibtex](cscw18a_bib.txt) \| [blog](https://medium.com/acm-cscw/people-get-touchy-about-misinformation-and-about-the-truth-too-9930563d96d8) \| [data](../resources/#misinformation) \| [code](https://github.com/printfoo/misinfo-cscw2018-icwsm2020) \| [slides](cscw18a_slides.pdf) \| [press](https://hopenothate.com/2018/10/21/extremism-is-on-the-ballot) \] acceptance rate: 185/722=25.6%
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  

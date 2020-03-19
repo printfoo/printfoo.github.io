@@ -16,14 +16,15 @@ title: Resources
 
 ### Fact-Checks
 
-* **Data**: A dataset of 6K+ fact-check articles with reported factors (claim, claimant, and verdict).  
+* **Fact-Checks**: The dataset is used for ([WWW'20](publications/www20_paper.pdf)).  
+The dataset contains 6,000+ URLs of fact-checks with reported factors (claim, claimant, and verdict).  
 Available at: <img src="../images/icons/link.svg" width="16"> [https://datacommons.org/factcheck](https://datacommons.org/factcheck)
 
 ### Content Moderation
 
-* **YouTube Comments**: This is the dataset used for  ([ICWSM'19](publications/icwsm19_paper.pdf)) and ([AAAI'20](publications/aaai20_paper.pdf)).  
-The dataset contains 84,000+ YouTube comments with moderation decisions, misinformation, partisanship, and other annotations described in the papers.
-\[ [<img src="../images/icons/download.svg" width="14"> download](https://github.com/printfoo/moderation-icwsm2019-aaai2020/raw/master/public_data/youtube_comments.csv){:download} \]
+* **YouTube Comments**: The dataset is used for  ([ICWSM'19](publications/icwsm19_paper.pdf)) and ([AAAI'20](publications/aaai20_paper.pdf)).  
+The dataset contains 84,000+ YouTube comments with moderation decisions, misinformation, partisanship, and other annotations described in the papers.  
+\[ [<img src="../images/icons/download.svg" width="14"> download](https://github.com/printfoo/moderation-icwsm2019-aaai2020/raw/master/public_data/youtube_comments.csv){:download="youtube_comments.csv"} \]
 
 ### Ridesharing
 

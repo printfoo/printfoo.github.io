@@ -8,12 +8,12 @@ title: Resources
 The dataset contains 6,800+ tweets, with belief and disbelief annotations, in reply to 18 claims.  
 \[ [<img src="../images/icons/download.svg" width="14"> download](annotations.zip) (.zip 0.7M) \]
 
-* **Veracity of Claims**: A dataset collected for ([CSCW'18](/publications/cscw18_paper.pdf)).  
-The dataset contains 5,000+ social media claims, with their veracity judged by Snopes and PolitiFact.  
+* **Social Media Posts**: A dataset collected for ([CSCW'18](/publications/cscw18_paper.pdf)).  
+The dataset contains 5,000+ social media posts, with their veracity judged by Snopes and PolitiFact.  
 \[ [<img src="../images/icons/download.svg" width="14"> download](factchecks.csv) (.csv 1.4M) \]
 
 * **User Comments**: A dataset collected for ([CSCW'18](/publications/cscw18_paper.pdf)) and later used in ([ICWSM'20](/publications/icwsm20_paper.pdf)).  
-The dataset contains 2,600,000+ social media comments, in reply to above claims.  
+The dataset contains 2,600,000+ social media comments, in reply to above posts.  
 \[ [<img src="../images/icons/download.svg" width="14"> facebook](comments/facebook.bz2)  (.bz2 54M) \| [<img src="../images/icons/download.svg" width="14"> youtube](comments/youtube.bz2) (.bz2 49M) \| [<img src="../images/icons/download.svg" width="14"> twitter](comments/twitter.bz2) (.bz2 2.8M)  \]
 
 * **ComLex**: An emotional and topical lexicon developed in ([CSCW'18](/publications/cscw18_paper.pdf)).  

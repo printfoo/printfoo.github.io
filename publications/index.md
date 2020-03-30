@@ -5,7 +5,7 @@ title: Publications
 * **Modeling and Measuring Expressed (Dis)belief in (Mis)information**  
 Shan Jiang, Miriam Metzger, Andrew Flanagin, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 14th International AAAI Conference on Web and Social Media (**ICWSM'20**)*, Atlanta, GA, USA, Jun 2020  
-\[ paper coming soon \| [bibtex](icwsm20_bib.txt) \| [data](../resources/#misinformation) \| [code](https://github.com/printfoo/misinfo-cscw2018-icwsm2020) \] acceptance rate: 33/195=16.9%
+\[ [paper](icwsm20_paper.pdf) \| [bibtex](icwsm20_bib.txt) \| [data](../resources/#misinformation) \| [code](https://github.com/printfoo/misinfo-cscw2018-icwsm2020) \] acceptance rate: 33/195=16.9%
 
 * **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**  
 Shan Jiang, Simon Baumgartner, Abe Ittycheriah, and Cong Yu  

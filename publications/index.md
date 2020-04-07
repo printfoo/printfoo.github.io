@@ -10,7 +10,7 @@ Shan Jiang, Miriam Metzger, Andrew Flanagin, and Christo Wilson
 * **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**  
 Shan Jiang, Simon Baumgartner, Abe Ittycheriah, and Cong Yu  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 2020 Web Conference (**WWW'20**)*, Taipei, Taiwan, Apr 2020  
-\[ [paper](www20_paper.pdf) \| [bibtex](www20_bib.txt) \| [supplement](www20_supplement.pdf) \| [data](../resources/#fact-checks) \] acceptance rate: 217/1,129=19.2%
+\[ [paper](www20_paper.pdf) \| [bibtex](www20_bib.txt) \| [supplement](www20_supplement.pdf) \| [data](../resources/#fact-checks) \| [slides](www20_slides.pdf) \| [video](https://youtu.be/9Kp9GdItRjs) \] acceptance rate: 217/1,129=19.2%
 
 * **Reasoning about Political Bias in Content Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
@@ -41,7 +41,7 @@ Desheng Hu, Shan Jiang, Ronald E Robertson, and Christo Wilson
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the 2019 ACM Conference on Fairness, Accountability, and Transparency (**FAT\*'19**)*, Atlanta, GA, USA, Jan 2019  
-\[ [paper](fat19_paper.pdf) \| [bibtex](fat19_bib.txt) \| [code](https://github.com/printfoo/abtest-fat2019) \| [video](https://www.youtube.com/watch?v=ZxknxkHiIkM) \| [press](https://www.fastcompany.com/90306916/were-all-being-manipulated-by-a-b-testing-all-the-time) \] acceptance rate: 39/162=24.1%
+\[ [paper](fat19_paper.pdf) \| [bibtex](fat19_bib.txt) \| [code](https://github.com/printfoo/abtest-fat2019) \| [video](https://youtu.be/ZxknxkHiIkM) \| [press](https://www.fastcompany.com/90306916/were-all-being-manipulated-by-a-b-testing-all-the-time) \] acceptance rate: 39/162=24.1%
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, and Christo Wilson  

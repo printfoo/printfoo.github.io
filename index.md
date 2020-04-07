@@ -24,6 +24,7 @@ More broadly, I'm interested in (mostly) **computational social science** and (r
 * <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn), Research Assistant, 2013 - 2015
 
 ### News
+* 2020-04-07: The [video](https://youtu.be/9Kp9GdItRjs) presentation is uploaded on YouTube for the fact-check paper at [WWW'20](https://www2020.thewebconf.org), which is changed to online due to COVID-19.
 * 2020-03-17: Belief modeling and measurement paper was accepted at [ICWSM'20](https://www.icwsm.org/2020). Thanks to my collaborators [Miriam](https://www.comm.ucsb.edu/people/miriam-metzger) and [Andrew](https://www.comm.ucsb.edu/people/andrew-flanagin) from UCSB!
 * 2020-01-10: Fact-check paper (done during the summer internship with Google Research) was accepted at [WWW'20](https://www2020.thewebconf.org). Thanks to [Simon](https://ai.google/research/people/105996), [Abe](https://scholar.google.com/citations?user=8P1Y_90AAAAJ) and [Cong](https://sites.google.com/site/congyu) from the fact-check team!
 * 2019-11-15: Going for an internship with [Facebook](https://research.fb.com)'s dangerous content team in summer 2020.

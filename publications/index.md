@@ -45,13 +45,13 @@ Shan Jiang, John Martin, and Christo Wilson
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, and Christo Wilson  
-<img src="../images/letters/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), 2018  
+<img src="../images/letters/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction* (**PACMHCI**), 2(CSCW), 2018  
 <img src="../images/letters/c.svg" width="16"> Presented at *the ACM Conference on Computer-Supported Cooperative Work and Social Computing* (**CSCW'18**), 2018  
 \[ [paper](cscw18a_paper.pdf) \| [bibtex](cscw18a_bib.txt) \| [blog](https://medium.com/acm-cscw/people-get-touchy-about-misinformation-and-about-the-truth-too-9930563d96d8) \| [data](../resources/#misinformation) \| [code](https://github.com/printfoo/misinfo-cscw2018-icwsm2020) \| [slides](cscw18a_slides.pdf) \| [press](https://hopenothate.com/2018/10/21/extremism-is-on-the-ballot) \] acceptance rate: 185/722=25.6%
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
-<img src="../images/letters/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction (**PACMHCI**)*, 2(CSCW), 2018  
+<img src="../images/letters/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction* (**PACMHCI**), 2(CSCW), 2018  
 <img src="../images/letters/c.svg" width="16"> Presented at *the ACM Conference on Computer-Supported Cooperative Work and Social Computing* (**CSCW'18**), 2018  
 \[ [paper](cscw18b_paper.pdf) \| [bibtex](cscw18b_bib.txt) \| [supplement](cscw18b_supplement.pdf) \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb) \] acceptance rate: 185/722=25.6%  
 <img src="../images/icons/medal.svg" width="16"> **honorable mention for best paper: 30/1,106=2.7%**  

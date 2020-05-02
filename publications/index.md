@@ -56,16 +56,16 @@ Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and
 \[ [paper](cscw18b_paper.pdf) \| [bibtex](cscw18b_bib.txt) \| [supplement](cscw18b_supplement.pdf) \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb) \] acceptance rate: 185/722=25.6%  
 <img src="../images/icons/medal.svg" width="16"> **honorable mention for best paper: 30/1,106=2.7%**  
 
-* **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
-Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
-<img src="../images/letters/r.svg" width="16"> Available at *SSRN*, Oct 2018  
-<img src="../images/letters/a.svg" width="16"> Abstract presented at *the Annual Meeting of the Academy of Management* (**AOM'19**), 2019  
-\[ [paper](ssrn18_paper.pdf) \| [bibtex](ssrn18_bib.txt) \| [ssrn](https://ssrn.com/abstract=3261811) \| [abstract](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.16279abstract) \]
-
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the Web Conference* (**WWW'18**), 2018  
 \[ [paper](www18_paper.pdf) \| [bibtex](www18_bib.txt) \| [code](https://github.com/printfoo/ridesharing-www2018) \| [slides](www18_slides.pdf) \] acceptance rate: 171/1,155=14.8%
+
+* **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
+Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
+<img src="../images/letters/r.svg" width="16"> Available at *SSRN*, 2018  
+<img src="../images/letters/a.svg" width="16"> In *Proceedings of the Academy of Management Annual Meeting* (**AOM'19**), 2019  
+\[ [paper](ssrn18_paper.pdf) \| [bibtex](ssrn18_bib.txt) \| [ssrn](https://ssrn.com/abstract=3261811) \| [abstract](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.16279abstract) \]
 
 * **TNCs Today: A Profile of San Francisco Transportation Network Company Activity**  
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and Shan Jiang  

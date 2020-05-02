@@ -63,13 +63,13 @@ Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
-<img src="../images/letters/r.svg" width="16"> Available at *SSRN*, 2018  
 <img src="../images/letters/a.svg" width="16"> In *Proceedings of the Academy of Management Annual Meeting* (**AOM'19**), 2019  
+<img src="../images/letters/r.svg" width="16"> Report available at *SSRN*, 2018  
 \[ [paper](ssrn18_paper.pdf) \| [bibtex](ssrn18_bib.txt) \| [ssrn](https://ssrn.com/abstract=3261811) \| [abstract](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.16279abstract) \]
 
 * **TNCs Today: A Profile of San Francisco Transportation Network Company Activity**  
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and Shan Jiang  
-<img src="../images/letters/r.svg" width="16"> *San Francisco County Transportation Authority Report*, 2017  
+<img src="../images/letters/r.svg" width="16"> Report available at *San Francisco County Transportation Authority*, 2017  
 \[ [paper](sfcta17_paper.pdf) \| [bibtex](sfcta17_bib.txt) \| [slides](sfcta17_slides.pdf) \| [visualization](https://tncstoday.sfcta.org) \]
 
 * **Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism**  

@@ -20,7 +20,7 @@ Shan Jiang, Ronald E Robertson, and Christo Wilson
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E Robertson, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the International AAAI Conference on Web and Social Media* (**ICWSM'19**), 2019    
-\[ [paper](icwsm19_paper.pdf) \| [bibtex](icwsm19_bib.txt) \| [supplement](icwsm19_supplement.pdf) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019-aaai2020) \| [slides](icwsm19_slides.pdf)  \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \| <img src="../images/icons/medal.svg" width="16"> **outstanding analysis paper** <!-- 1/238=0.4% --> \] <!-- acceptance rate: 51/238=21.4% -->  
+\[ [paper](icwsm19_paper.pdf) \| [bibtex](icwsm19_bib.txt) \| [supplement](icwsm19_supplement.pdf) \| [data](../resources/#content-moderation) \| [code](https://github.com/printfoo/moderation-icwsm2019-aaai2020) \| [slides](icwsm19_slides.pdf)  \| [press](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) \| <img src="../images/icons/medal.svg" width="16"> [outstanding analysis paper](https://twitter.com/cerenbudak/status/1138852430928646145)<!-- 1/238=0.4% --> \] <!-- acceptance rate: 51/238=21.4% -->  
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
 Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  
@@ -52,7 +52,7 @@ Shan Jiang, and Christo Wilson
 Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 <img src="../images/letters/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction* (**PACMHCI**), 2(CSCW), 2018  
 <img src="../images/letters/c.svg" width="16"> Presented at *the ACM Conference on Computer-Supported Cooperative Work and Social Computing* (**CSCW'18**), 2018    
-\[ [paper](cscw18b_paper.pdf) \| [bibtex](cscw18b_bib.txt) \| [supplement](cscw18b_supplement.pdf) \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb) \| <img src="../images/icons/medal.svg" width="16"> **honorable mention for best paper** <!-- : 30/1,106=2.7% --> \] <!-- acceptance rate: 185/722=25.6% -->  
+\[ [paper](cscw18b_paper.pdf) \| [bibtex](cscw18b_bib.txt) \| [supplement](cscw18b_supplement.pdf) \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb) \| <img src="../images/icons/medal.svg" width="16"> [honorable mention for best paper](https://medium.com/acm-cscw/announcing-the-best-of-cscw-2018-b98cb91e0f61)<!-- : 30/1,106=2.7% --> \] <!-- acceptance rate: 185/722=25.6% -->  
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  

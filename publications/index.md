@@ -54,7 +54,7 @@ Ronald E Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and
 <img src="../images/letters/j.svg" width="16"> *Proceedings of the ACM: Human-Computer Interaction* (**PACMHCI**), 2(CSCW), 2018  
 <img src="../images/letters/c.svg" width="16"> Presented at *the ACM Conference on Computer-Supported Cooperative Work and Social Computing* (**CSCW'18**), 2018  
 \[ [paper](cscw18b_paper.pdf) \| [bibtex](cscw18b_bib.txt) \| [supplement](cscw18b_supplement.pdf) \| [blog](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb) \] <!-- acceptance rate: 185/722=25.6% -->  
-<img src="../images/icons/medal.svg" width="16"> **honorable mention for best paper** <!-- : 30/1,106=2.7% 
+<img src="../images/icons/medal.svg" width="16"> **honorable mention for best paper** <!-- : 30/1,106=2.7% --> 
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  

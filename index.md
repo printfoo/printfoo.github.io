@@ -24,9 +24,9 @@ More broadly, I'm interested in (mostly) **computational social science** and (r
 * <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn), Research Assistant, 2013 - 2015
 
 ### News
-* 2020-05-31: The [video](https://youtu.be/ZHY1hzJ_F9o) presentation for the (mis)information and (dis)belief paper at [ICWSM'20](https://www.icwsm.org/2020/index.html) is uploaded on YouTube.
-* 2020-04-07: The [video](https://youtu.be/9Kp9GdItRjs) presentation for the factoring fact-check paper at [WWW'20](https://www2020.thewebconf.org) is uploaded on YouTube.
-* 2020-03-17: (Mis)information and (dis)belief paper is accepted at [ICWSM'20](https://www.icwsm.org/2020). Thanks to my collaborators [Miriam](https://www.comm.ucsb.edu/people/miriam-metzger) and [Andrew](https://www.comm.ucsb.edu/people/andrew-flanagin) from UCSB!
+* 2020-05-31: The [video](https://youtu.be/ZHY1hzJ_F9o) for the (mis)info and (dis)belief paper at [ICWSM'20](https://www.icwsm.org/2020/index.html) is uploaded on YouTube.
+* 2020-04-07: The [video](https://youtu.be/9Kp9GdItRjs) for the factoring fact-check paper at [WWW'20](https://www2020.thewebconf.org) is uploaded on YouTube.
+* 2020-03-17: (Mis)info and (dis)belief paper is accepted at [ICWSM'20](https://www.icwsm.org/2020). Thanks to my collaborators [Miriam](https://www.comm.ucsb.edu/people/miriam-metzger) and [Andrew](https://www.comm.ucsb.edu/people/andrew-flanagin) from UCSB!
 * 2020-01-10: Factoring fact-check paper (done during the summer internship with Google Research) is accepted at [WWW'20](https://www2020.thewebconf.org). Thanks to [Simon](https://ai.google/research/people/105996), [Abe](https://scholar.google.com/citations?user=8P1Y_90AAAAJ) and [Cong](https://sites.google.com/site/congyu) from the fact-check team!
 * 2019-11-15: Going for an internship with [Facebook](https://research.fb.com)'s dangerous content team in summer 2020.
 * 2019-10-08: Content moderation paper is invited as a sister conference track [paper](publications/aaai20_paper.pdf) at [AAAI'20](https://aaai.org/Conferences/AAAI-20).

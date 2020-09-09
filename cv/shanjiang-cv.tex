@@ -47,7 +47,7 @@
 %\name{Shan Jiang \hspace{0ex} \sectionstyle{ | \hspace{0.1ex} R\'esum\'e}}
 \name{Shan Jiang \hspace{0ex} \sectionstyle{ | \hspace{0.1ex} Curriculum Vitae}}
 \address{660-674 (\#86), Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA 02120}
-\mobile{(+1) 781-502-8799} 
+\mobile{(+1) 781-502-8799}
 %%% Social
 \email{sjiang@ccs.neu.edu}
 \homepage{shanjiang.me}
@@ -115,26 +115,29 @@
 \cvsection{Experience}
 \begin{cventries}
   \cventry
-    {Software Engineer Intern (Incoming) @ Content Integrity (Dangerous Content) Team}
+    {Ph.D. ML Intern @ Illicit Trade Team, Dangerous Content}
     {Facebook}
     {Seattle, WA}
     {Jun 2020 - Sep 2020}
     {
       \begin{cvitems}
-        \item {Project: Multimodal learning for dangerous content detection.}
+        \item {Project: Weak supervision and multitask learning for detecting illicit trade content.}
+        \item {Implemented weak supervision on multimodal models for illicit trade (e.g., prostitution, firearms, drugs) detection by utilizing existing labels and pre-trained models of auxiliary tasks (e.g., user reporting, nudity classifier) for multitask learning.}
+        \item {Proposed and tested generalizable hypotheses on selecting and ordering auxiliary tasks for weakly supervising models in other problem areas, and shared experiments and results across Facebook's machine learning teams.}
+        \item {Improved the performance of production models by up to \entrylocationstyle{2\%} and \entrylocationstyle{productionized} 5K+ lines of code.}
       \end{cvitems}
     }
   \cventry
-    {Software Engineer Intern @ Fact Check Team, Google AI}
+    {Ph.D. SWE Intern @ Fact Check Team, Google AI}
     {Google}
     {New York, NY}
     {Jun 2019 - Aug 2019}
     {
       \begin{cvitems}
         \item {Project: ClaimReview markup (e.g., claim, claimant and verdict) extraction from fact-check articles.}
-        \item {Hosts: Simon Baumgartner, Abe Ittycheriah and Cong Yu.}
+        %\item {Hosts: Simon Baumgartner, Abe Ittycheriah and Cong Yu.}
         \item {Explored several task formulation possibilities, e.g., language generation under encoder-decoder frameworks, and eventually formulated the task as a sequence tagging problem and conducted several experiments by modifying and fine-tuning BERT models.}
-        \item {\entrylocationstyle{Productionized} 5K+ lines of codebase with test files and technical documentation.}
+        \item {\entrylocationstyle{Productionized} 5K+ lines of code with test files and technical documentation.}
         \item {Published a paper with additional data exploration and model comparison at \entrylocationstyle{WWW'20}.}
       \end{cvitems}
     }
@@ -146,7 +149,7 @@
     {
       \begin{cvitems}
         \item {Project: Crisis sub-event (e.g., burning road after a wildfire) detection on social media for emergency management.}
-        \item {Hosts: William Groves, Sam Anzaroot and Alejandro Jaimes.}
+        %\item {Hosts: William Groves, Sam Anzaroot and Alejandro Jaimes.}
         \item {Built a pipeline model that first scans the Twitter firehose and parses Tweets to dependency trees, then traverses to extract connected noun-verb pairs (e.g., home-burn, house-destroy), and finally clusters similar pairs as sub-events.}
         \item {Case-studied California wildfires to understand the temporal cascading (e.g., fire$\to$smoke$\to$pollution) of sub-event networks.}
         \item {Published a paper at the AI for social good workshop, i.e., \entrylocationstyle{AISG'19}@ICML.}
@@ -160,11 +163,11 @@
     {
       \begin{cvitems}
         \item {Research areas: computational journalism, computational social science, algorithm auditing, information quality.}
-        \item {Collaborators: Christo Wilson, Alan Mislove, Ronald E Robertson, Miriam Metzger (UC Santa Barbara), Kenneth Joseph (U Buffalo), etc.}
+        %\item {Collaborators: Christo Wilson, Alan Mislove, Ronald E Robertson, Miriam Metzger (UC Santa Barbara), Kenneth Joseph (U Buffalo), etc.}
         \item {Collected and analyzed TB-sized social media and search engine data under the Spark/Hadoop framework.}
         \item {Applied statistical (e.g., regression) and causal (e.g., propensity score matching) models for hypothesis testing.}
         \item {Leveraged empirical observations to build natural language processing and machine learning pipelines to identify misinformation and linguistic bias in human-generated content (e.g., news, comments), particularly under algorithmic curation (e.g., ranking, personalization).}
-        \item {Published \entrylocationstyle{award-winning} papers at top web (e.g., \entrylocationstyle{WWW'18-19}, \entrylocationstyle{ICWSM'19}), HCI (e.g., \entrylocationstyle{CSCW'18}) and AI (e.g., \entrylocationstyle{AAAI'20}, \entrylocationstyle{FAT*'19}) conferences.}
+        \item {Published \entrylocationstyle{award-winning} papers at top web (e.g., \entrylocationstyle{WWW'18-19}, \entrylocationstyle{ICWSM'19-20}), HCI (e.g., \entrylocationstyle{CSCW'18}) and AI (e.g., \entrylocationstyle{AAAI'20}, \entrylocationstyle{FAT*'19}) conferences.}
       \end{cvitems}
     }
   \cventry
@@ -175,7 +178,7 @@
     {
       \begin{cvitems}
         \item {Project: Economic modeling of Bitcoin mining under risk aversion assumptions.}
-        \item {Collaborator: Richard TB Ma.}
+        %\item {Collaborator: Richard TB Ma.}
       \end{cvitems}
     }
   \cventry
@@ -186,7 +189,7 @@
     {
       \begin{cvitems}
         \item {Project: Game-theoretic modeling of overlay networks and traffic engineering.}
-        \item {Collaborators: Jingyu Wang and Jun Gong.}
+        %\item {Collaborators: Jingyu Wang and Jun Gong.}
         \item {Published papers at computer network and system conferences, e.g., \entrylocationstyle{GlobeCom'15}, \entrylocationstyle{LCN'15}, \entrylocationstyle{ICPADS'14}.}
       \end{cvitems}
     }
@@ -323,6 +326,10 @@
 \begin{cventries}
   \cvaward
     {Program Committee}
+    {ICWSM, AAAI}
+    {2021}
+ \cvaward
+    {}
     {ICWSM, WebSci}
     {2020}
  \cvaward
@@ -331,6 +338,10 @@
     {2019}
   \cvaward
     {Reviewer}
+    {CHI, CSCW, ICWSM, AAAI}
+    {2021}
+  \cvaward
+    {}
     {CHI, CSCW, ICWSM, WebSci}
     {2020}
   \cvaward

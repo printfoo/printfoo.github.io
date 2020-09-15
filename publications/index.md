@@ -61,7 +61,7 @@ Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
-<img src="../images/letters/a.svg" width="16"> In *Proceedings of the Academy of Management Annual Meeting* (**AOM’19**), 2019  
+<img src="../images/letters/a.svg" width="16"> In *Proceedings of the Academy of Management Annual Meeting*, 2019  
 <img src="../images/letters/r.svg" width="16"> Report available on *SSRN*, 2018  
 \[ [paper](ssrn18_paper.pdf) \| [bibtex](ssrn18_bib.txt) \| [ssrn](https://ssrn.com/abstract=3261811) \| [abstract](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.16279abstract) \]
 
@@ -72,7 +72,7 @@ Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young
 
 * **Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism**  
 Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, and Jingyu Wang  
-<img src="../images/letters/j.svg" width="16"> *KSII Transactions on Internet and Information Systems* (**TIIS**), 10(5), 2016  
+<img src="../images/letters/j.svg" width="16"> *KSII Transactions on Internet and Information Systems*, 10(5), 2016  
 \[ [paper](tiis16_paper.pdf) \| [bibtex](tiis16_bib.txt) \]
 
 * **Interactions among Overlays and Traffic Engineering: Equilibrium and Cooperation without Payment**  

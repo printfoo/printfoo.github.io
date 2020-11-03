@@ -9,10 +9,9 @@ title: Thesis
 - Miriam Metzger ([https://www.comm.ucsb.edu/people/miriam-metzger](https://www.comm.ucsb.edu/people/miriam-metzger))
 
 ### Documents
-- [Proposal](proposal.pdf)
-- [Thesis](thesis.pdf) (work in progress)
+- [Proposal](proposal.pdf) (18 pages)
+- [Thesis](thesis.pdf) (work in progress, 103 pages)
 
 ### Justification
-> A short paragraph from the thesis advisor justifying the choice of the Committee.
-
+> A short paragraph from the thesis advisor justifying the choice of the Committee.  
 > One sentence per member of the Committee will suffice.

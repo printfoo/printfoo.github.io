@@ -5,9 +5,9 @@ title: About
 
 Hi! I’m Shan Jiang ([江](https://en.wikipedia.org/wiki/Jiang_(surname)#%E6%B1%9F)[山](https://en.wikipedia.org/wiki/Radical_46)).
 
-I study **(mis)information** as an ecosystem by observing the behaviors of its players. My work on this topic includes: understanding audiences' responses on social media ([CSCW’18a](publications/cscw18a_paper.pdf), [ICWSM’20](publications/icwsm20_paper.pdf)), auditing platforms' interventions such as content moderation ([ICWSM’19](publications/icwsm19_paper.pdf), [AAAI’20](publications/aaai20_paper.pdf)) and search ranking ([CSCW’18b](publications/cscw18b_paper.pdf)), structurizing fact-checkers' articles for search engines ([WWW’20](publications/www20_paper.pdf)), etc.
+I study the **(mis)information** ecosystem online by observing the behaviors of its players. My work on this topic includes: understanding audiences' responses on social media \[[CSCW’18a](publications/cscw18a_paper.pdf), [ICWSM’20](publications/icwsm20_paper.pdf)\], auditing platforms' interventions such as content moderation \[[ICWSM’19](publications/icwsm19_paper.pdf), [AAAI’20](publications/aaai20_paper.pdf)\] and search ranking \[[CSCW’18b](publications/cscw18b_paper.pdf)\], extracting structured information for fact-checkers \[[WWW’20](publications/www20_paper.pdf)\], etc.
 
-More broadly, I'm interested in (mostly) **computational social science** and (recently) **natural language processing**. Related work can be found in my [publications](publications).
+More broadly, I'm interested in using **computational methods** (e.g., ML, NLP) to study **social science**. Related work can be found in my [publications](publications).
 
 \[ <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu) \| <img src="../images/icons/cv.svg" width="16"> [CV](shanjiang-cv.pdf) \| <img src="../images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ) \| <img src="../images/logos/dblp.svg" width="16"> [dblp](https://dblp.org/pid/04/2910-8.html) \| <img src="../images/logos/github.svg" width="16"> [GitHub](https://github.com/printfoo) \| <img src="../images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/shan-jiang) \]
 

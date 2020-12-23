@@ -1,0 +1,9 @@
+@article{metzger2021from,
+  author = {Miriam Metzger and Andrew Flanagin and Paul Mena and Shan Jiang and Christo Wilson},
+  title = {From Dark to Light: The Many Shades of Sharing Misinformation Online},
+  journal = {Media and Communication},
+  volume = {9},
+  number = {1},
+  year = {2021},
+  publisher = {Cogitatio}
+}

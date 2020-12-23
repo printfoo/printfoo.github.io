@@ -2,6 +2,17 @@
 layout: page
 title: Publications
 ---
+
+* **From Dark to Light: The Many Shades of Sharing Misinformation Online**  
+Miriam Metzger, Andrew Flanagin, Paul Mena, Shan Jiang, and Christo Wilson  
+<img src="../images/letters/j.svg" width="16"> *Media and Communication* 9(1), 2021  
+\[ paper coming soon \| [bibtex](mac21_bib.txt) \]
+
+* **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  
+Christo Wilson, Avijit Ghosh, Shan Jiang, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel, and Frida Polli  
+<img src="../images/letters/c.svg" width="16"> In *Proc. of the ACM Conference on Fairness, Accountability, and Transparency* (**FAccT’21**), 2021  
+\[ paper coming soon \| [bibtex](fat21_bib.txt) \] <!-- acceptance rate: 82/328=25.0% -->
+
 * **Modeling and Measuring Expressed (Dis)belief in (Mis)information**  
 Shan Jiang, Miriam Metzger, Andrew Flanagin, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proc. of the International AAAI Conference on Web and Social Media* (**ICWSM’20**), 2020  

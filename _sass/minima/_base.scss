@@ -85,11 +85,11 @@ li {
   > ol {
     margin-bottom: 0;
   }
-  padding-inline-start: 5px;
+  padding-inline-start: 12px;
 }
 
 li::marker {
-  content: ">>";
+  content: ">";
   color: $brand-color;
   font-weight: bold;
 }

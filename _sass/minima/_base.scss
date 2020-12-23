@@ -87,12 +87,12 @@ li {
   }
 }
 
-li::marker {
+li::before {
   content: ">";
   color: $brand-color;
   font-weight: bold;
-  //display: inline-block;
-  //width: 1em;
+  display: inline-block;
+  width: 1em;
   //margin-left: -1em;
 }
 
@@ -132,7 +132,7 @@ a {
 }
 
 /**
- * Comments
+ * Footnotes
  */
 .footnote {
   color: $grey-color;

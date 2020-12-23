@@ -41,15 +41,6 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-ul li::marker {
-  content: ">";
-  color: $brand-color;
-  font-weight: bold;
-  display: inline-block;
-  width: 1em;
-  margin-left: -1em;
-}
-
 /**
  * `main` element
  */
@@ -96,6 +87,14 @@ li {
   }
 }
 
+li::marker {
+  content: ">";
+  color: $brand-color;
+  font-weight: bold;
+  //display: inline-block;
+  //width: 1em;
+  //margin-left: -1em;
+}
 
 
 /**
@@ -135,7 +134,7 @@ a {
 /**
  * Comments
  */
-.comment {
+.footnote {
   color: $grey-color;
   font-size: $small-font-size;
 }

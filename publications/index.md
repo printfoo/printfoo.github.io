@@ -102,6 +102,10 @@ Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang
 \[ [paper](icpads14_paper.pdf) \| [bibtex](icpads14_bib.txt) \] <!-- acceptance rate: 96/322=29.8% -->
 
 &nbsp;  
-<span class="comment">Rigorously peer-reviewed: <img src="../images/letters/c.svg" width="16"> conference | <img src="../images/letters/j.svg" width="16"> journal</span>
-<span class="comment">Lightly peer-reviewed: <img src="../images/letters/w.svg" width="16"> workshop | <img src="../images/letters/a.svg" width="16"> abstract</span>
-<span class="comment">Not peer-reviewed: <img src="../images/letters/i.svg" width="16"> invited paper | <img src="../images/letters/r.svg" width="16"> report</span>
+<p class="footnote">
+Rigorously peer-reviewed: <img src="../images/letters/c.svg" width="16"> conference | <img src="../images/letters/j.svg" width="16"> journal
+<br>
+Lightly peer-reviewed: <img src="../images/letters/w.svg" width="16"> workshop | <img src="../images/letters/a.svg" width="16"> abstract
+<br>
+Not peer-reviewed: <img src="../images/letters/i.svg" width="16"> invited paper | <img src="../images/letters/r.svg" width="16"> report
+</p>

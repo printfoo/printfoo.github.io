@@ -87,13 +87,10 @@ li {
   }
 }
 
-li::before {
+li::marker {
   content: ">";
   color: $brand-color;
   font-weight: bold;
-  display: inline-block;
-  width: 1em;
-  //margin-left: -1em;
 }
 
 

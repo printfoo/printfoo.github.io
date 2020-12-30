@@ -1,7 +1,6 @@
 LATEX=xelatex
 BIBTEX=bibtex
 BIBFILE=bibliography.bib
-RE=shanjiang-resume
 CV=shanjiang-cv
 RS=research-summary
 PS=personal-statement

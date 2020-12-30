@@ -611,6 +611,23 @@
   \par\addvspace{-0.8ex}
 }
 
+\newcommand*{\cvpubadmin}[4]{
+  \setlength\tabcolsep{0pt}
+  \setlength{\extrarowheight}{-0.5pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{16cm} R{2cm}}
+     \entrytitlestyle{#1} & \entrylocationstyle{#2} \\
+ \end{tabular*}
+ \par\addvspace{-1.6ex}
+ \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{17.3cm} R{0.5cm}}
+      \descriptionstyle{#3} & \\
+  \end{tabular*}
+ \par\addvspace{-1.6ex}
+ \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{17.3cm} R{0.5cm}}
+      \descriptionstyle{#4} & \\
+  \end{tabular*}
+ \par\addvspace{-0.3ex}
+}
+
 \newcommand*{\cvaward}[3]{
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{-0.5pt}

@@ -2,16 +2,15 @@
 layout: page
 title: Publications
 ---
+* **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  
+Christo Wilson, Avijit Ghosh, Shan Jiang, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel, and Frida Polli  
+<img src="../images/letters/c.svg" width="16"> In *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency* (**FAccT’21**), 2021  
+\[ paper coming soon \| [bibtex](facct21_bib.txt) \] <!-- acceptance rate: 82/328=25.0% -->
 
 * **From Dark to Light: The Many Shades of Sharing Misinformation Online**  
 Miriam Metzger, Andrew Flanagin, Paul Mena, Shan Jiang, and Christo Wilson  
 <img src="../images/letters/j.svg" width="16"> *Media and Communication* 9(1), 2021  
 \[ paper coming soon \| [bibtex](mac21_bib.txt) \]
-
-* **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  
-Christo Wilson, Avijit Ghosh, Shan Jiang, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel, and Frida Polli  
-<img src="../images/letters/c.svg" width="16"> In *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency* (**FAccT’21**), 2021  
-\[ paper coming soon \| [bibtex](fat21_bib.txt) \] <!-- acceptance rate: 82/328=25.0% -->
 
 * **Modeling and Measuring Expressed (Dis)belief in (Mis)information**  
 Shan Jiang, Miriam Metzger, Andrew Flanagin, and Christo Wilson  
@@ -51,7 +50,7 @@ Desheng Hu, Shan Jiang, Ronald E. Robertson, and Christo Wilson
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
 <img src="../images/letters/c.svg" width="16"> In *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency* (**FAccT’19**), 2019  
-\[ [paper](fat19_paper.pdf) \| [bibtex](fat19_bib.txt) \| [code](https://github.com/printfoo/abtest-fat2019) \| [video](https://youtu.be/ZxknxkHiIkM) \| [press](https://www.fastcompany.com/90306916/were-all-being-manipulated-by-a-b-testing-all-the-time) \] <!-- acceptance rate: 39/162=24.1% -->
+\[ [paper](facct19_paper.pdf) \| [bibtex](facct19_bib.txt) \| [code](https://github.com/printfoo/abtest-facct2019) \| [video](https://youtu.be/ZxknxkHiIkM) \| [press](https://www.fastcompany.com/90306916/were-all-being-manipulated-by-a-b-testing-all-the-time) \] <!-- acceptance rate: 39/162=24.1% -->
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, and Christo Wilson  

@@ -10,7 +10,7 @@ In *Proceedings of the ACM Conference on Fairness, Accountability, and Transpare
 * **From Dark to Light: The Many Shades of Sharing Misinformation Online**  
 Miriam Metzger, Andrew Flanagin, Paul Mena, Shan Jiang, and Christo Wilson  
 *Media and Communication* 9(1), 2021  
-<span class="label label-grey">journal</span>  paper coming soon  [<span class="label label-brand">bibtex</span>](mac21_bib.txt) \]
+<span class="label label-grey">journal</span>  [<span class="label label-brand">bibtex</span>](mac21_bib.txt)
 
 * **Modeling and Measuring Expressed (Dis)belief in (Mis)information**  
 Shan Jiang, Miriam Metzger, Andrew Flanagin, and Christo Wilson  
@@ -31,8 +31,7 @@ In *Proceedings of the AAAI Conference on Artificial Intelligence* (**AAAI’20*
 Shan Jiang, Ronald E. Robertson, and Christo Wilson  
 In *Proceedings of the International AAAI Conference on Web and Social Media* (**ICWSM’19**), 2019  
 <span class="label label-grey">conference</span>  [<span class="label label-brand">paper</span>](icwsm19_paper.pdf)  [<span class="label label-brand">bibtex</span>](icwsm19_bib.txt)  [<span class="label label-brand">supplement</span>](icwsm19_supplement.pdf)  [<span class="label label-brand">data</span>](../resources/#content-moderation)  [<span class="label label-brand">code</span>](https://github.com/printfoo/moderation-icwsm2019-aaai2020)  [<span class="label label-brand">slides</span>](icwsm19_slides.pdf)   [<span class="label label-brand">press</span>](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) <!-- 1/238=0.4% -->  <!-- acceptance rate: 51/238=21.4% -->  
-<img src="../images/icons/medal.svg" width="16"> [Winner of an Outstanding Analysis Award](https://twitter.com/cerenbudak/status/1138852430928646145)
-
+<img src="../images/icons/medal.svg" width="16"> [**Winner of an Outstanding Analysis Award**](https://twitter.com/cerenbudak/status/1138852430928646145)
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
 Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  
@@ -65,7 +64,7 @@ Ronald E. Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, an
 *Proceedings of the ACM: Human-Computer Interaction* (**PACM HCI**), 2(CSCW), 2018  
 Presented at *the ACM Conference on Computer-Supported Cooperative Work* (**CSCW’18**), 2018    
 <span class="label label-grey">journal</span>  [<span class="label label-brand">paper</span>](cscw18b_paper.pdf)  [<span class="label label-brand">bibtex</span>](cscw18b_bib.txt)  [<span class="label label-brand">supplement</span>](cscw18b_supplement.pdf)  [<span class="label label-brand">blog</span>](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb) <!-- : 30/1,106=2.7% -->  <!-- acceptance rate: 185/722=25.6% -->  
-<img src="../images/icons/medal.svg" width="16"> [Winner of an Honorable Mention Award](https://medium.com/acm-cscw/announcing-the-best-of-cscw-2018-b98cb91e0f61)
+<img src="../images/icons/medal.svg" width="16"> [**Winner of an Honorable Mention Award**](https://medium.com/acm-cscw/announcing-the-best-of-cscw-2018-b98cb91e0f61)
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  
@@ -76,12 +75,12 @@ In *Proceedings of the Web Conference* (**WWW’18**), 2018
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
 In *Proceedings of the Academy of Management Annual Meeting*, 2019  
 Report available on *SSRN*, 2018  
-<span class="label label-grey">abstract</span>  [<span class="label label-brand">paper</span>](ssrn18_paper.pdf)  [<span class="label label-brand">bibtex</span>](ssrn18_bib.txt)  [ssrn](https://ssrn.com/abstract=3261811)  [<span class="label label-brand">abstract</span>](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.16279abstract) \]
+<span class="label label-grey">abstract</span>  [<span class="label label-brand">paper</span>](ssrn18_paper.pdf)  [<span class="label label-brand">bibtex</span>](ssrn18_bib.txt)  [<span class="label label-brand">abstract</span>](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.16279abstract)
 
 * **TNCs Today: A Profile of San Francisco Transportation Network Company Activity**  
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and Shan Jiang  
 Report available on *San Francisco County Transportation Authority*, 2017  
-<span class="label label-grey">report</span>  [<span class="label label-brand">paper</span>](sfcta17_paper.pdf)  [<span class="label label-brand">bibtex</span>](sfcta17_bib.txt)  [<span class="label label-brand">slides</span>](sfcta17_slides.pdf)  [<span class="label label-brand">visualization</span>](https://tncstoday.sfcta.org) \]
+<span class="label label-grey">report</span>  [<span class="label label-brand">paper</span>](sfcta17_paper.pdf)  [<span class="label label-brand">bibtex</span>](sfcta17_bib.txt)  [<span class="label label-brand">slides</span>](sfcta17_slides.pdf)  [<span class="label label-brand">visualization</span>](https://tncstoday.sfcta.org)
 
 * **Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism**  
 Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, and Jingyu Wang  

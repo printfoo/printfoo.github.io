@@ -4,8 +4,8 @@ title: Publications
 ---
 * **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  
 Christo Wilson, Avijit Ghosh, Shan Jiang, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel, and Frida Polli  
-<span class="label label-grey">C</span> In *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency* (**FAccT’21**), 2021  
-\[ paper coming soon \| [bibtex](facct21_bib.txt) \] <!-- acceptance rate: 82/328=25.0% -->
+In *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency* (**FAccT’21**), 2021  
+<span class="label label-grey">conference</span> [<span class="label label-brand">bibtex</span>](facct21_bib.txt) <!-- acceptance rate: 82/328=25.0% -->
 
 * **From Dark to Light: The Many Shades of Sharing Misinformation Online**  
 Miriam Metzger, Andrew Flanagin, Paul Mena, Shan Jiang, and Christo Wilson  

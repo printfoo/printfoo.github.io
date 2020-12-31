@@ -11,7 +11,7 @@ More broadly, my research interests revolve around **AI/ML methods** and **socia
 
 Before Ph.D., I received my B.B.A. in Management Information Systems from <img src="images/logos/bupt.png" width="15"> [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn) and did my undergrad thesis at <img src="images/logos/nus.png" width="15"> [National University of Singapore](http://www.nus.edu.sg).
 
-More of my previous work can be found in my [publications](publications), <img src="../images/logos/google_scholar.svg" width="15"> [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ), or <img src="../images/icons/cv.svg" width="15"> [curriculum vitae](shanjiang-cv.pdf).
+More of my previous work can be found in my [publications](publications), <img src="../images/logos/google_scholar.svg" width="15"> [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ), <img src="../images/logos/github.svg" width="15"> [GitHub](https://github.com/printfoo), or <img src="../images/icons/cv.svg" width="15"> [curriculum vitae](shanjiang-cv.pdf).
 
 I’m available at <img src="../images/icons/email.svg" width="15"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu).
 

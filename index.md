@@ -3,14 +3,15 @@ layout: page
 title: About
 ---
 
-Hi! I’m Shan Jiang [江](https://en.wikipedia.org/wiki/Ji%C4%81ng_(surname_%E6%B1%9F))[山](https://en.wikipedia.org/wiki/Radical_46) (he/him).
+Hi! I’m Shan Jiang [江](https://en.wikipedia.org/wiki/Ji%C4%81ng_(surname_%E6%B1%9F))[山](https://en.wikipedia.org/wiki/Radical_46) (he/him), a 5th-year Ph.D. student at [Northeastern University](https://www.northeastern.edu), advised by <img src="../images/icons/like.svg" width="16"> [Christo Wilson](https://cbw.sh). I will join [Facebook](https://ai.facebook.com) as a Research Scientist in 2021.
 
-I study the **(mis)information** ecosystem online by observing the behaviors of its players. My work on this topic includes: understanding audiences' responses on social media \([CSCW’18a](publications/cscw18a_paper.pdf), [ICWSM’20](publications/icwsm20_paper.pdf)\), auditing platforms' interventions such as content moderation \([ICWSM’19](publications/icwsm19_paper.pdf), [AAAI’20](publications/aaai20_paper.pdf)\) and search ranking \([CSCW’18b](publications/cscw18b_paper.pdf)\), extracting structured information for fact-checkers \([WWW’20](publications/www20_paper.pdf)\), etc.
+For my Ph.D. study, my research measures the **(mis)information** ecosystem by observing the behaviors of its players, such as understanding audiences' responses to false claims on social media \[ [CSCW’18a](publications/cscw18a_paper.pdf), [ICWSM’20](publications/icwsm20_paper.pdf) \] and auditing political bias in platforms' intervention practices including content moderation \[ [ICWSM’19](publications/icwsm19_paper.pdf), [AAAI’20](publications/aaai20_paper.pdf) \] and search ranking \[ [CSCW’18b](publications/cscw18b_paper.pdf) \].
 
-More broadly, my research interests revolve around **AI/ML methods** and **social problems**. Some of my previous work can be found in my [publications](publications).
+More broadly, my research interests revolve around **AI/ML methods** and **social problems**. I have interned with [Google AI](https://ai.google) on  extracting structured information from fact-checks \[ [WWW’20](publications/www20_paper.pdf) \], with [Dataminr] on detecting crisis events \[ [AISG’19](publications/aisg19_paper.pdf) \], and with [Facebook](https://ai.facebook.com) on detecting illicit trades. More of my previous work can be found in my [publications](publications).
 
 \[ <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu) \| <img src="../images/icons/cv.svg" width="16"> [CV](shanjiang-cv.pdf) \| <img src="../images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ) \| <img src="../images/logos/dblp.svg" width="16"> [dblp](https://dblp.org/pid/04/2910-8.html) \| <img src="../images/logos/github.svg" width="16"> [GitHub](https://github.com/printfoo) \| <img src="../images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/shan-jiang) \]
 
+<!-- 
 ### Education
 * <img src="images/logos/northeastern.svg" width="16"> [Northeastern](https://www.northeastern.edu), Ph.D. in Computer Science, advised by <img src="../images/icons/like.svg" width="16"> [Christo Wilson](https://cbw.sh), expected 2021
 * <img src="images/logos/bupt.png" width="16"> [BUPT](https://english.bupt.edu.cn), B.B.A. in Management Information Systems, 2016
@@ -34,3 +35,4 @@ More broadly, my research interests revolve around **AI/ML methods** and **socia
 * 2019-06-11: Content moderation [paper](publications/icwsm19_paper.pdf) win an Outstanding Analysis Paper award at [ICWSM’19](https://www.icwsm.org/2019). Thanks to my collaborator [Ron](http://ronalderobertson.com)!
 
 (Thanks to my advisor <img src="../images/icons/like.svg" width="16"> [Christo](https://cbw.sh) are implicitly embedded in everything above!)
+-->

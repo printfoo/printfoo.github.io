@@ -30,8 +30,7 @@ Shan Jiang, Ronald E. Robertson, and Christo Wilson
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E. Robertson, and Christo Wilson  
 \[ [ICWSM’19](icwsm19_paper.pdf) \] In *Proceedings of the International AAAI Conference on Web and Social Media*, 2019  
-<span class="label label-grey">conference</span>  [<span class="label label-grey">paper</span>](icwsm19_paper.pdf)  [<span class="label label-grey">bibtex</span>](icwsm19_bib.txt)  [<span class="label label-grey">supplement</span>](icwsm19_supplement.pdf)  [<span class="label label-grey">data</span>](../resources/#content-moderation)  [<span class="label label-grey">code</span>](https://github.com/printfoo/moderation-icwsm2019-aaai2020)  [<span class="label label-grey">slides</span>](icwsm19_slides.pdf)   [<span class="label label-grey">press</span>](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias) <!-- 1/238=0.4% -->  <!-- acceptance rate: 51/238=21.4% -->  
-<img src="../images/icons/medal.svg" width="16"> [Winner of an Outstanding Analysis Award](https://twitter.com/cerenbudak/status/1138852430928646145)
+<span class="label label-grey">conference</span>  [<span class="label label-grey">paper</span>](icwsm19_paper.pdf)  [<span class="label label-grey">bibtex</span>](icwsm19_bib.txt)  [<span class="label label-grey">supplement</span>](icwsm19_supplement.pdf)  [<span class="label label-grey">data</span>](../resources/#content-moderation)  [<span class="label label-grey">code</span>](https://github.com/printfoo/moderation-icwsm2019-aaai2020)  [<span class="label label-grey">slides</span>](icwsm19_slides.pdf)   [<span class="label label-grey">press</span>](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias)  [<span class="label label-brand">outstanding analysis paper</span>](https://twitter.com/cerenbudak/status/1138852430928646145) <!-- 1/238=0.4% -->  <!-- acceptance rate: 51/238=21.4% -->  
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
 Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  
@@ -66,8 +65,7 @@ Shan Jiang, and Christo Wilson
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E. Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
 \[ [CSCW’18b](cscw18b_paper.pdf) \] *Proceedings of the ACM: Human-Computer Interaction*, 2(CSCW), 2018  
-<span class="label label-grey">journal</span>  [<span class="label label-grey">paper</span>](cscw18b_paper.pdf)  [<span class="label label-grey">bibtex</span>](cscw18b_bib.txt)  [<span class="label label-grey">supplement</span>](cscw18b_supplement.pdf)  [<span class="label label-grey">blog</span>](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb) <!-- : 30/1,106=2.7% -->  <!-- acceptance rate: 185/722=25.6% -->  
-<img src="../images/icons/medal.svg" width="16"> [Winner of an Honorable Mention Award](https://medium.com/acm-cscw/announcing-the-best-of-cscw-2018-b98cb91e0f61)
+<span class="label label-grey">journal</span>  [<span class="label label-grey">paper</span>](cscw18b_paper.pdf)  [<span class="label label-grey">bibtex</span>](cscw18b_bib.txt)  [<span class="label label-grey">supplement</span>](cscw18b_supplement.pdf)  [<span class="label label-grey">blog</span>](https://medium.com/acm-cscw/is-it-the-algorithms-or-us-96d966aebbdb)  [<span class="label label-brand">honorable mention for best paper</span>](https://medium.com/acm-cscw/announcing-the-best-of-cscw-2018-b98cb91e0f61) <!-- : 30/1,106=2.7% -->  <!-- acceptance rate: 185/722=25.6% -->  
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: publications
 ---
 * **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  
 Christo Wilson, Avijit Ghosh, Shan Jiang, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel, and Frida Polli  

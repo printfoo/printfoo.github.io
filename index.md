@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 Hi! I’m Shan Jiang [江](https://en.wikipedia.org/wiki/Ji%C4%81ng_(surname_%E6%B1%9F))[山](https://en.wikipedia.org/wiki/Radical_46) (he/him). I’m currently a 5th-year Ph.D. student at <img src="images/logos/northeastern.svg" width="15"> [Northeastern University](https://www.northeastern.edu), *happily* advised by <img src="../images/icons/like.svg" width="15"> [Christo Wilson](https://cbw.sh). I will join <img src="images/logos/facebook.svg" width="15"> [Facebook](https://ai.facebook.com) as a Research Scientist in 2021.

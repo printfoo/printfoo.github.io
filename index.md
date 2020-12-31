@@ -9,6 +9,12 @@ My Ph.D. research is focused on the measurement of the **(mis)information** ecos
 
 More broadly, my research interests revolve around **AI/ML methods** and **social problems**. I have interned at <img src="images/logos/google_ai.png" width="16"> [Google AI](https://ai.google) on extracting structured information from fact-checks \[ [WWW’20](publications/www20_paper.pdf) \], at <img src="images/logos/dataminr.png" width="16"> [Dataminr](https://www.dataminr.com) on detecting crisis events \[ [AISG’19](publications/aisg19_paper.pdf) \], and at <img src="images/logos/dataminr.png" width="16"> [Facebook](https://ai.facebook.com) on detecting illicit trades. More of my previous work can be found in my [publications](publications).
 
+For more details, here is my <img src="../images/icons/cv.svg" width="16"> [curriculum vitae](shanjiang-cv.pdf).
+
+I’m available at <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu).
+
+I’m also on <img src="../images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ), <img src="../images/logos/dblp.svg" width="16"> [dblp](https://dblp.org/pid/04/2910-8.html), <img src="../images/logos/github.svg" width="16"> [GitHub](https://github.com/printfoo), and <img src="../images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/shan-jiang).
+
 \[ <img src="../images/icons/email.svg" width="16"> [sjiang@ccs.neu.edu](mailto:sjiang@ccs.neu.edu) \| <img src="../images/icons/cv.svg" width="16"> [CV](shanjiang-cv.pdf) \| <img src="../images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?user=0LITOxAAAAAJ) \| <img src="../images/logos/dblp.svg" width="16"> [dblp](https://dblp.org/pid/04/2910-8.html) \| <img src="../images/logos/github.svg" width="16"> [GitHub](https://github.com/printfoo) \| <img src="../images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/shan-jiang) \]
 
 <!-- 

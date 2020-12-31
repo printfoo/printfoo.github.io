@@ -54,7 +54,7 @@ Shan Jiang, John Martin, and Christo Wilson
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
-\[ [AOM’19](ssrn18_paper.pdf) \] In *Proceedings of the Academy of Management Annual Meeting*, 2019  
+\[ [AoM’19](ssrn18_paper.pdf) \] In *Proceedings of the Academy of Management Annual Meeting*, 2019  
 <span class="label label-grey">abstract</span>  [<span class="label label-grey">paper</span>](ssrn18_paper.pdf)  [<span class="label label-grey">bibtex</span>](ssrn18_bib.txt)  [<span class="label label-grey">abstract</span>](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.16279abstract)
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  

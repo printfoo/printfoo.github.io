@@ -30,10 +30,10 @@ The dataset contains 84,000+ YouTube comments, with moderation decisions, misinf
 
 * **Fact-Checks** dataset used in \[ [WWW’20](/publications/www20_paper.pdf) \].  
 The dataset contains 6,000+ URLs of fact-checks, with reported factors (claim, claimant, verdict, etc).  
-[<span class="label label-grey">link</span>](https://datacommons.org/factcheck)
+[<span class="label label-grey">external link</span>](https://datacommons.org/factcheck)
 
 ### Ridesharing
 
 * **Drivers' Trajectories** dataset used in \[ [WWW’18](/publications/www18_paper.pdf) \].  
 Unfortunately, due to Uber's and Lyft's Terms of Service, the dataset is not available to the public. A visualization of Uber and Lyft drivers using this dataset is made public by the San Francisco County Transportation Authority.  
-[<span class="label label-grey">link</span>](https://tncstoday.sfcta.org)
+[<span class="label label-grey">external link</span>](https://tncstoday.sfcta.org)

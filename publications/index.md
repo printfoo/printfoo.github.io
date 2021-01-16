@@ -13,7 +13,7 @@ In *Proceedings of the ACM Conference on Fairness, Accountability, and Transpare
 * **From Dark to Light: The Many Shades of Sharing Misinformation Online**  
 Miriam Metzger, Andrew Flanagin, Paul Mena, Shan Jiang, and Christo Wilson  
 \[ [MaC’21](mac21_paper.pdf) \]
-*Media and Communication* 9(1), 2021  
+*Media and Communication*, 9(1), 2021  
 [<span class="label label-grey">journal paper</span>](mac21_paper.pdf)
 [<span class="label label-grey">bibtex</span>](mac21_bib.txt)
 <!-- [<span class="label label-grey">journal</span>](https://www.cogitatiopress.com/mediaandcommunication) -->

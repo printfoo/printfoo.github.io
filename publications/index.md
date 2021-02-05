@@ -46,12 +46,13 @@ In *Proceedings of the Web Conference*, 2020
 Shan Jiang, Ronald E. Robertson, and Christo Wilson  
 \[ [AAAI’20](aaai20_paper.pdf) \]
 In *Proceedings of the AAAI Conference on Artificial Intelligence*, 2020  
-[<span class="label label-grey">invited paper</span>](aaai20_paper.pdf)
+[<span class="label label-grey">conference paper</span>](aaai20_paper.pdf)
 [<span class="label label-grey">bibtex</span>](aaai20_bib.txt)
 [<span class="label label-grey">data</span>](../resources/#content-moderation)
 [<span class="label label-grey">code</span>](https://github.com/printfoo/moderation-icwsm2019-aaai2020)
 [<span class="label label-grey">slides</span>](aaai20_slides.pdf)
 [<span class="label label-grey">press</span>](https://arstechnica.com/science/2020/02/researchers-have-already-tested-googles-algorithms-for-political-bias)
+[<span class="label label-brand">invited paper</span>](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/02/AAAI-20-Sister-Track-Schedule.pdf)
 <!-- invited to sister conference track: 16/16=100% [<span class="label label-grey">conference</span>](https://aaai.org/Conferences/AAAI-20/) -->
 
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  

@@ -185,7 +185,7 @@ In *Proc. of the IEEE Conference on Local Computer Networks*, 2015
 * **Combination Feature for Image Retrieval in the Distributed Datacenter**   
 Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang  
 \[ [ICPADS’14](icpads14_paper.pdf) \]
-In *Proc. of the IEEE International Conference on Parallel and Distributed Systems*, 2014  
+In *Proc. of the International Conference on Parallel and Distributed Systems*, 2014  
 [<span class="label label-grey">paper</span>](icpads14_paper.pdf)
 [<span class="label label-grey">bibtex</span>](icpads14_bib.txt)
 <!-- acceptance rate: 96/322=29.8% [<span class="label label-grey">conference</span>](https://www.computer.org/csdl/proceedings/icpads/2014/12OmNzcxZeM) -->

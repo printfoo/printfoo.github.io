@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-Hi! I’m Shan Jiang [江](https://en.wikipedia.org/wiki/Ji%C4%81ng_(surname_%E6%B1%9F))[山](https://en.wikipedia.org/wiki/Radical_46) (he/him). I’m a 5th-year Ph.D. student at <img src="images/logos/northeastern.png" width="13"> [Northeastern University](https://www.northeastern.edu), *happily* advised by <img src="../images/icons/like.svg" width="15"> [Christo Wilson](https://cbw.sh). I will join <img src="images/logos/facebook.svg" width="15"> [Facebook](https://engineering.fb.com) as a Research Scientist after graduation.
+Hi! I’m Shan Jiang [江](https://en.wikipedia.org/wiki/Ji%C4%81ng_(surname_%E6%B1%9F))[山](https://en.wikipedia.org/wiki/Radical_46) (he/him). I’m a 5th-year Ph.D. student at <img src="images/logos/northeastern.png" width="13"> [Northeastern University](https://www.northeastern.edu), *happily* advised by <img src="../images/icons/like.svg" width="15"> [Christo Wilson](https://cbw.sh). I will join <img src="images/logos/facebook.svg" width="15"> [Facebook](https://engineering.fb.com) as a research scientist after graduation.
 
 My research seeks to measure the **(mis)information** ecosystem by observing its players’ behaviors, *e.g.*, understanding audiences’ responses to “fake news” on social media \[ [CSCW’18a](publications/cscw18a_paper.pdf), [ICWSM’20](publications/icwsm20_paper.pdf) \], auditing ideological bias in platforms’ intervention practices such as moderating content \[ [ICWSM’19](publications/icwsm19_paper.pdf), [AAAI’20](publications/aaai20_paper.pdf) \], generating search snippets \[ [WWW’19](publications/www19_paper.pdf) \], and ranking search results \[ [CSCW’18b](publications/cscw18b_paper.pdf) \].
 

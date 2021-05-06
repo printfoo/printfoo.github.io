@@ -1,0 +1,7 @@
+@inproceedings{jiang2021structurizing,
+  author = {Shan Jiang and Christo Wilson},
+  title = {Structurizing Misinformation Stories via Rationalizing Fact-Checks},
+  booktitle = {Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)},
+  month = {August},
+  year = {2021}
+}

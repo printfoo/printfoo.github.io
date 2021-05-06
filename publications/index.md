@@ -2,6 +2,13 @@
 layout: page
 title: publications
 ---
+
+* **Structurizing Misinformation Stories via Rationalizing Fact-Checks**  
+Shan Jiang, and Christo Wilson  
+\[ [ACL’21](acl21_paper.pdf) \]
+In *Proc. of the Annual Meeting of the Association for Computational Linguistics*, 2021  
+[<span class="label label-grey">bibtex</span>](acl21_bib.txt)
+
 * **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  
 Christo Wilson, Avijit Ghosh, Shan Jiang, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel, and Frida Polli  
 \[ [FAccT’21](facct21_paper.pdf) \]

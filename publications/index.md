@@ -8,6 +8,7 @@ Shan Jiang, and Christo Wilson
 \[ [ACL’21](acl21_paper.pdf) \]
 In *Proc. of the Annual Meeting of the Association for Computational Linguistics*, 2021  
 [<span class="label label-grey">bibtex</span>](acl21_bib.txt)
+<!-- acceptance rate: 714/3350=21.3% [<span class="label label-grey">conference</span>](https://2021.aclweb.org) -->
 
 * **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  
 Christo Wilson, Avijit Ghosh, Shan Jiang, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel, and Frida Polli  

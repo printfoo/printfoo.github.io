@@ -5,8 +5,8 @@ title: resources
 
 ### Fact-Check
 
-* **Code** for [ACL’21].  
-The code repository to replicate our results and figures.
+* **Code** for \[ [ACL’21](/publications/acl21_paper.pdf) \].  
+The code repository to replicate our results and figures.  
 [<span class="label label-grey">link</span>](https://github.com/printfoo/factcheck-acl2021)
 
 * **Fact-Checks** dataset used in \[ [ACL’21](/publications/acl21_paper.pdf) \].  
@@ -20,7 +20,7 @@ The dataset contains 6,000+ URLs of fact-checks and their claims, claimants and 
 ### Misinformation
 
 * **Code** for \[ [ICWSM’20](/publications/icwsm20_paper.pdf) \] and \[ [CSCW’18a](/publications/cscw18a_paper.pdf) \].  
-The code repository to replicate our results and figures.
+The code repository to replicate our results and figures.  
 [<span class="label label-grey">link</span>](https://github.com/printfoo/misinfo-cscw2018-icwsm2020)
 
 * **(Dis)belief** dataset used in \[ [ICWSM’20](/publications/icwsm20_paper.pdf) \].  
@@ -42,7 +42,7 @@ The lexicon contains 300 categories but only the top 56 named ones are human val
 ### Content Moderation
 
 * **Code** for \[ [AAAI’20](/publications/aaai20_paper.pdf) \] and \[ [ICWSM’19](/publications/icwsm19_paper.pdf) \].  
-The code repository to replicate our results and figures.
+The code repository to replicate our results and figures.  
 [<span class="label label-grey">link</span>](https://github.com/printfoo/moderation-icwsm2019-aaai2020)
 
 * **YouTube Comments** dataset used in \[ [AAAI’20](/publications/aaai20_paper.pdf) \] and \[ [ICWSM’19](/publications/icwsm19_paper.pdf) \].  

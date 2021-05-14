@@ -8,6 +8,8 @@ Shan Jiang, and Christo Wilson
 \[ [ACL’21](acl21_paper.pdf) \]
 In *Proc. of the Annual Meeting of the Association for Computational Linguistics*, 2021  
 [<span class="label label-grey">bibtex</span>](acl21_bib.txt)
+[<span class="label label-grey">data</span>](../resources/#fact-check)
+[<span class="label label-grey">code</span>](https://github.com/printfoo/factcheck-acl2021)
 <!-- acceptance rate: 714/3350=21.3% [<span class="label label-grey">conference</span>](https://2021.aclweb.org) -->
 
 * **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  
@@ -45,7 +47,7 @@ In *Proc. of the Web Conference*, 2020
 [<span class="label label-grey">paper</span>](www20_paper.pdf)
 [<span class="label label-grey">bibtex</span>](www20_bib.txt)
 [<span class="label label-grey">supplement</span>](www20_supplement.pdf)
-[<span class="label label-grey">data</span>](../resources/#fact-checks)
+[<span class="label label-grey">data</span>](../resources/#fact-check)
 [<span class="label label-grey">slides</span>](www20_slides.pdf)
 [<span class="label label-grey">video</span>](https://youtu.be/9Kp9GdItRjs)
 <!-- acceptance rate: 217/1,129=19.2% [<span class="label label-grey">conference</span>](https://www2020.thewebconf.org/) -->

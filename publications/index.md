@@ -7,6 +7,7 @@ title: publications
 Shan Jiang, and Christo Wilson  
 \[ [ACL’21](acl21_paper.pdf) \]
 In *Proc. of the Annual Meeting of the Association for Computational Linguistics*, 2021  
+[<span class="label label-grey">paper</span>](acl21_paper.pdf)
 [<span class="label label-grey">bibtex</span>](acl21_bib.txt)
 [<span class="label label-grey">data</span>](../resources/#fact-check)
 [<span class="label label-grey">code</span>](https://github.com/printfoo/factcheck-acl2021)

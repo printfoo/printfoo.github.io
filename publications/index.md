@@ -11,6 +11,8 @@ In *Proc. of the Annual Meeting of the Association for Computational Linguistics
 [<span class="label label-grey">bibtex</span>](acl21_bib.txt)
 [<span class="label label-grey">data</span>](../resources/#fact-check)
 [<span class="label label-grey">code</span>](https://github.com/printfoo/factcheck-acl2021)
+[<span class="label label-grey">slides</span>](acl21_slides.pdf)
+[<span class="label label-grey">video</span>](https://screencast-o-matic.com/watch/cr1TcqV1URD)
 <!-- acceptance rate: 714/3350=21.3% [<span class="label label-grey">conference</span>](https://2021.aclweb.org) -->
 
 * **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  

@@ -5,7 +5,7 @@ title: publications
 
 * **Structurizing Misinformation Stories via Rationalizing Fact-Checks**  
 Shan Jiang, and Christo Wilson  
-\[ [ACL’21](acl21_paper.pdf) \]
+\[[ACL’21](acl21_paper.pdf)\]
 In *Proc. of the Annual Meeting of the Association for Computational Linguistics*, 2021  
 [<span class="label label-grey">paper</span>](acl21_paper.pdf)
 [<span class="label label-grey">bibtex</span>](acl21_bib.txt)
@@ -17,7 +17,7 @@ In *Proc. of the Annual Meeting of the Association for Computational Linguistics
 
 * **Building and Auditing Fair Algorithms: A Case Study in Candidate Screening**  
 Christo Wilson, Avijit Ghosh, Shan Jiang, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel, and Frida Polli  
-\[ [FAccT’21](facct21_paper.pdf) \]
+\[[FAccT’21](facct21_paper.pdf)\]
 In *Proc. of the ACM Conference on Fairness, Accountability, and Transparency*, 2021  
 [<span class="label label-grey">paper</span>](facct21_paper.pdf)
 [<span class="label label-grey">bibtex</span>](facct21_bib.txt)
@@ -25,7 +25,7 @@ In *Proc. of the ACM Conference on Fairness, Accountability, and Transparency*, 
 
 * **From Dark to Light: The Many Shades of Sharing Misinformation Online**  
 Miriam Metzger, Andrew Flanagin, Paul Mena, Shan Jiang, and Christo Wilson  
-\[ [MaC’21](mac21_paper.pdf) \]
+\[[MaC’21](mac21_paper.pdf)\]
 *Media and Communication*, 9(1), 2021  
 [<span class="label label-grey">paper</span>](mac21_paper.pdf)
 [<span class="label label-grey">bibtex</span>](mac21_bib.txt)
@@ -33,7 +33,7 @@ Miriam Metzger, Andrew Flanagin, Paul Mena, Shan Jiang, and Christo Wilson
 
 * **Modeling and Measuring Expressed (Dis)belief in (Mis)information**  
 Shan Jiang, Miriam Metzger, Andrew Flanagin, and Christo Wilson  
-\[ [ICWSM’20](icwsm20_paper.pdf) \]
+\[[ICWSM’20](icwsm20_paper.pdf)\]
 In *Proc. of the International AAAI Conference on Web and Social Media*, 2020  
 [<span class="label label-grey">paper</span>](icwsm20_paper.pdf)
 [<span class="label label-grey">bibtex</span>](icwsm20_bib.txt)
@@ -45,7 +45,7 @@ In *Proc. of the International AAAI Conference on Web and Social Media*, 2020
 
 * **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**  
 Shan Jiang, Simon Baumgartner, Abe Ittycheriah, and Cong Yu  
-\[ [WWW’20](www20_paper.pdf) \]
+\[[WWW’20](www20_paper.pdf)\]
 In *Proc. of the Web Conference*, 2020  
 [<span class="label label-grey">paper</span>](www20_paper.pdf)
 [<span class="label label-grey">bibtex</span>](www20_bib.txt)
@@ -57,7 +57,7 @@ In *Proc. of the Web Conference*, 2020
 
 * **Reasoning about Political Bias in Content Moderation**  
 Shan Jiang, Ronald E. Robertson, and Christo Wilson  
-\[ [AAAI’20](aaai20_paper.pdf) \]
+\[[AAAI’20](aaai20_paper.pdf)\]
 In *Proc. of the AAAI Conference on Artificial Intelligence*, 2020  
 [<span class="label label-grey">paper</span>](aaai20_paper.pdf)
 [<span class="label label-grey">bibtex</span>](aaai20_bib.txt)
@@ -70,7 +70,7 @@ In *Proc. of the AAAI Conference on Artificial Intelligence*, 2020
 
 * **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
 Shan Jiang, Ronald E. Robertson, and Christo Wilson  
-\[ [ICWSM’19](icwsm19_paper.pdf) \]
+\[[ICWSM’19](icwsm19_paper.pdf)\]
 In *Proc. of the International AAAI Conference on Web and Social Media*, 2019  
 [<span class="label label-grey">paper</span>](icwsm19_paper.pdf)
 [<span class="label label-grey">bibtex</span>](icwsm19_bib.txt)
@@ -84,7 +84,7 @@ In *Proc. of the International AAAI Conference on Web and Social Media*, 2019
 
 * **Crisis Sub-Events on Social Media: A Case Study of Wildfires**  
 Shan Jiang, William Groves, Sam Anzaroot, and Alejandro (Alex) Jaimes  
-\[ [AISG’19](aisg19_paper.pdf) \]
+\[[AISG’19](aisg19_paper.pdf)\]
 In *Proc. of the AI for Social Good Workshop*, 2019  
 [<span class="label label-grey">paper</span>](aisg19_paper.pdf)
 [<span class="label label-grey">bibtex</span>](aisg19_bib.txt)
@@ -93,7 +93,7 @@ In *Proc. of the AI for Social Good Workshop*, 2019
 
 * **Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation**  
 Ronald E. Robertson, Shan Jiang, David Lazer, and Christo Wilson  
-\[ [WebSci’19](websci19_paper.pdf) \]
+\[[WebSci’19](websci19_paper.pdf)\]
 In *Proc. of the ACM Web Science Conference*, 2019  
 [<span class="label label-grey">paper</span>](websci19_paper.pdf)
 [<span class="label label-grey">bibtex</span>](websci19_bib.txt)
@@ -101,7 +101,7 @@ In *Proc. of the ACM Web Science Conference*, 2019
 
 * **Auditing the Partisanship of Google Search Snippets**  
 Desheng Hu, Shan Jiang, Ronald E. Robertson, and Christo Wilson  
-\[ [WWW’19](www19_paper.pdf) \]
+\[[WWW’19](www19_paper.pdf)\]
 In *Proc. of the Web Conference*, 2019  
 [<span class="label label-grey">paper</span>](www19_paper.pdf)
 [<span class="label label-grey">bibtex</span>](www19_bib.txt)
@@ -109,7 +109,7 @@ In *Proc. of the Web Conference*, 2019
 
 * **Who’s the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
 Shan Jiang, John Martin, and Christo Wilson  
-\[ [FAccT’19](facct19_paper.pdf) \]
+\[[FAccT’19](facct19_paper.pdf)\]
 In *Proc. of the ACM Conference on Fairness, Accountability, and Transparency*, 2019  
 [<span class="label label-grey">paper</span>](facct19_paper.pdf)
 [<span class="label label-grey">bibtex</span>](facct19_bib.txt)
@@ -120,7 +120,7 @@ In *Proc. of the ACM Conference on Fairness, Accountability, and Transparency*, 
 
 * **Surge Pricing on a Service Platform under Spatial Spillovers: Evidence from Uber**  
 Kyungmin (Brad) Lee, Marcus Bellamy, Nitin Joglekar, Shan Jiang, and Christo Wilson  
-\[ [AoM’19](ssrn18_paper.pdf) \]
+\[[AoM’19](ssrn18_paper.pdf)\]
 In *Proc. of the Academy of Management Annual Meeting*, 2019  
 [<span class="label label-grey">report</span>](ssrn18_paper.pdf)
 [<span class="label label-grey">bibtex</span>](ssrn18_bib.txt)
@@ -129,7 +129,7 @@ In *Proc. of the Academy of Management Annual Meeting*, 2019
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, and Christo Wilson  
-\[ [CSCW’18a](cscw18a_paper.pdf) \]
+\[[CSCW’18a](cscw18a_paper.pdf)\]
 *Proc. of the ACM: Human-Computer Interaction*, 2(CSCW), 2018  
 [<span class="label label-grey">paper</span>](cscw18a_paper.pdf)
 [<span class="label label-grey">bibtex</span>](cscw18a_bib.txt)
@@ -142,7 +142,7 @@ Shan Jiang, and Christo Wilson
 
 * **Auditing Partisan Audience Bias within Google Search**  
 Ronald E. Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, and Christo Wilson  
-\[ [CSCW’18b](cscw18b_paper.pdf) \]
+\[[CSCW’18b](cscw18b_paper.pdf)\]
 *Proc. of the ACM: Human-Computer Interaction*, 2(CSCW), 2018  
 [<span class="label label-grey">paper</span>](cscw18b_paper.pdf)
 [<span class="label label-grey">bibtex</span>](cscw18b_bib.txt)
@@ -153,7 +153,7 @@ Ronald E. Robertson, Shan Jiang, Kenneth Joseph, Lisa Friedland, David Lazer, an
 
 * **On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi**  
 Shan Jiang, Le Chen, Alan Mislove, and Christo Wilson  
-\[ [WWW’18](www18_paper.pdf) \]
+\[[WWW’18](www18_paper.pdf)\]
 In *Proc. of the Web Conference*, 2018  
 [<span class="label label-grey">paper</span>](www18_paper.pdf)
 [<span class="label label-grey">bibtex</span>](www18_bib.txt)
@@ -163,7 +163,7 @@ In *Proc. of the Web Conference*, 2018
 
 * **TNCs Today: A Profile of San Francisco Transportation Network Company Activity**  
 Joe Castiglione, Tilly Chang, Drew Cooper, Jeff Hobson, Warren Logan, Eric Young, Billy Charlton, Christo Wilson, Alan Mislove, Le Chen, and Shan Jiang  
-\[ [SFCTA’17](sfcta17_paper.pdf) \]
+\[[SFCTA’17](sfcta17_paper.pdf)\]
 Report available on *San Francisco County Transportation Authority*, 2017  
 [<span class="label label-grey">report</span>](sfcta17_paper.pdf)
 [<span class="label label-grey">bibtex</span>](sfcta17_bib.txt)
@@ -173,7 +173,7 @@ Report available on *San Francisco County Transportation Authority*, 2017
 
 * **Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism**  
 Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, and Jingyu Wang  
-\[ [TIIS’16](tiis16_paper.pdf) \]
+\[[TIIS’16](tiis16_paper.pdf)\]
 *KSII Transactions on Internet and Information Systems*, 10(5), 2016  
 [<span class="label label-grey">paper</span>](tiis16_paper.pdf)
 [<span class="label label-grey">bibtex</span>](tiis16_bib.txt)
@@ -181,7 +181,7 @@ Jianxin Liao, Jun Gong, Shan Jiang, Tonghong Li, and Jingyu Wang
 
 * **Interactions among Overlays and Traffic Engineering: Equilibrium and Cooperation without Payment**  
 Shan Jiang, Jun Gong, Jingyu Wang, Jianxin Liao, and Tonghong Li  
-\[ [GlobeCom’15](globecom15_paper.pdf) \]
+\[[GlobeCom’15](globecom15_paper.pdf)\]
 In *Proc. of the IEEE Global Communications Conference*, 2015  
 [<span class="label label-grey">paper</span>](globecom15_paper.pdf)
 [<span class="label label-grey">bibtex</span>](globecom15_bib.txt)
@@ -189,7 +189,7 @@ In *Proc. of the IEEE Global Communications Conference*, 2015
 
 * **Competitive Equilibrium and Stable Coalition in Overlay Environments**  
 Shan Jiang, Jianxin Liao, Jun Gong, Jingyu Wang, and Tonghong Li  
-\[ [LCN’15](lcn15_paper.pdf) \]
+\[[LCN’15](lcn15_paper.pdf)\]
 In *Proc. of the IEEE Conference on Local Computer Networks*, 2015  
 [<span class="label label-grey">paper</span>](lcn15_paper.pdf)
 [<span class="label label-grey">bibtex</span>](lcn15_bib.txt)
@@ -197,7 +197,7 @@ In *Proc. of the IEEE Conference on Local Computer Networks*, 2015
 
 * **Combination Feature for Image Retrieval in the Distributed Datacenter**   
 Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun, and Shan Jiang  
-\[ [ICPADS’14](icpads14_paper.pdf) \]
+\[[ICPADS’14](icpads14_paper.pdf)\]
 In *Proc. of the IEEE International Conference on Parallel and Distributed Systems*, 2014  
 [<span class="label label-grey">paper</span>](icpads14_paper.pdf)
 [<span class="label label-grey">bibtex</span>](icpads14_bib.txt)

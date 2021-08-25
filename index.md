@@ -3,9 +3,9 @@ layout: page
 title: about
 ---
 
-Hi! I’m Shan Jiang [江](https://en.wikipedia.org/wiki/Ji%C4%81ng_(surname_%E6%B1%9F))[山](https://en.wikipedia.org/wiki/Radical_46) (he/him). I’m joining <img src="images/logos/facebook.svg" width="15"> [Facebook](https://engineering.fb.com) as a Research Scientist in Aug, 2021.
+<img src="images/shanjiang.jpeg" style="float:left;" width="180">
 
-<img src="images/shanjiang.jpeg" style="float:right;" width="50">
+Hi! I’m Shan Jiang [江](https://en.wikipedia.org/wiki/Ji%C4%81ng_(surname_%E6%B1%9F))[山](https://en.wikipedia.org/wiki/Radical_46) (he/him). I’m joining <img src="images/logos/facebook.svg" width="15"> [Facebook](https://engineering.fb.com) as a Research Scientist in Aug, 2021.
 
 I received my Ph.D. in Computer Science from <img src="images/logos/northeastern.png" width="13"> [Northeastern University](https://www.northeastern.edu) advised by <img src="../images/icons/like.svg" width="15"> [Christo Wilson](https://cbw.sh). My [thesis](publications/thesis.pdf) measures the **misinformation** ecosystem from its players’ behaviors, *e.g.*, how storytellers manipulate information \[[ACL’21](publications/acl21_paper.pdf)\], how audiences respond to it \[[ICWSM’20](publications/icwsm20_paper.pdf), [CSCW’18a](publications/cscw18a_paper.pdf)\], and how platforms intervene in the middle \[[AAAI’20](publications/aaai20_paper.pdf), [ICWSM’19](publications/icwsm19_paper.pdf), [CSCW’18b](publications/cscw18b_paper.pdf)\].
 

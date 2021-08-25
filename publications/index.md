@@ -129,7 +129,7 @@ In *Proc. of the Academy of Management Annual Meeting*, 2019
 
 * **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
 Shan Jiang, and Christo Wilson  
-\[[CSCW’18a](cscw18a_paper.pdf)\]
+\[[CSCW’18](cscw18a_paper.pdf)\]
 *Proc. of the ACM: Human-Computer Interaction*, 2(CSCW), 2018  
 [<span class="label label-grey">paper</span>](cscw18a_paper.pdf)
 [<span class="label label-grey">bibtex</span>](cscw18a_bib.txt)

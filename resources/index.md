@@ -19,7 +19,7 @@ The dataset contains 6,000+ URLs of fact-checks and their claims, claimants and 
 
 ### Misinformation
 
-* **Code** for \[[ICWSM’20](/publications/icwsm20_paper.pdf)\] and \[[CSCW’18a](/publications/cscw18a_paper.pdf)\].  
+* **Code** for \[[ICWSM’20](/publications/icwsm20_paper.pdf)\] and \[[CSCW’18](/publications/cscw18a_paper.pdf)\].  
 The code repository to replicate our results and figures.  
 [<span class="label label-grey">link</span>](https://github.com/printfoo/misinfo-cscw2018-icwsm2020)
 
@@ -27,15 +27,15 @@ The code repository to replicate our results and figures.
 The dataset contains 6,000+ tweets annotated with belief and disbelief labels.  
 [<span class="label label-grey">download</span>](annotations.zip)
 
-* **User Comments** dataset used in \[[ICWSM’20](/publications/icwsm20_paper.pdf)\] and \[[CSCW’18a](/publications/cscw18a_paper.pdf)\].  
+* **User Comments** dataset used in \[[ICWSM’20](/publications/icwsm20_paper.pdf)\] and \[[CSCW’18](/publications/cscw18a_paper.pdf)\].  
 The dataset contains 2,600,000+ social media comments in reply to above posts.  
 [<span class="label label-grey">facebook</span>](comments/facebook.bz2) [<span class="label label-grey">youtube</span>](comments/youtube.bz2) [<span class="label label-grey">twitter</span>](comments/twitter.bz2)
 
-* **Social Media Posts** dataset used in \[[CSCW’18a](/publications/cscw18a_paper.pdf)\].  
+* **Social Media Posts** dataset used in \[[CSCW’18](/publications/cscw18a_paper.pdf)\].  
 The dataset contains 5,000+ social media posts and their veracity judged by Snopes or PolitiFact.  
 [<span class="label label-grey">download</span>](factchecks.csv)
 
-* **ComLex** lexicon used in \[[CSCW’18a](/publications/cscw18a_paper.pdf)\].  
+* **ComLex** lexicon used in \[[CSCW’18](/publications/cscw18a_paper.pdf)\].  
 The lexicon contains 300 categories but only the top 56 named ones are human validated.  
 [<span class="label label-grey">download</span>](ComLex.csv)
 

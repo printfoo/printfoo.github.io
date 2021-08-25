@@ -4,18 +4,18 @@ title: about
 ---
 
 <div style="float:left;padding-right:20px">
-    <img src="images/shanjiang.jpeg" width="150">
+    <img src="images/shanjiang.jpeg" width="118">
     <figcaption>
-        <img src="../images/logos/google_scholar.svg" width="14">
+        <img src="../images/logos/google_scholar.svg" width="12">
         <a href="https://scholar.google.com/citations?user=0LITOxAAAAAJ">Google Scholar</a>
     </figcaption>
     <figcaption>
-        <img src="../images/icons/cv.svg" width="14">
+        <img src="../images/icons/cv.svg" width="12">
         <a href="shanjiang-cv.pdf">Curriculum Vitae</a>
     </figcaption>
     <figcaption>
-        <img src="../images/icons/email.svg" width="14">
-        <a href="mailto:sjiang@ccs.neu.edu">sjiang@ccs.neu.edu</a>
+        <img src="../images/icons/email.svg" width="12">
+        <a href="mailto:shanj@fb.com">shanj@fb.com</a>
     </figcaption>
 </div>
 

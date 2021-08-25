@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-<div style="float:left;padding-right:20px">
+<div style="float:left;padding:0px 50px 20px 0px;">
     <img src="images/shanjiang.jpeg" width="118">
     <figcaption>
         <img src="../images/logos/google_scholar.svg" width="12">

@@ -3,7 +3,9 @@ layout: page
 title: about
 ---
 
-<img src="images/shanjiang.jpeg" style="float:left;" width="180">
+<div style="border:10; overflow:hidden;">
+    <img src="images/shanjiang.jpeg" style="float:left;" width="180">
+</div>
 
 Hi! I’m Shan Jiang [江](https://en.wikipedia.org/wiki/Ji%C4%81ng_(surname_%E6%B1%9F))[山](https://en.wikipedia.org/wiki/Radical_46) (he/him). I’m joining <img src="images/logos/facebook.svg" width="15"> [Facebook](https://engineering.fb.com) as a Research Scientist in Aug, 2021.
 

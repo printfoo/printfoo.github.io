@@ -1,0 +1,301 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Configuration
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Themes: Awesome-CV
+\documentclass[letterpaper]{awesome-cv}
+\hypersetup{pdfinfo={
+  Title={CV | Shan Jiang},
+  Author={Shan Jiang}
+}}
+%%% Override a directory location for fonts(default: 'fonts/')
+\fontdir[fonts/]
+
+%%% Configure a directory location for sections
+\newcommand*{\sectiondir}{cv/}
+
+%%% Override color
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+%% Color for highlight
+% Define your custom color if you don't like awesome colors
+\definecolor{awesome}{HTML}{1877f2}
+
+%%% Override a separator for social informations in header(default: ' | ')
+%\headersocialsep[\quad\textbar\quad]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     3rd party packages
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Needed to divide into several files
+\usepackage{import,ulem,svg}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Personal Data
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Essentials
+%\name{Shan Jiang \hspace{0ex} \sectionstyle{ | \hspace{0.1ex} R\'esum\'e}}
+\name{Shan Jiang \hspace{0ex} \sectionstyle{ | \hspace{0.2ex} Curriculum Vitae}}
+\address{10865 Willows Rd, 02.B.07A, Redmond, WA 98052}
+\mobile{(+1) 781-502-8799}
+%%% Social
+\email{shanj@fb.com}
+\homepage{shanjiang.me}
+\github{printfoo}
+\linkedin{shan-jiang}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Content
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Make a footer for CV with three arguments(<left>, <center>, <right>)
+\makecvfooter
+  {\today}
+  {}
+  {Shan Jiang}
+
+\begin{document}
+%%% Make a header for CV with personal data
+\makecvheader
+
+\addvspace{4ex}
+\cvsection{Education}
+\addvspace{1ex}
+
+\begin{cventries}
+  \cventrynodescription
+    {Ph.D. in Computer Science \hspace{0.2ex} \descriptionstyle{| \hspace{0.2ex} Advisor: Christo Wilson}}
+    {\includegraphics[width=0.016\textwidth]{../images/logos/northeastern.png}~ Northeastern University}
+    {Boston, MA}
+    {Sep 2016 - Jul 2021}
+    {}
+ \cventrynodescription
+    {B.B.A. in Management Information Systems \hspace{0.2ex} \descriptionstyle{| \hspace{0.2ex} Rank: 1/46}}
+    {\includegraphics[width=0.016\textwidth]{../images/logos/bupt.png}~ Beijing University of Posts and Telecommunications}
+    {Beijing, China}
+    {Sep 2012 - Jul 2016}
+    {}
+\end{cventries}
+
+\addvspace{2ex}
+\cvsection{Experience}
+\addvspace{1ex}
+
+\begin{cventries}
+  \cventry
+    {Research Scientist @ On-Device NLU and Dialog, Assistant AI Team}
+    {\includegraphics[width=0.016\textwidth]{../images/logos/rl.png}~ Reality Labs, \hspace{0.2ex} \includegraphics[width=0.018\textwidth]{../images/logos/meta.png}~ Meta}
+    {Redmond, WA}
+    {Aug 2021 - Now}
+    {
+      \begin{cvitems}
+        \item {Natural language understanding and dialog modeling for reliable and privacy-preserving conversational AI assistant.}
+      \end{cvitems}
+    }
+  \cventry
+    {Machine Learning Intern @ Illicit Trade, Dangerous Content Team}
+    {\includegraphics[width=0.016\textwidth]{../images/logos/facebook.png}~ Facebook, \hspace{0.2ex} \includegraphics[width=0.018\textwidth]{../images/logos/meta.png}~ Meta}
+    {Seattle, WA}
+    {Jun 2020 - Sep 2020}
+    {
+      \begin{cvitems}
+        \item {Weak supervision and multitask learning for detecting illicit trade posts, \entrylocationstyle{productionized}.}
+      \end{cvitems}
+    }
+  \cventry
+    {Software Engineer intern @ Fact Check, Structured Data Team}
+    {\includegraphics[width=0.016\textwidth]{../images/logos/google_ai.png}~ Google AI, \hspace{0.2ex} \includegraphics[width=0.015\textwidth]{../images/logos/google.png}~ Google}
+    {New York, NY}
+    {Jun 2019 - Aug 2019}
+    {
+      \begin{cvitems}
+        \item {Information extraction from fact-checking articles with BERT, \entrylocationstyle{productionized} and published at \entrylocationstyle{WWW'20}.}
+      \end{cvitems}
+    }
+  \cventry
+    {Research Intern @ AI and Data Science Team}
+    {\includegraphics[width=0.016\textwidth]{../images/logos/dataminr.png}~ Dataminr}
+    {New York, NY}
+    {Feb 2019 - Apr 2019}
+    {
+      \begin{cvitems}
+        \item {Crisis sub-event detection for emergency management via dependency parsing, published at \entrylocationstyle{AISG'19}@ICML.}
+      \end{cvitems}
+    }
+  \cventry
+    {Research and Teaching Assistant @ Khoury College of Computer Sciences}
+    {\includegraphics[width=0.016\textwidth]{../images/logos/northeastern.png}~ Northeastern University}
+    {Boston, MA}
+    {Sep 2016 - Jul 2021}
+    {
+      \begin{cvitems}
+        \item {Research on misinformation, algorithmic bias, computational social science, and natural language processing.}
+        \item {\entrylocationstyle{Award-winning} publications at \entrylocationstyle{ACL'21}, \entrylocationstyle{AAAI'20}, \entrylocationstyle{CSCW'18}, \entrylocationstyle{ICWSM'19/20}, \entrylocationstyle{WWW'18/19}, etc.}
+      \end{cvitems}
+    }
+  \cventry
+    {Research Assistant @ School of Computing}
+    {\includegraphics[width=0.016\textwidth]{../images/logos/nus.png}~ National University of Singapore}
+    {Singapore}
+    {Dec 2015 - May 2016}
+    {
+      \begin{cvitems}
+        \item {Economic modeling of cryptocurrency mining behaviors under risk aversion.}
+      \end{cvitems}
+    }
+  \cventry
+    {Research Assistant @ Institute of Network Technology}
+    {\includegraphics[width=0.016\textwidth]{../images/logos/bupt.png}~ Beijing University of Posts and Telecommunications}
+    {Beijing, China}
+    {Oct 2013 - Dec 2015}
+    {
+      \begin{cvitems}
+        \item {Game-theoretic modeling of overlay networks and traffic engineering, published at \entrylocationstyle{GlobeCom'15}, \entrylocationstyle{LCN'15}, etc.}
+      \end{cvitems}
+    }
+\end{cventries}
+
+\addvspace{1.5ex}
+\cvsection{Publications}
+\addvspace{1ex}
+
+\begin{cventries}
+  \cvpub
+    {\href{https://shanjiang.me/publications/acl21_paper.pdf}{Structurizing Misinformation Stories via Rationalizing Fact-Checks}}
+    {ACL'21}
+    {\entrylocationstyle{Shan Jiang} and Christo Wilson}
+    {acceptance rate: 21\%}
+    {\descriptionstyle{In} Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), 2021}
+  \cvpubspecialtwo
+    {\href{https://shanjiang.me/publications/facct21_paper.pdf}{Building and Auditing Fair Algorithms: A Case Study in Candidate Screening}}
+    {FAccT'21}
+    {Christo Wilson, Avijit Ghosh, \entrylocationstyle{Shan Jiang}, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel and Frida Polli}
+    {acceptance rate: 25\%}
+    {\descriptionstyle{In} Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2021}
+  \cvpub
+    {\href{https://shanjiang.me/publications/mac21_paper.pdf}{From Dark to Light: The Many Shades of Sharing Misinformation Online}}
+    {MaC'21}
+    {Miriam Metzger, Andrew Flanagin, Paul Mena, \entrylocationstyle{Shan Jiang} and Christo Wilson}
+    {journal paper}
+    {Media and Communication 9(1), 2021}
+  \cvpub
+    {\href{https://shanjiang.me/publications/icwsm20_paper.pdf}{Modeling and Measuring Expressed (Dis)belief in (Mis)information}}
+    {ICWSM'20}
+    {\entrylocationstyle{Shan Jiang}, Miriam Metzger, Andrew Flanagin and Christo Wilson}
+    {acceptance rate: 17\%}
+    {\descriptionstyle{In} Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2020}
+  \cvpub
+    {\href{https://shanjiang.me/publications/www20_paper.pdf}{Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles}}
+    {WWW'20}
+    {\entrylocationstyle{Shan Jiang}, Simon Baumgartner, Abe Ittycheriah and Cong Yu}
+    {acceptance rate: 19\%}
+    {\descriptionstyle{In} Proceedings of the Web Conference (WWW), 2020}
+  \cvpub
+    {\href{https://shanjiang.me/publications/aaai20_paper.pdf}{Reasoning about Political Bias in Content Moderation}}
+    {AAAI'20}
+    {\entrylocationstyle{Shan Jiang}, Ronald E Robertson and Christo Wilson}
+    {invited paper: 100\%}
+    {\descriptionstyle{In} Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020}
+  \cvpubspecial
+    {\href{https://shanjiang.me/publications/icwsm19_paper.pdf}{Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation}}
+    {ICWSM'19}
+    {\entrylocationstyle{Shan Jiang}, Ronald E Robertson and Christo Wilson}
+    { \entrydatestylecolored{outstanding analysis paper: 0.4\%} | acceptance rate: 21\%}
+    {\descriptionstyle{In} Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2019}
+  \cvpub
+    {\href{https://shanjiang.me/publications/aisg19_paper.pdf}{Crisis Sub-Events on Social Media: A Case Study of Wildfires}}
+    {AISG'19\descriptionstyle{@ICML}}
+    {\entrylocationstyle{Shan Jiang}, William Groves, Sam Anzaroot and Alejandro Jaimes}
+    {oral presentation: 18\%}
+    {\descriptionstyle{In} Proceedings of the AI for Social Good Workshop (AISG@ICML), 2019}
+  \cvpub
+    {\href{https://shanjiang.me/publications/websci19_paper.pdf}{Auditing Autocomplete: Suggestion Networks and Recursive Algorithm Interrogation}}
+    {WebSci'19}
+    {Ronald E Robertson, \entrylocationstyle{Shan Jiang}, David Lazer and Christo Wilson}
+    {acceptance rate: 24\%}
+    {\descriptionstyle{In} Proceedings of the ACM Web Science Conference (WebSci), 2019}
+  \cvpub
+    {\href{https://shanjiang.me/publications/www19_paper.pdf}{Auditing the Partisanship of Google Search Snippets}}
+    {WWW'19}
+    {Desheng Hu, \entrylocationstyle{Shan Jiang}, Ronald E Robertson and Christo Wilson}
+    {acceptance rate: 18\%}
+    {\descriptionstyle{In} Proceedings of the Web Conference (WWW), 2019}
+  \cvpub
+    {\href{https://shanjiang.me/publications/facct19_paper.pdf}{Who's the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild}}
+    {FAccT'19}
+    {\entrylocationstyle{Shan Jiang}, John Martin and Christo Wilson}
+    {acceptance rate: 24\%}
+    {\descriptionstyle{In} Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2019}
+  \cvpub
+    {\href{https://shanjiang.me/publications/cscw18a_paper.pdf}{Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media}}
+    {CSCW'18}
+    {\entrylocationstyle{Shan Jiang} and Christo Wilson}
+    {acceptance rate: 26\%}
+    {Proceedings of the ACM: Human-Computer Interaction (PACM HCI), 2(CSCW), 2018}
+  \cvpub
+    {\href{https://shanjiang.me/publications/cscw18b_paper.pdf}{Auditing Partisan Audience Bias within Google Search}}
+    {CSCW'18}
+    {Ronald E Robertson, \entrylocationstyle{Shan Jiang}, Kenneth Joseph, Lisa Friedland, David Lazer and Christo Wilson}
+    {\entrydatestylecolored{honorable mention: 2.7\%} | acceptance rate: 26\%}
+    {Proceedings of the ACM: Human-Computer Interaction (PACM HCI), 2(CSCW), 2018}
+  \cvpub
+    {\href{https://shanjiang.me/publications/www18_paper.pdf}{On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi}}
+    {WWW'18}
+    {\entrylocationstyle{Shan Jiang}, Le Chen, Alan Mislove and Christo Wilson}
+    {acceptance rate:15\%}
+    {\descriptionstyle{In} Proceedings of the Web Conference (WWW), 2018}
+  \cvpub
+    {\href{https://shanjiang.me/publications/tiis16_paper.pdf}{Conflicts in Overlay Environments: Inefficient Equilibrium and Incentive Mechanism}}
+    {KSII-TIIS'16}
+    {Jianxin Liao, Jun Gong, \entrylocationstyle{Shan Jiang}, Tonghong Li and Jingyu Wang}
+    {journal paper}
+    {KSII Transactions on Internet and Information Systems, 10(5), 2016}
+  \cvpub
+    {\href{https://shanjiang.me/publications/globecom15_paper.pdf}{Interactions of Overlays and Traffic Engineering: Equilibrium and Cooperation without Payment}}
+    {GlobeCom'15}
+    {\entrylocationstyle{Shan Jiang}, Jun Gong, Jingyu Wang, Jianxin Liao and Tonghong Li}
+    {acceptance rate: 35\%}
+    {\descriptionstyle{In} Proceedings of the IEEE Global Communications Conference (GlobeCom), 2015}
+  \cvpub
+    {\href{https://shanjiang.me/publications/lcn15_paper.pdf}{Competitive Equilibrium and Stable Coalition in Overlay Environments}}
+    {LCN'15}
+    {\entrylocationstyle{Shan Jiang}, Jianxin Liao, Jun Gong, Jingyu Wang and Tonghong Li}
+    {acceptance rate: 30\%}
+    {\descriptionstyle{In} Proceedings of the IEEE Conference on Local Computer Networks (LCN), 2015}
+  \cvpub
+    {\href{https://shanjiang.me/publications/icpads14_paper.pdf}{Combination Feature for Image Retrieval in the Distributed Datacenter}}
+    {ICPADS'14}
+    {Di Yang, Jianxin Liao, Qi Qi, Jingyu Wang, Haifeng Sun and \entrylocationstyle{Shan Jiang}}
+    {acceptance rate: 30\%}
+    {\descriptionstyle{In} Proceedings of the IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2014}
+\end{cventries}
+
+\addvspace{3ex}
+\cvsection{Service}
+\addvspace{1ex}
+
+\begin{cventries}
+  \cvaward
+    {Associate Chair}
+    {CSCW}
+    {2021}
+  \cvaward
+    {Program Committee \& Reviewer}
+    {AAAI, CSCW, ICWSM, NeurIPS, WebSci}
+    {2021}
+  \cvaward
+    {}
+    {CHI, CSCW, ICWSM, WebSci}
+    {2020}
+  \cvaward
+    {}
+    {ASONAM, CHI, CSCW, ICWSM}
+    {2019}
+  \cvaward
+    {}
+    {CSCW, WWW}
+    {2018}
+\end{cventries}
+
+\end{document}

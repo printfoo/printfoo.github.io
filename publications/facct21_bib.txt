@@ -1,0 +1,7 @@
+@inproceedings{wilson2021building,
+  author = {Christo Wilson and Avijit Ghosh and Shan Jiang and Alan Mislove and Lewis Baker and Janelle Szary and Kelly Trindel and Frida Polli},
+  title = {Building and Auditing Fair Algorithms: A Case Study in Candidate Screening},
+  booktitle = {Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2021)},
+  month = {March},
+  year = {2021}
+}
